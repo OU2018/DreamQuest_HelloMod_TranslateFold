@@ -1,0 +1,30 @@
+en_Assassin,Channel:  Whenever the assassin plays an action card, she gains 2 mana.
+en_Bard,Sing: The bard learns songs, each of which may be used every three combats and has a temporary effect.
+en_Dragon,Devour: Every three combats the dragon may devour a non-boss creature, gaining experience as well as other benefits. \n Hoard: The dragon may spend gold to increase the size of its hoard, gaining draconic abilities in the process.
+en_Druid,Shapeshifting: After each combat, the druid alternates forms between human and wolf.  In human form, her deck has no attack cards while as a wolf she has neither mana nor spell cards.
+en_Monk,Meditate:  Every four combats the monk may enter a deep trance which allows him to forget one of his cards.
+en_Necromancer,Portal: Every three combats, the necromancer may open a gate at a monster's location, swapping places with it.
+en_Paladin,Holy War: Every two combats, the paladin automatically upgrades an attack card in her deck.
+en_Professor,Research:  In combat the professor may search his opponent's deck for a card to place in his hand and permanently add to his deck.
+en_Ranger,Invisibility: Every four combats, the ranger may turn invisible, passing unnoticed through monsters until he interacts with the dungeon.
+en_Samurai,Bushido: Whenever the samurai defeats an opponent of his level or higher, he heals completely.
+zh_Assassin,通道：每当刺客使用行动卡时，她获得2点魔法值。
+zh_Bard,歌唱：吟游诗人学习歌曲，每首歌曲每三场战斗使用一次，并且具有临时效果。
+zh_Dragon,<<DungeonAction|Devour>>：每三场战斗，龙可以吞噬一个非首领怪物，获得经验以及其他好处。\\n囤积：龙可以花费金币增加宝藏的数量，在此过程中获得龙族能力。
+zh_Druid,变形：每场战斗后，德鲁伊在人的形态和狼的形态之间切换。在人形态下，她的牌组没有<<SK|Attack>>卡，而在狼形态下，她没有<<SK|mana>>卡和<<SK|Spell>>卡。
+zh_Monk,<<DungeonAction|Meditate>>：每四场战斗，武僧可以进入深度冥想，使他忘记一张牌。
+zh_Necromancer,<<DungeonAction|Portal>>：每三场战斗，死灵法师可以在怪物所在的位置打开一个传送门，与怪物交换位置。
+zh_Paladin,<<DungeonAction|Holy War>>：每两场战斗，圣骑士会自动提升她牌组中的一张攻击卡。
+zh_Professor,研究：在战斗中，教授可以从对手的牌组中搜寻一张牌，将其放入自己的手牌，并永久加入到自己的牌组中。
+zh_Ranger,<<DungeonAction|Invisibility>>：每四场战斗，游侠可以变得隐形，悄无声息地穿过怪物，直到与地下城互动。
+zh_Samurai,武士道：每当武士击败与自己等级相同或更高的对手时，他会完全恢复生命。
+en_Random,Your adventurer will be from a class chosen at random from among your unlocked professions that can earn achievements.
+zh_Random,从你未锁定，且可以获得成就的职业中随机选择一个。
+en_Priest,Oracle:  Every two combats the priest can use his magic to reveal a tile and the eight squares around it.
+zh_Priest,<<DungeonAction|Oracle>>：每两次战斗后，牧师就可以使用他的魔力驱散以一个图格为中心的九宫格地图上的迷雾（获得视野）。
+en_Thief,Find Treasure:  Every four combats the thief can use his sixth sense to uncover a treasure that no one else would find.
+zh_Thief,<<DungeonAction|Find Treasure>>：每四场战斗后，盗贼可以使用他的第六感来找到一个未被任何人触及的宝箱。
+en_Warrior,Smash:  After every two combats the warrior can use her rage to destroy a wall in the dungeon.
+zh_Warrior,<<DungeonAction|Smash>>：每两次战斗后，战士可以使用她的怒火摧毁地牢中的一面墙壁。
+en_Wizard,Teleport:  After each combat the wizard can use his magic to teleport himself anywhere on the map, even otherwise undiscovered locations.
+zh_Wizard,<<DungeonAction|Teleport>>：每场战斗后，法师都可以使用他们的魔力来将自己传送到地图上的任意位置，即使是到未被发现的角落。

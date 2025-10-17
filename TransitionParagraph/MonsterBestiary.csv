@@ -1,0 +1,142 @@
+Monster Identifier,Bestiary Entry
+en_Kobold,Weak monster.  Special card is Cower which lets him avoid damage from a single source. \\n \\n Tips: Play something weak to check for Cower before you go for the kill.
+en_Goblin,Weak monster.  Special card is a Goblin Ally, an equipment that will hurt you each turn. \\n \\n Tips: Very weak, so kill them when you need a level up or to reset cooldowns.
+en_DiscipleOfChaos,Random monster.  Damage is random and has a special card which has random effects.  Tends to damage himself. \\n \\n Tips: Play defense and let him take care of himself.
+en_Pixie,Magical monster.  Does enormous damage but has low health. \\n \\n Tips: Kill her very quickly or she can deal massive damage.
+en_UssuriTracker,Evasive monster.  Does high damage and blocks your first play each turn. \\n \\n Tips: Play a weak card into her avoid each turn so that you can then play your stronger attacks.
+en_Skeleton,Weak monster.  Special card is Bone Shield which blocks a small amount of damage. \\n \\n Tips: Deal steady damage and then take him out when the shield is down.
+en_Zombie,Poisonous monster.  Special card is Zombie Bite which kills you in a few turns. \\n \\n Tips: Be prepared to deal enough damage to kill him in 5 turns.
+en_AkamiShaman,Magical monster.  Special card is Mana Totem which generates additional mana for him each turn. \\n \\n Tips: Kill him quickly before the mana totem gets out of hand.
+en_Orc,Brawny monster.  Has minimal defenses, but does reasonable damage with swords. \\n \\n Tips: Disrupt him if possible.  If he can't use his sword, his damage is minimal.
+en_Wyvern,Poisonous monster.  Has large amounts of poison but no defenses, so take it down quickly. \\n \\n Tips: Deal lots of damage or use protection against poison.
+en_VampireBat,Weak monster.  Special card is Vampire Bite which allows him to heal a small amount. \\n \\n Tips: Be ready for the heal, but otherwise not particularly dangerous.
+en_GiantSpider,Poisonous monster.  Has a mix of poison and defense.  His web makes you lose an action as well as a card, so be careful what you discard. \\n \\n Tips: Be aware of your number of actions, but kill him before the poison is too much.
+en_Piranha,Aggressive monster.  Deals massive, stacking damage. \\n \\n Tips: Kill him very quickly before his damage scales out of control.
+en_Ooze,Disruptive monster.  Eats cards from your hand and regenerates health each turn. \\n \\n Tips: Don't rely on just a single card and make sure you can outdamage his healing.
+en_Griffon,Defensive monster.  Special card is Fly which makes him invulnerable for a turn. \\n \\n Tips: Take advantage of the turn you can't damage him to sculpt a strong hand to finish him off once he lands.
+en_Medusa,Disruptive monster.  Adds curses to your deck and then deals damage to you based on the number of curses in your hand. \\n \\n Tips: Either be prepared to kill her quickly or use card filtering abilities like Inner Peace to handle the curses.
+en_GoblinMechanist,Random monster.  Copies all your equipment and builds very powerful equipment each turn.  Except when he blows himself up. \\n \\n Tips: Unequip any equipment that you can't handle and be careful about what you play.  Get damage in early.
+en_FaerieRogue,Disruptive monster.  Very strong against action and attack cards, using Disorient to hit you with your own actions and Riposte to negate your attacks. \\n \\n Tips: Bait the reaction cards using your weaker attacks and actions first, then finish him with your more powerful cards.
+en_Brownie,Disruptive monster.  Very high dodge chance and has Counterspell which negates your spells \\n \\n Tips: Use powerful action cards.  If you use spells, use your least powerful and cheaper ones first, then your stronger ones.
+en_Clone,You.  In disguise.  Plays exactly the same deck as you with high health and good starting mana. \\n \\n Tips: Break the symmetry with equipped equipment or your special combat abilities.
+en_Harpy,Poisonous monster.  Has Screech which negates spells and high poison damage. \\n \\n Tips: Bait the Screech with a weak spell and kill her before the poison becomes too much.
+en_Banshee,Defensive monster.  Resists physical damage.  Makes you discard cards and drains your life to heal her. \\n \\n Tips: Be prepared for her physical resistance and use elemental damage cards or cards that do more than 1 physical damage.
+en_Wisp,Magical monster.  <Physical immune.>  Deals damage equal to his mana with Discharge, so be prepared for large damage early in the fight. \\n \\n Tips: Have non-physical damage or wait for his discharge to take him down.
+en_Troll,Defensive monster.  Regenerates health each turn.  Deals damage based on his current health. \\n \\n Tips: Deal as much damage as early as possible to reduce the impact of Slam.
+en_StoneGolem,Defensive monster.  <Resists elemental damage.>  Has slam which deal damage based on his current health. \\n \\n Tips: Deal large amounts of physical damage early to reduce the effect of his Slams.
+en_AkamiStormcaller,Aggressive monster.  Has a Haste Totem which lets him draw increasing numbers of cards each turn. \\n \\n Tips: Much of his damage comes from different sources, so chill and damage reduction are particularly effective.
+en_AkamiMuckcaller,Magical monster.  Has a Shock Totem which deals increasing amounts of damage.  Uses spells to make you discard cards and lose actions. \\n \\n Tips: Kill him quickly or remove the totem.
+en_UssuriTrickster,Invisible monster.  Jumps on you when you least expect it and then takes the first turn.  Blocks your first card each turn. \\n \\n Tips: Don't explore at low health if possible.  In combat, reduce her physical damage and play weaker cards first.
+en_UssuriHunter,Evasive monster.  Restricts the amount of time you have for each turn and blocks your first play. \\n \\n Tips: Ten seconds is more time than it seems, so play smart even if it takes a little longer.
+en_Ghoul,Aggressive monster.  Completely invincible, but loses a card in hand each turn until he dies. \\n \\n Tips: Focus entirely on defense, particularly in the first couple of turns.  Consider holding your non-stacking defensive cards rather than replacing them with damaging cards.
+en_Wraith,Disruptive monster.  <Resists physical damage.>  His special card, Soul Crush, is blocked by most defensive abilities, so try to maintain a defense as much as possible. \\n \\n Tips: Soul Crush is always played first, so use whatever you can to block it.  Armor is particularly effective.
+en_Siren,Disruptive monster.  Her special card, Beckon, exiles cards from your hand.  Also has healing and protective spells. \\n \\n Tips: Make sure your strategy works even without particular cards.  She has low damage, so you have time to set up with things like poison or equipment.
+en_StormGiant,Brawny monster.  Has significant armor, health, and solid damage.  Not at all disruptive, but all-around powerful. \\n \\n Tips: Tests the strength of your deck.  If you can take out his equipment, he is much weaker.  Alternatively, deal damage early to weaken his Slams.
+en_RedDragon,Brawny monster. <Immune to Fire damage.>  Has high health, good damage, and some disruption.  \\n \\n Tips: Save your physical damage for when he doesn't have damage reduction.  Otherwise, straightforward but powerful.
+en_BlackDragon,Invisible monster.  <Immune to Earth damage.>  Does enormous poison damage and attacks when you are unprepared.  \\n \\n Tips: Don't explore unless you need to or are ready for him.  Kill him as quickly as possible if you can't negate his poison damage.
+en_YellowDragon,Disruptive monster.  <Immune to Air damage.>  Reduces your number of actions and drains your starting mana. \\n \\n Tips: Make sure you can generate mana and have enough actions.  Drains your mana periodically, so spend it as you have it.  Or don't use mana or actions and just kill him with attack cards.
+en_WhiteDragon,Disruptive monster.  <Immune to Water damage.>  Reduces your number of cards in hand by one and makes you discard frequently.  \\n \\n Tips: Watch out for his Frost Shield which reflects some damage and make sure your deck is consistent enough to survive a smaller hand.
+en_Treant,Defensive monster.  <Permanently resilient.>  Does reasonable, stacking physical damage. \\n \\n Tips: Make sure you can either deal piercing damage or lots of small damage pieces.  His damage is fairly low, so defensive strategies are most effective.
+en_Demon,Disruptive monster.  Fills your deck with curses at the start of the fight. \\n \\n Tips: Synergistic strategies are weak to the demon.  Decks with very powerful individual cards tend to do much better.
+en_HandOfGlory,Disruptive monster.  <Physical and Elemental Resistant.>  Makes you damage yourself every other turn. \\n \\n Tips: Minimize the damage you deal to yourself while under Dance Puppets.  Saving some of your weakest cards, for example, can save your life.
+en_Sphinx,Disruptive monster.  Forbids the card type that is most common in your hand each turn.  Ties are broken by changing type. \\n \\n Tips: Hold cards in hand that are not your most common type so that you can function.  Use Teach to get card types that are uncommon in your deck.
+en_Revenant,Defensive monster.  When he dies, he returns much more powerful. \\n \\n Tips: Take advantage of his weak first form to set up and sculpt a perfect hand.  He is invincible the first turn he transitions, but afterwards unload with your best cards.
+en_Hag,Disruptive monster.  She replaces several cards in your hand with curses and uses Curse of Doom to kill you slowly. \\n \\n Tips: She has limited defenses, so kill her as quickly as possible before your deck becomes badly diluted.
+en_Efreet,Aggressive monster.  Makes both players draw 3 additional cards each turn. \\n \\n Tips: Use the extra cards to kill him as fast as possible before his burning damage is able to kill you.
+en_Ghost,Invisible monster. <Resists physical damage,>  Drains your health each turn and blocks some of your card plays. \\n \\n Tips: Be careful when you are exploring and make sure you have non-physical damage.  Kill him quickly before the health drain becomes overwhelming.
+en_FireElemental,Aggressive monster.  <Immune to Fire damage,> weak to Water damage.  Deals large amounts of fire damage and, at later levels, burns you each turn \\n \\n Tips: Kill him before his burning can overwhelm you.
+en_AirElemental,Aggressive monster.  <Immune to Air damage,> weak to Earth damage.  Draws extra cards each turn, more as the fight goes on. \\n \\n Tips: Kill him or reduce his damage before his extra cards overwhelm you.
+en_WaterElemental,Disruptive monster.  <Immune to Water damage,> weak to Fire damage.  Reduces your hand size over time and makes you discard. \\n \\n Tips: Recurring damage sources work well since his damage is low.  Otherwise, high burst at the start is your best chance.
+en_EarthElemental,Poisonous monster.  <Immune to Earth damage,> weak to Air damage.  Poisons you each turn for a significant amount. \\n \\n Tips: He has limited defense, so try to mitigate the poison damage or just kill him before it's too much of a problem.
+en_Mage,Magical monster.  Deals enormous amounts of damage, but has low health. \\n \\n Tips: Kill him as fast as possible.  If he gets even one turn, he can do a ton of damage, particularly at high levels.
+en_Priest,Defensive monster.  Has large amounts of healing and shielding, biding time for his prayers to kill you \\n \\n Tips: Outdamage his defenses.  At high levels, be aware of the second life from his Phoenix Feather and plan accordingly.
+en_Thief,Aggressive monster.  Deals high damage, mostly in small pieces. \\n \\n Tips: Kill him quickly or disrupt his combo, either with discard or reaction cards.
+en_Warrior,Brawny monster.  Has high health and does reasonable damage, especially at high levels. \\n \\n Tips: Be prepared to handle physical damage and wear him down.
+en_GoblinHoarder,Cowardly monster.  Uses Cower and other defensive cards to try to run away.  Carries significant gold. \\n \\n Tips: Don't let him get away!
+en_MimicMonster,Aggressive monster.  Very frail, but throws coins to deal significant damage.  The longer you can hold out, though, the more gold you get!  \\n \\n Tips: Don't be greedy!
+en_GoblinKing,Brawny boss.  Summons Goblin minions each turn that deal damage.  At higher levels can draw extra cards from his minions. \\n \\n Tips: Kill him before he has too many minions or reduce his physical damage.
+en_IceQueen,Disruptive boss.  <Immune to Water damage.> Reduces your hand size and has defensive spells and reasonable damage. \\n \\n Tips: Early on, try to end the fight as quickly as possible.  On the third floor, consider taking the Smart talent at level 10 to counteract her aura.
+en_Mime,Mimicking boss.  Copies many of the cards you play at random. \\n \\n Tips: Reenact has a fairly high chance to occur, so try to bait it with your weaker cards.  Try to set up strong recurring damage, particularly from equipment.
+en_ChromaticDemon,Defensive boss.  <Resistant to elemental damage.>  Plays a large variety of elemental cards \\n \\n Tips: Watch his mana and be careful not to die to Electrocute.  Otherwise, protect yourself from elemental damage and try to deal mostly physical.
+en_Titan,Brawny boss.  <Immune to Air damage.>  Has high health, damage, strong equipment, and reduces your number of actions. \\n \\n Tips: Make sure you have enough actions.  Piercing damage and equipment destruction are particularly effective.
+en_AkamiAscendent,Magical boss.  Relies on totems to give him mana, draw him cards, and deal damage.  Has some disruptive cards and excellent damage if left unchecked. \\n \\n Tips: Kill him quickly before the totems become a problem.
+en_UssuriWarQueen,Evasive boss.  Blocks some of the cards you play each turn. \\n \\n Tips: Play weak cards into her blocks.  Her deck is much weaker the second time through once she spends her Pounces, so take advantage of that.
+en_GelatinousCube,Disruptive boss.  Eats some of the cards you play to give him additional health. \\n \\n Tips:  Restrict yourself to your strongest cards.  His damage is generally not very high, so defensive cards are fairly effective.  Recurring sources of damage like equipment are also very powerful.
+en_Vampire,Disruptive boss.  <Immune to Earth damage.>  Steals your cards to use against you and has a small amount of healing. \\n \\n Tips: Fight through the healing and use recurring damage like prayers or equipment to get around his Enthrall cards.
+en_Genie,Magical boss.  Has shielding effects and allows you to choose various dooms. \\n \\n Tips: Try to pick the least damaging Wishes you can.  Things involving cards and curses are particularly dangerous, so choose them only as a last resort.
+en_Hydra,Aggressive boss.  Deals large amounts of damage each turn and heals any non-Earth or Fire damage completely each turn. \\n \\n Tips: Dealing damage forces it to discard cards which buys you time to either deal fire or earth damage or to set up a single big turn to finish it.
+en_Phoenix,Aggressive boss.  <Immune to Fire damage.>  When it dies, it transforms into an egg which must be defeated the same turn. \\n \\n Tips: Save your damage for the turn you defeat the phoenix so that you can take out the egg before the bird returns.
+en_GiantSquid,Disruptive boss.  Reduces your maximum hand size and also uses Ink Spray to limit your number of cards per turn. \\n \\n Tips: Only play cards you need to.  Card drawing effects are particularly bad, but the Kraken's damage is fairly low.
+zh_Kobold,脆弱。特殊卡牌：【<<CardName|Cower>>】:抵消一次伤害。\\n在准备出手攻击之前先用一张伤害较小的牌试探一下。
+zh_Goblin,脆弱。特殊卡牌：【<<CardName|Goblin Ally>>】:每回合造成少量伤害。\\n非常弱小的怪物，当你需要升级或者冷却技能的时候就来消灭它吧。
+zh_DiscipleOfChaos,混乱。攻击随机造成伤害。特殊卡牌：【<<CardName|Chaos Prayer>>】随机触发一种效果（更容易伤害到自己）。\\n做好防御，把剩下的交给他自己吧。
+zh_Pixie,魔力。可以造成大量伤害但是生命值很低。\\n在她造成大量前尽可能快的消灭掉。
+zh_UssuriTracker,灵敏。无效化你每回合打出的第一张卡牌。\\n在每个回合进行攻击前先打出一张牌来抵消她的能力。
+zh_Zombie,剧毒。特殊卡牌：【<<CardName|Zombie Bite>>】五个回合之后杀死你。\\n尽可能的在5回合内将它消灭。
+zh_AkamiShaman,魔力。特殊卡牌：【<<CardName|Mana Totem>>】每回合产生一些法力。\\n在魔法图腾产生的效果失去你的控制之前将其消灭。
+zh_Orc,野蛮。可以使用他自己的武器来造成很多伤害。\\n如果能够想办法把他的武器去掉，那么他能造成的伤害会大大减小。
+zh_Wyvern,剧毒，但是没有防御能力。\\n快速消灭或者是做好对应当毒属性伤害的措施。
+zh_VampireBat,脆弱。特殊卡牌：【<<CardName|Vampire Bite>>】少量回复自身生命值。\\n并不是特别的危险，做好恢复血量的准备即可。
+zh_GiantSpider,剧毒。同时拥有剧毒的螯牙和坚硬的外壳，而且它的蛛网会让你同时失去一次行动次数和一张手牌。\\n注意你剩余的行动次数，在中毒太重之前消灭它。
+zh_Piranha,善战。造成的伤害会越来越高。\\n在其伤害失控前尽快解决它。
+zh_Ooze,干扰。吃掉你手中的牌并且每回合恢复一些生命值。\\n避免你使用的卡组只依赖某一张牌，并且尽可能保证你的伤害超过它的恢复量。
+zh_Griffon,防御。特殊卡牌：【<<CardName|Fly>>】直到下一回合前不再受到任何伤害。\\n在狮鹫腾空之后不会再受到任何伤害，可以先保存手牌等待下一回合狮鹫降落后快速击杀它。
+zh_Medusa,干扰。在你的牌组中添加诅咒卡，并根据你手牌中的诅咒卡数量造成伤害。\\n要么尽快消灭她，要么通过一些手段净化卡组。
+zh_GoblinMechanist,混乱。\\n复制你所有的装备并且每回合都能制造出非常强大的装备。卸下那些会对你造成困扰的装备，尽快消灭它。
+zh_FaerieRogue,干扰。拥有非常强大的反制卡和攻击卡，可以使用【迷失方向】来反制你的攻击，使用【格挡反击】来无效化你的攻击。\\n先用较弱的卡牌来引诱他反制，然后用更强大的卡牌干掉他。
+zh_Brownie,干扰。有很高的几率闪避你的攻击，并且拥有抵消法术攻击的反制牌。\\n最强大的法术牌要放到最后使用。
+zh_Clone,另一个你，与你使用完全相同的卡组。\\n使用装备牌和特殊能力来打破平衡。
+zh_Harpy,剧毒。可以用尖叫来抵消受到的法术攻击并造成毒属性伤害。\\n使用较弱的法术牌来引诱它尖叫，并且在中毒过重之前消灭它。
+zh_Banshee,防御。抵抗物理伤害，丢弃你的手牌并且吸食你的血液。\\n使用元素伤害卡或是造成可以多次物理伤害的卡牌。
+zh_Wisp,魔法。 < 免疫物理伤害 > 每次放电都会造成相当于其法力值的伤害。\\n使用非物理攻击造成伤害，或者在放电时消灭它。
+zh_Troll,防御。他的生命值越高，造成的伤害越高。每回合可以恢复一些生命值。\\n尽早对其造成大量伤害来削弱他。
+zh_StoneGolem,防御。 < 抵抗元素伤害 > 生命值越低时造成的伤害越高。\\n当它生命值较低的时候，尽量在一个回合中造成大量物理伤害来消灭它。
+zh_AkamiStormcaller,攻击。每个回合抽到的手牌越来越多。\\n他的大部分伤害来自不同的来源，所以冷却和减少伤害特别有效。
+zh_AkamiMuckcaller,魔法。每回合造成的伤害越来越多，可以使用法术攻击来丢弃你的手牌并且减少你的行动点数。\\n迅速杀死它或是移除它的装备图腾。
+zh_UssuriTrickster,隐形。从你最意想不到的地方突然发动攻击，然后强制开始回合，每回合无效化你的第一张牌。\\n尽量不要在生命值较低使探索地图，每回合先打出较弱的牌。
+zh_UssuriHunter,灵敏。限制你每回合的时间，并无效化你的第一张牌。\\n10秒比你想的要长，仔细思考一下，不要着急。
+zh_Ghoul,攻击。无法被攻击，但每回合都会失去一张手牌，没有手牌时死亡。\\n完全专注于防御。
+zh_Wraith,干扰。 < 免疫物理伤害 > 特殊卡牌：【<<CardName|Soul Crush>>】丢弃手牌并受到伤害。\\n用护甲抵抗【<<CardName|Soul Crush>>】是一种正确的选择
+zh_Siren,干扰。特殊卡牌：【<<CardName|Beckon>>】丢弃一些对手的卡牌。\\n小心她的特殊卡牌，除此之外她的伤害并不算高，放心的布置你的装备和毒素吧。
+zh_StormGiant,善战。卓越的血量，护甲以及可怕的攻击力。\\n尝试卸下它的装备。
+zh_RedDragon,善战。 < 免疫火属性伤害 > 不错的生命值，不错的伤害，不错的干扰能力。\\n当它没有减伤时不要对它发动攻击，否则它会轻松而有力的消灭你。
+zh_BlackDragon,隐形。 < 免疫土属性伤害 > 突然发动攻击，会造成大量毒属性伤害。\\n尽量不要在血量较少时探索，并且做好对毒属性伤害的应对。
+zh_Treant,防御。 < 持续恢复 > 持续强化物理伤害。\\n伤害较低，做好防御之后再慢慢解决它。
+zh_Demon,干扰。回合开始时在你的牌组中加入诅咒卡。\\n恶魔对协同性很强的卡组来说影响巨大。
+zh_HandOfGlory,干扰。 < 抵抗物理和元素伤害 > 使你每隔一个回合都会伤害到自己。\\n在会受到自我伤害的回合前保留一些较弱的牌可可能会救你的命。
+zh_Sphinx,干扰。每回合禁止你使用手牌中数量最多的类型手牌。\\n将不是最常见类型的手牌留在手里可以发挥出一定作用。
+zh_Ghost,隐形。 < 抵抗物理伤害 > 可以无效化你的一些牌同时下每回合消耗你的部分生命值。\\n探索地图时保持谨慎，确保你有足够的非物理伤害来应对它。
+zh_WaterElemental,干扰。 < 免疫水属性伤害 > 受到的火属性伤害加倍，丢弃你的一些手牌并逐渐减少你的手牌上限。\\n回合刚开始的时候就做好准备全力输出。
+zh_EarthElemental,剧毒。 < 免疫土属性伤害 > 受到的<<SK|AIR>>属性伤害翻倍，每回合都会造成大量毒属性伤害。\\n它的防御能力有限，在无法处理毒属性伤害前尽快将其消灭、
+zh_Mage,魔法。可以造成大量伤害但是生命值较低。\\n尽可能的快速击杀他，否则在一回合之后他会造成大量的伤害。
+zh_Priest,防御。拥有大量的治疗和防御手段，并且会在祈祷结束之后造成大量伤害。\\n高等级时的神父会拥有凤凰羽毛给予的第二条生命，请提前做好应对。
+zh_Thief,攻击。会连续造成很多次轻微的伤害。\\n快速击杀或者用反制卡打断他的连击。
+zh_Warrior,善战。拥有很高的生命以及伤害，尤其是在高等级时。\\n\\n做好应对物理攻击的准备。
+zh_GoblinHoarder,懦弱。它想要携带大量黄金逃跑。\\n\\n拦住他！
+zh_MimicMonster,攻击。血量很低，可以通过向你投掷金币来造成大量伤害，你坚持的时间越久，能获得的金币也就越多。\\n不要贪婪！
+zh_GoblinKing,每回合召唤小哥布林造成伤害，高等级时可以从小哥布林手上额外获得卡牌。\\n在他召唤过多小哥布林之前消灭他
+zh_IceQueen,极具破坏性的怪物。 <免疫水属性伤害。> 减少你的手牌数量，有防御魔法和合理的伤害。\\n\\n 提示：早期尽可能快地结束战斗。在第三层，考虑在10级时选择聪明才智天赋来抵消她的光环。
+zh_Mime,一个各方面都在模仿你的生物。随机复制你使用的许多牌。\\n\\n 提示：“重演”很有可能发生，所以试着用弱卡牌诱使它。尝试设置强大的可持续性伤害，特别是装备方面。
+zh_ChromaticDemon,具有强大的防御力。 <抵抗元素伤害。> 打出各种元素牌。\\n\\n 提示：观察他的魔法值，小心不要死于【触电】。另外，保护你自己免受元素伤害，尽可能使用物理攻击。
+zh_Titan,非常强大的生物。 <免疫<<SK|AIR>>属性伤害。> 有很高的生命值，伤害，强大的装备，并能减少你的行动次数。\\n\\n提示：确保你有足够的行动点。穿刺伤害和装备破坏特别有效。
+zh_AkamiAscendent,使用强大魔法的生物。依赖图腾给他魔法值，抽卡和造成伤害。有一些破坏性的牌和出色的伤害，如果不加控制的话。\\n\\n 提示：在图腾成为问题之前快速破坏它。
+zh_UssuriWarQueen,每回合抵消你打出的一些牌。\\n\\n优先使用不够强力的牌来进行抵消。
+zh_GelatinousCube,具有强大破坏性的怪物。吞食你打出的一些牌来增加他的生命值。\\n\\n 提示：限制使用最强大的牌。他的伤害通常不是很高，所以防御牌相当有效。装备等可持续性伤害源也非常强大。
+zh_Vampire, < 免疫土属性伤害 > 可以偷走你的牌用来对付你，还可以少量的恢复自身生命。\\n\\n使用祷告牌或者装备牌来躲过它的窃取
+zh_Genie, 拥有防御护盾并且会赠送你三个“愿望”。\\n\\n尽量选择损失最小的愿望，而涉及到卡牌和诅咒卡的选项都非常危险，不到万不得已的情况下千万不要选择。
+zh_Hydra,每回合造成大量伤害并且在回合结束后治疗自身受到的所有除了土属性和火属性之外的所有伤害。\\n对其造成伤害来逐渐削减它的生命值上限。
+zh_Phoenix, < 免疫火属性伤害 > 死亡后变化为一枚凤凰蛋，如果没有及时消灭的话会在下一回合复活。\\n在凤凰快要被击败时保留部分伤害卡牌用以对付凤凰蛋。
+zh_GiantSquid,具有极强破坏性的怪物。减少你的最大手牌数量，还使用【喷墨】限制你每回合的牌数。\\n\\n 提示：只使用你需要的牌。抽牌效果尤其糟糕，但乌贼的伤害相当低。
+zh_Skeleton,弱小的怪物。 特殊卡牌是<<CardName|Bone Shield>>， 可以抵挡少量伤害 \\n \\n 提示：持续输出伤害，等盾牌消失后再击败他。
+zh_AirElemental,攻击。 < 免疫<<SK|AIR>>属性伤害 > 受到的土属性伤害加倍，每回合抽取更多的手牌。在它手牌数多到无法处理之前尽快的消灭它。
+zh_FireElemental,攻击。 < 免疫火属性伤害 > 受到的水属性伤害加倍，每回合都会对你造成灼伤。尽快的消灭它，避免承受过多的灼烧伤害。
+zh_Efreet,攻击。双方每回合多抽三张手牌。\\n \\n小心它的燃烧伤害，尽快利用多抽到的牌消灭它。
+zh_Lich,使用魔法的强大生物。 <免疫地属性伤害。> 当他的魂器正在使用时不可杀死。使用【黑暗疗愈】根据他的失血量造成伤害。\\n\\n 提示：攻击他的魂器。不要让他残血，否则黑暗治疗会杀死你；要么等待其播放，要么打造强大的手牌，一回合击杀他。
+zh_Magmadon, < 免疫火属性伤害 > 你的每次出牌都会对自己造成伤害。\\n \\n 尽量只使用最强的牌。
+zh_GiantShark,极具攻击性的怪物。造成巨大的伤害，随着时间的推移而叠加。\\n \\n 提示：他没有破坏性的招数，所以尽可能快地造成尽可能多的伤害。
+zh_CumuloNimbus,  < 抵抗物理并免疫<<SK|AIR>>属性伤害 > 消耗你的法力和行动点。\\n \\n 制造非物理伤害。
+zh_YellowDragon,干扰。 < 免疫<<SK|AIR>>属性伤害 > 减少你的行动点数以及起始法力。\\n \\n 确保你有足够的法力或者行动点，或者只使用攻击牌。
+zh_WhiteDragon,干扰。 < 免疫水属性伤害 > 使你的手牌数减少一张，并时常迫使你弃牌。\\n \\n 尽量避免你的牌组过分依赖某几张卡牌。
+zh_Hag,干扰。她会用诅咒牌替换你的一些手牌，并使用末日诅咒来慢慢的杀死你。\\n \\n 她的防御能力有限，在卡牌被严重消耗之前尽快的消灭她。
+zh_Revenant,防御。死亡后会以更强大的形态复活。\\n \\n 在它比较弱小的第一形态时做足准备，以便在它复活后将其快速消灭。
+zh_Unicorn,十分擅长防御。每回合会恢复生命值。\\n \\n 提示：持续性伤害，尤其是毒素，很有效，因为她的攻击力很弱。或者，高爆发伤害可以解决她恢复生命值的问题。

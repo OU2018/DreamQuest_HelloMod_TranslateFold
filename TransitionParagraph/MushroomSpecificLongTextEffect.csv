@@ -1,0 +1,19 @@
+en_GAIN_HEALTH,You gain {value} maximum health!zh_GAIN_HEALTH,你获得了 {value} 点最大生命值！
+en_LOSE_HEALTH,You lose {value} maximum health!
+zh_LOSE_HEALTH,你失去了 {value} 点最大生命值！
+en_GAIN_MANA,You gain {value} maximum mana!
+zh_GAIN_MANA,你获得了 {value} 点最大法力值！
+en_LOSE_MANA,You lose {value} maximum mana!
+zh_LOSE_MANA,你失去了 {value} 点最大法力值！
+en_GAIN_EXP,You gain {value} experience!
+zh_GAIN_EXP,你获得了 {value} 点经验！
+en_LOSE_EXP,You lose {value} experience!
+zh_LOSE_EXP,你失去了 {value} 点经验！
+en_DAMAGE,You take {value} damage!
+zh_DAMAGE,你受到了 {value} 点伤害！
+en_HEAL,You heal {value} health!
+zh_HEAL,你恢复了 {value} 点生命值！
+en_TELEPORT,You find yourself somewhere else...
+zh_TELEPORT,你发现自己来到了别的地方…
+en_CURSE,You feel dangerously sick and add a curse card to your deck
+zh_CURSE,你感觉自己快要生病了，并向卡组中加入了一张诅咒卡。

@@ -1,0 +1,8 @@
+en_NAME_STARTS_WITH,Cards whose names start with the letter '{value}'
+zh_NAME_STARTS_WITH,名字以”{value}“开头的卡牌
+en_NAME_CONTAINS,Cards whose names contain the letter '{value}'
+zh_NAME_CONTAINS,名字包含”{value}“的卡牌
+en_CARD_TYPE,{value} cards
+zh_CARD_TYPE,{value} 卡牌
+en_LEVELABLE,Cards that have multiple ranks
+zh_LEVELABLE,拥有多个等级的卡牌（右上角有Level n/n）

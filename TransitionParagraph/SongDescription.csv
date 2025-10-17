@@ -1,0 +1,40 @@
+en_AnthemOfAmbush,Start the next fight with 3 additional cards
+en_ArmingAria,You begin the next combat with two random pieces of equipment
+en_BellicoseBallad,Your attack cards deal double damage in the next combat
+en_BlazingBeat,In the next combat, draw a temporary fireball card at the start of each turn
+en_CadenzaOfCelerity,You have +3 actions for the next combat
+en_ChantOfClarity,Start the next combat with 30 additional mana
+en_ChoraleOfChaos,In the next fight, you and your opponent swap decks
+en_DreadfulDirge,Your opponent loses 3 current and maximum health at the start of each of your turns in the next combat
+en_EnlightenedElegy,In the next combat, whenever you would draw a card during your turn, instead search your deck for a card and put it into your hand
+en_HealingHarmony,Generate three health packs at random on the map
+en_HeroicHymn,Your maximum hand size is increased by one in the next fight
+en_KnavishNocturne,You are invisible until you interact with the dungeon
+en_MiserlyMinuet,You receive double the gold from the next combat
+en_PiercingPaean,In the next fight, damage you deal is piercing
+en_PugilistsPolka,In the next combat, whenever you would draw a card during your turn, deal 3 physical damage to your opponent
+en_RhapsodyOfRecall,In the next fight, at the beginning of each turn, return all Spell cards from your graveyard to your hand
+en_RollickingRondo,In the next fight, whenever you play an Action card, draw a card
+en_SoothingSerenade,You regenerate four health per turn in the next combat
+en_StoutSonata,In the next fight, you have 20 additional health
+en_VileVibrato,In the next fight, whenever you play an Action card, your opponent is Poisoned for 1
+zh_AnthemOfAmbush,下一场战斗开始前多抽3张牌
+zh_ArmingAria,下一场战斗开始时随机获得两件装备
+zh_BellicoseBallad,下一场战斗中，你的攻击牌造成双倍伤害
+zh_BlazingBeat,下一场战斗中，每个回合开始时抽取一张临时火球卡牌
+zh_CadenzaOfCelerity,下一场战斗中，你的行动点数增加3
+zh_ChantOfClarity,下一场战斗开始时，你额外获得30点法力值
+zh_ChoraleOfChaos,下一场战斗中，你和对手交换卡组
+zh_DreadfulDirge,下一场战斗中，每个你的回合开始时，对手失去3点当前生命值和3点最大生命值
+zh_EnlightenedElegy,下一场战斗中，在你的回合中每次抽卡时，你可以从牌库中搜索一张牌加入手牌
+zh_HealingHarmony,在地图的随机位置生成三个生命值回复包
+zh_HeroicHymn,在下一场战斗中，你的最大手牌数增加一张
+zh_KnavishNocturne,在你与地牢进行互动之前，你将一直处于隐形状态
+zh_MiserlyMinuet,你在下一场战斗中的金币奖励翻倍
+zh_PiercingPaean,在下一场战斗中，你所造成的伤害为穿刺伤害。
+zh_PugilistsPolka,在下一场战斗中，每当你在回合中抽到一张牌，就对你的对手造成3点物理伤害。
+zh_RhapsodyOfRecall,在下一场战斗中，每回合开始时，将你弃牌堆中的所有咒术牌移回你手牌。
+zh_RollickingRondo,在下一场战斗中，每当你使用一张行动牌时，抽一张牌。
+zh_SoothingSerenade,在下一场战斗中，每回合你回复四点生命值。
+zh_StoutSonata,在下一场战斗中，你的生命值额外增加20点。
+zh_VileVibrato,在下一场战斗中，每当你使用一张行动牌时，你的对手会获得 1 层中毒。

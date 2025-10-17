@@ -1,0 +1,20 @@
+en_GAIN_HEALTH,+{value} Health!
+zh_GAIN_HEALTH,+{value} 生命值！
+en_LOSE_HEALTH,-{value} Health!
+zh_LOSE_HEALTH,-{value} 生命值！
+en_GAIN_MANA,+{value} Mana!
+zh_GAIN_MANA,+{value} 法力值！
+en_LOSE_MANA,-{value} Mana!
+zh_LOSE_MANA,-{value} 法力值！
+en_GAIN_EXP,+{value} Exp!
+zh_GAIN_EXP,+{value} 经验值！
+en_LOSE_EXP,-{value} Exp!
+zh_LOSE_EXP,-{value} 经验值！
+en_DAMAGE,{value} Damage!
+zh_DAMAGE,{value} 伤害！
+en_HEAL,{value} Healing!
+zh_HEAL,{value} 治疗！
+en_TELEPORT,Lost...
+zh_TELEPORT,迷失...
+en_CURSE,Curse!
+zh_CURSE,诅咒！

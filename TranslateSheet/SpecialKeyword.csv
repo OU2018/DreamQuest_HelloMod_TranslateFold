@@ -1,0 +1,93 @@
+en,zh,note
+Mana,法力,
+mana,法力,
+Ussuri,猫妖,
+Akami,蜥蜴人,
+Undead,不死族,
+Faeries,精灵,
+Elementals,元素族,
+Dragons,龙,
+Goblins,哥布林,
+creatures,怪物,
+adventurers,冒险者,
+Boss,领主,
+boss,领主,
+Elite,精英,
+elite,精英,
+ - Damaged, - 已损毁,
+Level,等级,
+elementals,元素族,
+faeries,精灵,
+dragons,龙,
+talent,赐福,
+Talent,赐福,
+gold,金币,
+Gold,金币,
+experience,经验值,
+Exp,经验,
+health,生命值,
+Lord of the Dream,梦境之主,
+Passives,被动技能,
+action,行动,
+Action,行动,
+ability,技能,
+Dungeon Ability,地牢技能,
+dungeon ability,地牢技能,
+cooldowns,冷却时间,
+cooldown,冷却时间,
+Cooldown,冷却时间,
+non-boss,非领主,
+action card,行动卡,
+shield,护盾,
+experience,经验值,
+combat Ability,战斗技能,
+Combat Ability,战斗技能,
+combats,战斗,
+combat,战斗,
+FIRE,火,
+AIR,雷,
+EARTH,土,
+WATER,水,
+Spell,咒术,
+Attack,攻击,
+Other,其他,
+Reaction,反制,
+Equipment,装备,
+Prayer,祷告,
+Mana,法力,
+spell,咒术,CARD
+action,行动,CARD
+attack,攻击,CARD
+other,其他,CARD
+reaction,反制,CARD
+equipment,装备,CARD
+prayer,祷告,CARD
+mana,法力,CARD
+Weakened,弱化,
+Poisoned,中毒,
+temporary,临时,
+Chilled,寒冻,
+Overhealing,过愈,
+piercing,穿刺,
+Hillditi,希尔迪蒂,
+Fully Heal,完全治愈,DEVOUR
+Mana,初始法力,DEVOUR
+Gained,获得,DEVOUR
+Damage Taken!,抽到伤害！,DEVOUR
+Card,卡牌,DEVOUR
+Action,行动点,DEVOUR
+Equipment Slot,装备槽,DEVOUR
+Max Health,最大生命值,DEVOUR
+Healing!,治愈吧！,CARDEFFECT
+Flame!,火焰呐！,CARDEFFECT
+Madness!,疯狂吧！,CARDEFFECT
+Sloth!,怠惰吧！,CARDEFFECT
+Yuck,恶心,
+Extra Turn!,额外回合！,
+<Temporary>,<临时>,
+Knowledge!,知识哟！,CARDEFFECT
+Wrath!,天火啊！,CARDEFFECT
+Protection!,保护啊！,CARDEFFECT
+Death!,天罚啊！,CARDEFFECT
+Speed!,急速啊！,CARDEFFECT
+Armored!,武装吧！,CARDEFFECT

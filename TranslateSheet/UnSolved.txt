@@ -1,0 +1,435 @@
+CardList.cardList.Add(new CardData("Attack1", new PreferenceWrapper[0], 5, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "AttackCard", DamageTypes.NONE, "Attack (1)"));
+CardList.cardList.Add(new CardData("Attack2", new PreferenceWrapper[0], 5, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)10, (float)2, 1, 2, "AttackCard", DamageTypes.NONE, "Attack (2)"));
+CardList.cardList.Add(new CardData("Attack3", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)10, (float)2, 2, 2, "AttackCard", DamageTypes.NONE, "Attack (3)"));
+CardList.cardList.Add(new CardData("Attack4", new PreferenceWrapper[0], 15, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)10, (float)2, 2, 2, "AttackCard", DamageTypes.NONE, "Attack (4)"));
+CardList.cardList.Add(new CardData("StormSlash1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.AIR, BiasType.FREQUENCY, 1)
+}, 10, new UserAttribute[0], false, null, (float)3, (float)2, (float)6, (float)1, 1, 2, "AttackCard", DamageTypes.NONE, "Storm Slash (1)"));
+CardList.cardList.Add(new CardData("StormSlash2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.AIR, BiasType.FREQUENCY, 1)
+}, 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 2, 2, "AttackCard", DamageTypes.NONE, "Storm Slash (2)"));
+CardList.cardList.Add(new CardData("StormSlash3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.AIR, BiasType.FREQUENCY, 1)
+}, 30, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 2, "AttackCard", DamageTypes.NONE, "Storm Slash (3)"));
+CardList.cardList.Add(new CardData("FrostSlash1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.WATER, BiasType.FREQUENCY, 1)
+}, 10, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 1, 2, "AttackCard", DamageTypes.NONE, "Frost Slash (1)"));
+CardList.cardList.Add(new CardData("FrostSlash2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.WATER, BiasType.FREQUENCY, 1)
+}, 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 2, 2, "AttackCard", DamageTypes.NONE, "Frost Slash (2)"));
+CardList.cardList.Add(new CardData("FrostSlash3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.WATER, BiasType.FREQUENCY, 1)
+}, 30, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 2, "AttackCard", DamageTypes.NONE, "Frost Slash (3)"));
+CardList.cardList.Add(new CardData("FlameSlash1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.FIRE, BiasType.FREQUENCY, 1)
+}, 10, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 1, 2, "AttackCard", DamageTypes.NONE, "Flame Slash (1)"));
+CardList.cardList.Add(new CardData("FlameSlash2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.FIRE, BiasType.FREQUENCY, 1)
+}, 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 2, 2, "AttackCard", DamageTypes.NONE, "Flame Slash (2)"));
+CardList.cardList.Add(new CardData("FlameSlash3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.FIRE, BiasType.FREQUENCY, 1)
+}, 30, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 2, "AttackCard", DamageTypes.NONE, "Flame Slash (3)"));
+CardList.cardList.Add(new CardData("CorrosiveSlash1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.EARTH, BiasType.FREQUENCY, 1)
+}, 10, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 1, 2, "AttackCard", DamageTypes.NONE, "Corrosive Slash (1)"));
+CardList.cardList.Add(new CardData("CorrosiveSlash2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.EARTH, BiasType.FREQUENCY, 1)
+}, 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 2, 2, "AttackCard", DamageTypes.NONE, "Corrosive Slash (2)"));
+CardList.cardList.Add(new CardData("CorrosiveSlash3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.EARTH, BiasType.FREQUENCY, 1)
+}, 30, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 2, "AttackCard", DamageTypes.NONE, "Corrosive Slash (3)"));
+CardList.cardList.Add(new CardData("CollosusSmash", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.WARRIOR, BiasType.TIER, -1)
+}, 15, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 3, 2, "AttackCard", DamageTypes.NONE, "Colossus Smash"));
+CardList.cardList.Add(new CardData("SunderingStrike", new PreferenceWrapper[0], 90, new UserAttribute[] { UserAttribute.BOSSGIANTSHARK }, false, null, (float)2, (float)2, (float)10, (float)1, 8, 1, "AttackCard", DamageTypes.NONE, "Sundering Strike"));
+CardList.cardList.Add(new CardData("SunderingStrike1", new PreferenceWrapper[0], 50, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)2, (float)2, (float)10, (float)1, 7, 2, "AttackCard", DamageTypes.NONE, "Sundering Strike (1)"));
+CardList.cardList.Add(new CardData("SunderingStrike2", new PreferenceWrapper[0], 60, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)2, (float)2, (float)10, (float)1, 8, 2, "AttackCard", DamageTypes.NONE, "Sundering Strike (2)"));
+CardList.cardList.Add(new CardData("SunderingStrike3", new PreferenceWrapper[0], 70, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)2, (float)2, (float)10, (float)1, 9, 2, "AttackCard", DamageTypes.NONE, "Sundering Strike (3)"));
+CardList.cardList.Add(new CardData("RallyingStroke", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 7, 2, "AttackCard", DamageTypes.NONE, "Rallying Stroke"));
+CardList.cardList.Add(new CardData("BerserkerStrike", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.WARRIOR, BiasType.TIER, -1)
+}, 25, new UserAttribute[0], false, null, (float)1, (float)2, (float)10, (float)1, 5, 1, "AttackCard", DamageTypes.NONE, "Berserker Strike"));
+CardList.cardList.Add(new CardData("Pierce1", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)4, (float)2, (float)10, (float)1, 5, 3, "AttackCard", DamageTypes.NONE, "Pierce (1)"));
+CardList.cardList.Add(new CardData("Pierce2", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)4, (float)2, (float)10, (float)1, 6, 3, "AttackCard", DamageTypes.NONE, "Pierce (2)"));
+CardList.cardList.Add(new CardData("Pierce3", new PreferenceWrapper[0], 55, new UserAttribute[0], false, null, (float)4, (float)2, (float)10, (float)1, 7, 3, "AttackCard", DamageTypes.NONE, "Pierce (3)"));
+CardList.cardList.Add(new CardData("HolyStrike1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.PALADIN, BiasType.TIER, -1)
+}, 35, new UserAttribute[0], false, null, (float)1, (float)8, (float)5, (float)1, 5, 3, "AttackCard", DamageTypes.NONE, "Holy Strike (1)"));
+CardList.cardList.Add(new CardData("HolyStrike2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.PALADIN, BiasType.TIER, -1)
+}, 45, new UserAttribute[0], false, null, (float)1, (float)8, (float)5, (float)1, 6, 3, "AttackCard", DamageTypes.NONE, "Holy Strike (2)"));
+CardList.cardList.Add(new CardData("HolyStrike3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.PALADIN, BiasType.TIER, -1)
+}, 55, new UserAttribute[0], false, null, (float)1, (float)8, (float)5, (float)1, 7, 3, "AttackCard", DamageTypes.NONE, "Holy Strike (3)"));
+CardList.cardList.Add(new CardData("SorcerousStrike1", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.SAMURAI, BiasType.FREQUENCY, 7)
+}, 35, new UserAttribute[0], false, null, (float)1, (float)6, (float)6, (float)2, 5, 3, "AttackCard", DamageTypes.NONE, "Sorcerous Strike (1)"));
+CardList.cardList.Add(new CardData("SorcerousStrike2", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.SAMURAI, BiasType.FREQUENCY, 7)
+}, 45, new UserAttribute[0], false, null, (float)1, (float)6, (float)6, (float)2, 6, 3, "AttackCard", DamageTypes.NONE, "Sorcerous Strike (2)"));
+CardList.cardList.Add(new CardData("SorcerousStrike3", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.SAMURAI, BiasType.FREQUENCY, 7)
+}, 55, new UserAttribute[0], false, null, (float)1, (float)6, (float)6, (float)2, 7, 3, "AttackCard", DamageTypes.NONE, "Sorcerous Strike (3)"));
+CardList.cardList.Add(new CardData("Infect", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.UNDEAD2 }, false, null, (float)4, (float)3, (float)2, (float)4, 4, 3, "AttackCard", DamageTypes.NONE, "Infect"));
+CardList.cardList.Add(new CardData("DragonsClaw1", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 1, 0, "AttackCard", DamageTypes.NONE, "Dragon's Claw (1)"));
+CardList.cardList.Add(new CardData("DragonsClaw2", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 2, 0, "AttackCard", DamageTypes.NONE, "Dragon's Claw (2)"));
+CardList.cardList.Add(new CardData("DragonsClaw3", new PreferenceWrapper[0], 60, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 4, 0, "AttackCard", DamageTypes.NONE, "Dragon's Claw (3)"));
+CardList.cardList.Add(new CardData("DragonsBite", new PreferenceWrapper[0], 50, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 3, 0, "AttackCard", DamageTypes.NONE, "Dragon's Bite"));
+CardList.cardList.Add(new CardData("ShieldBash", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 8, 2, "AttackCard", DamageTypes.NONE, "Shield Bash"));
+CardList.cardList.Add(new CardData("Backstab", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 3, 3, "AttackCard", DamageTypes.NONE, "Backstab"));
+CardList.cardList.Add(new CardData("Slash", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)1, (float)9, (float)1, 6, 3, "AttackCard", DamageTypes.NONE, "Slash"));
+CardList.cardList.Add(new CardData("Smash", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 9, 1, "AttackCard", DamageTypes.NONE, "Smash"));
+CardList.cardList.Add(new CardData("Skullcrack", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.DAMAGE3 }, false, null, (float)1, (float)1, (float)10, (float)1, 5, 2, "AttackCard", DamageTypes.NONE, "Skull Crack"));
+CardList.cardList.Add(new CardData("Harry", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.WINDRUID }, false, null, (float)6, (float)1, (float)6, (float)1, 5, 2, "AttackCard", DamageTypes.NONE, "Harry"));
+CardList.cardList.Add(new CardData("Rake", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 1, "AttackCard", DamageTypes.NONE, "Rake"));
+CardList.cardList.Add(new CardData("Maul", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 1, "AttackCard", DamageTypes.NONE, "Maul"));
+CardList.cardList.Add(new CardData("Bite", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 1, "AttackCard", DamageTypes.NONE, "Bite"));
+CardList.cardList.Add(new CardData("ChaosStrike", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "AttackCard", DamageTypes.NONE, "Chaos Strike"));
+CardList.cardList.Add(new CardData("ChaosStrike2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "AttackCard", DamageTypes.NONE, "Chaos Strike"));
+CardList.cardList.Add(new CardData("FlameStrike", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "AttackCard", DamageTypes.NONE, "Flame Strike"));
+CardList.cardList.Add(new CardData("LightningStrike", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "AttackCard", DamageTypes.NONE, "Lightning Strike"));
+CardList.cardList.Add(new CardData("Burn", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "AttackCard", DamageTypes.NONE, "Burn"));
+CardList.cardList.Add(new CardData("Burn2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "AttackCard", DamageTypes.NONE, "Burn (2)"));
+CardList.cardList.Add(new CardData("SharkBite", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "AttackCard", DamageTypes.NONE, "Shark Bite"));
+CardList.cardList.Add(new CardData("SharkBite2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "AttackCard", DamageTypes.NONE, "Shark Bite (2)"));
+CardList.cardList.Add(new CardData("Thrash", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "AttackCard", DamageTypes.NONE, "Thrash"));
+CardList.cardList.Add(new CardData("Infect1", new PreferenceWrapper[0], 15, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)4, (float)3, (float)1, 2, 3, "AttackCard", DamageTypes.NONE, "Infect (1)"));
+CardList.cardList.Add(new CardData("Infect2", new PreferenceWrapper[0], 25, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)4, (float)3, (float)1, 3, 3, "AttackCard", DamageTypes.NONE, "Infect (2)"));
+CardList.cardList.Add(new CardData("Infect3", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)4, (float)3, (float)1, 4, 3, "AttackCard", DamageTypes.NONE, "Infect (3)"));
+CardList.cardList.Add(new CardData("Mana1", new PreferenceWrapper[0], 5, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)3, (float)1, (float)6, 1, 0, "ManaCard", DamageTypes.NONE, "Mana (1)"));
+CardList.cardList.Add(new CardData("Mana2", new PreferenceWrapper[0], 7, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)3, (float)1, (float)6, 1, 0, "ManaCard", DamageTypes.NONE, "Mana (2)"));
+CardList.cardList.Add(new CardData("Mana3", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)1, (float)6, (float)1, (float)6, 2, 2, "ManaCard", DamageTypes.NONE, "Mana (3)"));
+CardList.cardList.Add(new CardData("DragonsWisdom", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 5, 0, "ManaCard", DamageTypes.NONE, "Dragon's Wisdom"));
+CardList.cardList.Add(new CardData("FlameCharge", new PreferenceWrapper[0], 12, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)8, 2, 2, "ManaCard", DamageTypes.FIRE, "Flame Charge"));
+CardList.cardList.Add(new CardData("FrostCharge", new PreferenceWrapper[0], 12, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)8, 2, 2, "ManaCard", DamageTypes.WATER, "Frost Charge"));
+CardList.cardList.Add(new CardData("StaticCharge", new PreferenceWrapper[0], 12, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)8, 2, 2, "ManaCard", DamageTypes.AIR, "Static Charge"));
+CardList.cardList.Add(new CardData("VileCharge", new PreferenceWrapper[0], 12, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)8, 2, 2, "ManaCard", DamageTypes.EARTH, "Stone Charge"));
+CardList.cardList.Add(new CardData("Salve", new PreferenceWrapper[0], 12, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)2, 2, 2, "ManaCard", DamageTypes.NONE, "Salve"));
+CardList.cardList.Add(new CardData("Wisdom", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.PALADIN, BiasType.TIER, -1)
+}, 20, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 3, 2, "ManaCard", DamageTypes.NONE, "Wisdom"));
+CardList.cardList.Add(new CardData("Piety", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 4, 2, "ManaCard", DamageTypes.NONE, "Piety"));
+CardList.cardList.Add(new CardData("Clarity", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)2, 4, 2, "ManaCard", DamageTypes.NONE, "Clarity"));
+CardList.cardList.Add(new CardData("ManaSurge", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)10, 6, 2, "ManaCard", DamageTypes.NONE, "Mana Surge"));
+CardList.cardList.Add(new CardData("RawPower", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)8, 6, 1, "ManaCard", DamageTypes.NONE, "Raw Power"));
+CardList.cardList.Add(new CardData("ElusivePower", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.MANA3 }, false, null, (float)3, (float)1, (float)1, (float)8, 5, 1, "ManaCard", DamageTypes.NONE, "Elusive Power"));
+CardList.cardList.Add(new CardData("Inspiration", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 7, 1, "ManaCard", DamageTypes.NONE, "Inspiration"));
+CardList.cardList.Add(new CardData("KineticCharge", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.MANA4 }, false, null, (float)1, (float)6, (float)1, (float)6, 7, 1, "ManaCard", DamageTypes.NONE, "Kinetic Charge"));
+CardList.cardList.Add(new CardData("ManaSwell", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)10, 8, 1, "ManaCard", DamageTypes.NONE, "Mana Swell"));
+CardList.cardList.Add(new CardData("Overload", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)1, (float)6, (float)1, (float)6, 8, 1, "ManaCard", DamageTypes.NONE, "Overload"));
+CardList.cardList.Add(new CardData("Conduit", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)6, (float)1, (float)8, 8, 1, "ManaCard", DamageTypes.NONE, "Conduit"));
+CardList.cardList.Add(new CardData("ElementalSurge", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.WINDRUID2 }, false, null, (float)1, (float)3, (float)1, (float)7, 5, 1, "ManaCard", DamageTypes.NONE, "Elemental Surge"));
+CardList.cardList.Add(new CardData("JasrasJarringJolt", new PreferenceWrapper[0], 10, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)6, 1, 2, "SpellCard", DamageTypes.NONE, "Jasra's Jarring Jolt"));
+CardList.cardList.Add(new CardData("Blur", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)3, (float)1, (float)6, 3, 2, "SpellCard", DamageTypes.NONE, "Blur"));
+CardList.cardList.Add(new CardData("WrathOfGod", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.PALADIN, BiasType.FREQUENCY, 5)
+}, 60, new UserAttribute[0], false, null, (float)1, (float)3, (float)8, (float)1, 7, 1, "SpellCard", DamageTypes.NONE, "Wrath of God"));
+CardList.cardList.Add(new CardData("SoulSiphon", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)1, (float)1, (float)1, 1, 0, "SpellCard", DamageTypes.NONE, "Soul Siphon"));
+CardList.cardList.Add(new CardData("Orison", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)10, (float)1, (float)1, 1, 5, "SpellCard", DamageTypes.NONE, "Orison"));
+CardList.cardList.Add(new CardData("Heal", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)2, 2, 2, "SpellCard", DamageTypes.NONE, "Heal"));
+CardList.cardList.Add(new CardData("Ward", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)3, 4, 2, "SpellCard", DamageTypes.NONE, "Ward"));
+CardList.cardList.Add(new CardData("DivineInspiration", new PreferenceWrapper[0], 25, new UserAttribute[] { UserAttribute.BOSSLICH }, false, null, (float)1, (float)10, (float)1, (float)4, 3, 1, "SpellCard", DamageTypes.NONE, "Divine Inspiration"));
+CardList.cardList.Add(new CardData("SiphonLife", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 3, 1, "SpellCard", DamageTypes.NONE, "Drain Life"));
+CardList.cardList.Add(new CardData("Haste", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)2, (float)8, (float)1, (float)2, 4, 1, "SpellCard", DamageTypes.NONE, "Haste"));
+CardList.cardList.Add(new CardData("MindSear", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)2, 5, 3, "SpellCard", DamageTypes.NONE, "Mind Sear"));
+CardList.cardList.Add(new CardData("Crumble", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)5, 6, 2, "SpellCard", DamageTypes.NONE, "Crumble"));
+CardList.cardList.Add(new CardData("Invisibility", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.CATS2 }, false, null, (float)2, (float)8, (float)1, (float)5, 6, 3, "SpellCard", DamageTypes.NONE, "Invisibility"));
+CardList.cardList.Add(new CardData("Bless", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 6, 2, "SpellCard", DamageTypes.NONE, "Bless"));
+CardList.cardList.Add(new CardData("Soulfire", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)1, (float)9, (float)1, (float)3, 7, 1, "SpellCard", DamageTypes.NONE, "Soulfire"));
+CardList.cardList.Add(new CardData("Penance", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 5, 2, "SpellCard", DamageTypes.NONE, "Penance"));
+CardList.cardList.Add(new CardData("ForceOfWill", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.MANA2 }, false, null, (float)1, (float)10, (float)1, (float)1, 5, 2, "SpellCard", DamageTypes.NONE, "Force of Will"));
+CardList.cardList.Add(new CardData("EyeForAnEye", new PreferenceWrapper[0], 55, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 8, 1, "SpellCard", DamageTypes.NONE, "Eye for an Eye"));
+CardList.cardList.Add(new CardData("VaporForm", new PreferenceWrapper[0], 65, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)8, (float)1, (float)2, 8, 2, "SpellCard", DamageTypes.NONE, "Vapor Form"));
+CardList.cardList.Add(new CardData("ElementalFortitude", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.BOSSCHROMATICDEMON }, false, null, (float)1, (float)8, (float)1, (float)2, 8, 2, "SpellCard", DamageTypes.NONE, "Elemental Shroud"));
+CardList.cardList.Add(new CardData("Shrink", new PreferenceWrapper[0], 80, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)4, 9, 1, "SpellCard", DamageTypes.NONE, "Shrink"));
+CardList.cardList.Add(new CardData("Stasis", new PreferenceWrapper[0], 80, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)1, 9, 1, "SpellCard", DamageTypes.NONE, "Stasis"));
+CardList.cardList.Add(new CardData("AbsorbVis", new PreferenceWrapper[]
+{
+	new PreferenceWrapper(ClassBias.NECROMANCER, BiasType.TIER, 10)
+}, 100, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 10, 1, "SpellCard", DamageTypes.NONE, "Absorb Vis"));
+CardList.cardList.Add(new CardData("PurifyingLight", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 8, 2, "SpellCard", DamageTypes.NONE, "Purifying Light"));
+CardList.cardList.Add(new CardData("Mahamat", new PreferenceWrapper[0], 80, new UserAttribute[] { UserAttribute.BOSSGENIE }, false, null, (float)1, (float)10, (float)1, (float)1, 10, 1, "SpellCard", DamageTypes.NONE, "Mahamat"));
+CardList.cardList.Add(new CardData("Fireball", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 3, 3, "SpellCard", DamageTypes.FIRE, "Fireball"));
+CardList.cardList.Add(new CardData("FrostBolt", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 3, 3, "SpellCard", DamageTypes.WATER, "Frost Bolt"));
+CardList.cardList.Add(new CardData("Shock", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 3, 3, "SpellCard", DamageTypes.AIR, "Shock"));
+CardList.cardList.Add(new CardData("AcidLance", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 3, 3, "SpellCard", DamageTypes.EARTH, "Acid Lance"));
+CardList.cardList.Add(new CardData("Meteor", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 6, 2, "SpellCard", DamageTypes.FIRE, "Meteor"));
+CardList.cardList.Add(new CardData("AcidRain", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 6, 2, "SpellCard", DamageTypes.EARTH, "Acid Rain"));
+CardList.cardList.Add(new CardData("Blizzard", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 6, 2, "SpellCard", DamageTypes.WATER, "Blizzard"));
+CardList.cardList.Add(new CardData("Electrocute", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)7, 6, 2, "SpellCard", DamageTypes.AIR, "Electrocute"));
+CardList.cardList.Add(new CardData("Conflagration", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)7, 9, 1, "SpellCard", DamageTypes.FIRE, "Conflagration"));
+CardList.cardList.Add(new CardData("Storm", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)7, 9, 1, "SpellCard", DamageTypes.AIR, "Storm"));
+CardList.cardList.Add(new CardData("Blight", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)7, 9, 1, "SpellCard", DamageTypes.EARTH, "Blight"));
+CardList.cardList.Add(new CardData("Freeze", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)1, (float)7, 9, 1, "SpellCard", DamageTypes.WATER, "Freeze"));
+CardList.cardList.Add(new CardData("EarthShape", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)4, (float)1, (float)7, 5, 2, "SpellCard", DamageTypes.EARTH, "Earth Shape"));
+CardList.cardList.Add(new CardData("FrostShape", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)4, (float)1, (float)7, 5, 2, "SpellCard", DamageTypes.WATER, "Frost Shape"));
+CardList.cardList.Add(new CardData("FireShape", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)4, (float)1, (float)7, 5, 2, "SpellCard", DamageTypes.FIRE, "Fire Shape"));
+CardList.cardList.Add(new CardData("StormShape", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)4, (float)1, (float)7, 5, 2, "SpellCard", DamageTypes.AIR, "Storm Shape"));
+CardList.cardList.Add(new CardData("NaturesBlessing", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 1, "SpellCard", DamageTypes.NONE, "Nature's Blessing"));
+CardList.cardList.Add(new CardData("SummonCompanions", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 1, "SpellCard", DamageTypes.NONE, "Summon Companions"));
+CardList.cardList.Add(new CardData("Sear", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "SpellCard", DamageTypes.NONE, "Sear"));
+CardList.cardList.Add(new CardData("Explosion", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "SpellCard", DamageTypes.NONE, "Explosion"));
+CardList.cardList.Add(new CardData("Slow", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "SpellCard", DamageTypes.NONE, "Slow"));
+CardList.cardList.Add(new CardData("ThunderStorm", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "SpellCard", DamageTypes.NONE, "Thunder Storm"));
+CardList.cardList.Add(new CardData("Solidify", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "SpellCard", DamageTypes.NONE, "Solidify"));
+CardList.cardList.Add(new CardData("DarkMending", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "SpellCard", DamageTypes.NONE, "Dark Mending"));
+CardList.cardList.Add(new CardData("Discharge", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)2, (float)1, (float)7, 6, 2, "SpellCard", DamageTypes.AIR, "Discharge"));
+CardList.cardList.Add(new CardData("HealingPotion", new PreferenceWrapper[0], 7, new UserAttribute[0], false, null, (float)3, (float)3, (float)3, (float)3, 2, 3, "ActionCard", DamageTypes.NONE, "Healing Potion"));
+CardList.cardList.Add(new CardData("FireBomb", new PreferenceWrapper[0], 10, new UserAttribute[0], false, null, (float)3, (float)3, (float)3, (float)3, 1, 3, "ActionCard", DamageTypes.NONE, "Fire Bomb"));
+CardList.cardList.Add(new CardData("Bandage", new PreferenceWrapper[0], 5, new UserAttribute[0], false, null, (float)3, (float)3, (float)3, (float)3, 2, 1, "ActionCard", DamageTypes.NONE, "Bandage"));
+CardList.cardList.Add(new CardData("Sift", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.BOSSGELATINOUSCUBE }, false, null, (float)3, (float)6, (float)1, (float)3, 1, 3, "ActionCard", DamageTypes.NONE, "Sift"));
+CardList.cardList.Add(new CardData("FinalFortune", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.KILL4 }, false, null, (float)6, (float)8, (float)3, (float)3, 6, 1, "ActionCard", DamageTypes.NONE, "Last Chance"));
+CardList.cardList.Add(new CardData("StudyGuide", new PreferenceWrapper[0], 3, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 3, "ActionCard", DamageTypes.NONE, "Study Guide"));
+CardList.cardList.Add(new CardData("Tiltowait", new PreferenceWrapper[0], 3, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 10, 0, "ActionCard", DamageTypes.NONE, "Tiltowait"));
+CardList.cardList.Add(new CardData("Strike", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)10, (float)1, (float)1, (float)1, 1, 3, "ActionCard", DamageTypes.NONE, "Slap"));
+CardList.cardList.Add(new CardData("Slice", new PreferenceWrapper[0], 10, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 2, 3, "ActionCard", DamageTypes.NONE, "Slice"));
+CardList.cardList.Add(new CardData("Dice", new PreferenceWrapper[0], 55, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 7, 2, "ActionCard", DamageTypes.NONE, "Dice"));
+CardList.cardList.Add(new CardData("Pilfer", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.CARDS3 }, false, null, (float)6, (float)1, (float)2, (float)1, 7, 1, "ActionCard", DamageTypes.NONE, "Pilfer"));
+CardList.cardList.Add(new CardData("Swiftness", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)10, (float)2, (float)1, (float)1, 2, 3, "ActionCard", DamageTypes.NONE, "Swiftness"));
+CardList.cardList.Add(new CardData("Alacrity", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 5, 3, "ActionCard", DamageTypes.NONE, "Alacrity"));
+CardList.cardList.Add(new CardData("Jab", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 5, 3, "ActionCard", DamageTypes.NONE, "Jab"));
+CardList.cardList.Add(new CardData("Dodge", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.BOSSUSSURIWARQUEEN }, false, null, (float)6, (float)1, (float)6, (float)1, 7, 3, "ActionCard", DamageTypes.NONE, "Avoid"));
+CardList.cardList.Add(new CardData("Venom", new PreferenceWrapper[0], 10, new UserAttribute[0], false, null, (float)6, (float)6, (float)1, (float)3, 1, 3, "ActionCard", DamageTypes.NONE, "Venom"));
+CardList.cardList.Add(new CardData("Mimic", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.BOSSMIME }, false, null, (float)6, (float)1, (float)1, (float)1, 4, 3, "ActionCard", DamageTypes.NONE, "Mimic"));
+CardList.cardList.Add(new CardData("Evasion", new PreferenceWrapper[0], 80, new UserAttribute[] { UserAttribute.STEPS3 }, false, null, (float)6, (float)3, (float)3, (float)1, 9, 1, "ActionCard", DamageTypes.NONE, "Evasion"));
+CardList.cardList.Add(new CardData("Circle", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 3, 2, "ActionCard", DamageTypes.NONE, "Circle"));
+CardList.cardList.Add(new CardData("Expose", new PreferenceWrapper[0], 80, new UserAttribute[0], false, null, (float)6, (float)1, (float)3, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Expose"));
+CardList.cardList.Add(new CardData("Sidestep", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)10, (float)1, (float)6, (float)1, 9, 2, "ActionCard", DamageTypes.NONE, "Sidestep"));
+CardList.cardList.Add(new CardData("Hemorrhage", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)8, (float)5, (float)1, (float)1, 7, 2, "ActionCard", DamageTypes.NONE, "Hemorrhage"));
+CardList.cardList.Add(new CardData("Preparation", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)10, (float)1, (float)6, (float)1, 6, 3, "ActionCard", DamageTypes.NONE, "Preparation"));
+CardList.cardList.Add(new CardData("LastChance", new PreferenceWrapper[0], 15, new UserAttribute[] { UserAttribute.BOSSAKAMIASCENDENT }, false, null, (float)6, (float)2, (float)1, (float)1, 2, 3, "ActionCard", DamageTypes.NONE, "Desperate Strike"));
+CardList.cardList.Add(new CardData("Bleed", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 6, 3, "ActionCard", DamageTypes.NONE, "Bleed"));
+CardList.cardList.Add(new CardData("CoupDeGrace", new PreferenceWrapper[0], 80, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Coup de Grace"));
+CardList.cardList.Add(new CardData("Accelerate", new PreferenceWrapper[0], 120, new UserAttribute[0], false, null, (float)10, (float)1, (float)4, (float)1, 10, 1, "ActionCard", DamageTypes.NONE, "Accelerate"));
+CardList.cardList.Add(new CardData("PenetratingPalm", new PreferenceWrapper[0], 75, new UserAttribute[0], false, null, (float)8, (float)2, (float)8, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Penetrating Palm"));
+CardList.cardList.Add(new CardData("Strike1", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 2, 3, "ActionCard", DamageTypes.NONE, "Strike (1)"));
+CardList.cardList.Add(new CardData("Strike2", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 5, 3, "ActionCard", DamageTypes.NONE, "Strike (2)"));
+CardList.cardList.Add(new CardData("Strike3", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)10, (float)1, (float)1, (float)1, 7, 3, "ActionCard", DamageTypes.NONE, "Strike (3)"));
+CardList.cardList.Add(new CardData("Kick", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)10, (float)1, (float)3, (float)1, 3, 1, "ActionCard", DamageTypes.NONE, "Kick"));
+CardList.cardList.Add(new CardData("Pickpocket", new PreferenceWrapper[0], 5, new UserAttribute[] { UserAttribute.GOBLIN2 }, false, null, (float)10, (float)1, (float)1, (float)1, 2, 1, "ActionCard", DamageTypes.NONE, "Pickpocket"));
+CardList.cardList.Add(new CardData("Skewer", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)10, (float)1, (float)3, (float)1, 9, 2, "ActionCard", DamageTypes.NONE, "Skewer"));
+CardList.cardList.Add(new CardData("Elude", new PreferenceWrapper[0], 25, new UserAttribute[] { UserAttribute.STEPS2 }, false, null, (float)10, (float)2, (float)6, (float)1, 4, 3, "ActionCard", DamageTypes.NONE, "Dodge"));
+CardList.cardList.Add(new CardData("Recycle", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.CARDS2 }, false, null, (float)6, (float)1, (float)1, (float)1, 6, 1, "ActionCard", DamageTypes.NONE, "Recycle"));
+CardList.cardList.Add(new CardData("PiercingStab", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)8, (float)1, (float)5, (float)1, 7, 1, "ActionCard", DamageTypes.NONE, "Piercing Stab"));
+CardList.cardList.Add(new CardData("MentalFortress", new PreferenceWrapper[0], 75, new UserAttribute[0], false, null, (float)2, (float)8, (float)1, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Mental Fortress"));
+CardList.cardList.Add(new CardData("Extract", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 8, 2, "ActionCard", DamageTypes.NONE, "Extract"));
+CardList.cardList.Add(new CardData("Focus", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)6, (float)8, (float)1, (float)1, 6, 3, "ActionCard", DamageTypes.NONE, "Focus"));
+CardList.cardList.Add(new CardData("InnerFocus", new PreferenceWrapper[0], 10, new UserAttribute[0], false, null, (float)3, (float)8, (float)1, (float)1, 3, 3, "ActionCard", DamageTypes.NONE, "Inner Focus"));
+CardList.cardList.Add(new CardData("InnerPeace", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)3, (float)6, (float)1, (float)1, 5, 3, "ActionCard", DamageTypes.NONE, "Inner Peace"));
+CardList.cardList.Add(new CardData("Meditation", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.BOSSCUMULONIMBUS }, false, null, (float)1, (float)10, (float)1, (float)1, 6, 1, "ActionCard", DamageTypes.NONE, "Meditation"));
+CardList.cardList.Add(new CardData("Study", new PreferenceWrapper[0], 55, new UserAttribute[0], false, null, (float)2, (float)10, (float)1, (float)3, 8, 3, "ActionCard", DamageTypes.NONE, "Study"));
+CardList.cardList.Add(new CardData("CurseOfWeakness", new PreferenceWrapper[0], 50, new UserAttribute[0], false, null, (float)1, (float)8, (float)1, (float)3, 5, 2, "ActionCard", DamageTypes.NONE, "Curse of Weakness"));
+CardList.cardList.Add(new CardData("InnerStrength", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.KILL2 }, false, null, (float)1, (float)8, (float)1, (float)1, 3, 3, "ActionCard", DamageTypes.NONE, "Second Thoughts"));
+CardList.cardList.Add(new CardData("SecondWind", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.BOSSUNICORN }, false, null, (float)1, (float)8, (float)1, (float)1, 6, 2, "ActionCard", DamageTypes.NONE, "Second Wind"));
+CardList.cardList.Add(new CardData("PsionicBlast", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)2, (float)10, (float)1, (float)3, 4, 2, "ActionCard", DamageTypes.NONE, "Psionic Blast"));
+CardList.cardList.Add(new CardData("PureThoughts", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 5, 2, "ActionCard", DamageTypes.NONE, "Pure Thoughts"));
+CardList.cardList.Add(new CardData("SecondStrike", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.KILL3 }, false, null, (float)1, (float)8, (float)1, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Second Strike"));
+CardList.cardList.Add(new CardData("Anticipate", new PreferenceWrapper[0], 75, new UserAttribute[] { UserAttribute.BOSSVAMPIRE }, false, null, (float)6, (float)3, (float)3, (float)1, 9, 1, "ActionCard", DamageTypes.NONE, "Anticipate"));
+CardList.cardList.Add(new CardData("Charm", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)3, (float)1, (float)1, (float)8, 5, 1, "ActionCard", DamageTypes.NONE, "Charm"));
+CardList.cardList.Add(new CardData("Bewitch", new PreferenceWrapper[0], 65, new UserAttribute[] { UserAttribute.LIZARDS2 }, false, null, (float)3, (float)1, (float)1, (float)8, 8, 1, "ActionCard", DamageTypes.NONE, "Bewitch"));
+CardList.cardList.Add(new CardData("Channel", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.ELEMENTALS2 }, false, null, (float)1, (float)3, (float)1, (float)10, 5, 1, "ActionCard", DamageTypes.NONE, "Channel"));
+CardList.cardList.Add(new CardData("Misdirection", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)1, (float)8, 5, 1, "ActionCard", DamageTypes.NONE, "Misdirection"));
+CardList.cardList.Add(new CardData("Rush", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)1, (float)3, (float)10, (float)1, 6, 3, "ActionCard", DamageTypes.NONE, "Rush"));
+CardList.cardList.Add(new CardData("Stoneskin", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)1, (float)8, (float)1, 4, 2, "ActionCard", DamageTypes.NONE, "Stoneskin"));
+CardList.cardList.Add(new CardData("Overpower", new PreferenceWrapper[0], 80, new UserAttribute[] { UserAttribute.CARDS4 }, false, null, (float)3, (float)1, (float)9, (float)1, 10, 1, "ActionCard", DamageTypes.NONE, "Overpower"));
+CardList.cardList.Add(new CardData("BattleCry", new PreferenceWrapper[0], 90, new UserAttribute[] { UserAttribute.DAMAGE4 }, false, null, (float)3, (float)1, (float)10, (float)1, 10, 1, "ActionCard", DamageTypes.NONE, "Battle Cry"));
+CardList.cardList.Add(new CardData("Choke", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 1, "ActionCard", DamageTypes.NONE, "Choke"));
+CardList.cardList.Add(new CardData("Execute", new PreferenceWrapper[0], 25, new UserAttribute[] { UserAttribute.DAMAGE2 }, false, null, (float)6, (float)1, (float)10, (float)1, 3, 1, "ActionCard", DamageTypes.NONE, "Execute"));
+CardList.cardList.Add(new CardData("Crush", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)5, (float)1, (float)6, (float)1, 5, 1, "ActionCard", DamageTypes.NONE, "Crush"));
+CardList.cardList.Add(new CardData("Hamstring", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 1, "ActionCard", DamageTypes.NONE, "Hamstring"));
+CardList.cardList.Add(new CardData("BladeFlurry", new PreferenceWrapper[0], 130, new UserAttribute[0], false, null, (float)10, (float)1, (float)10, (float)1, 10, 1, "ActionCard", DamageTypes.NONE, "Blade Flurry"));
+CardList.cardList.Add(new CardData("ShieldWall", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 5, 1, "ActionCard", DamageTypes.NONE, "Shield Wall"));
+CardList.cardList.Add(new CardData("TrollHide", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)6, (float)10, (float)1, 5, 2, "ActionCard", DamageTypes.NONE, "Troll Hide"));
+CardList.cardList.Add(new CardData("Obliterate", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.DRAGON2 }, false, null, (float)1, (float)1, (float)10, (float)1, 8, 1, "ActionCard", DamageTypes.NONE, "Obliterate"));
+CardList.cardList.Add(new CardData("WallOfSwords", new PreferenceWrapper[0], 110, new UserAttribute[] { UserAttribute.BOSSPHOENIX }, false, null, (float)3, (float)3, (float)10, (float)1, 10, 1, "ActionCard", DamageTypes.NONE, "Wall of Swords"));
+CardList.cardList.Add(new CardData("Resilience", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.ADVENTURERS2 }, false, null, (float)3, (float)3, (float)6, (float)1, 5, 2, "ActionCard", DamageTypes.NONE, "Resilience"));
+CardList.cardList.Add(new CardData("Flee", new PreferenceWrapper[0], 3, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Flee"));
+CardList.cardList.Add(new CardData("ManaPotion", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)3, (float)3, (float)3, 2, 3, "ActionCard", DamageTypes.NONE, "Mana Potion"));
+CardList.cardList.Add(new CardData("StormPalm", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)3, (float)1, 4, 0, "ActionCard", DamageTypes.NONE, "Storm Palm"));
+CardList.cardList.Add(new CardData("FlamePalm", new PreferenceWrapper[0], 25, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)3, (float)1, 5, 0, "ActionCard", DamageTypes.NONE, "Flame Palm"));
+CardList.cardList.Add(new CardData("AcidPalm", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)3, (float)1, 4, 0, "ActionCard", DamageTypes.NONE, "Acid Palm"));
+CardList.cardList.Add(new CardData("FrostPalm", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)3, (float)1, 4, 0, "ActionCard", DamageTypes.NONE, "Frost Palm"));
+CardList.cardList.Add(new CardData("LichKick", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Lich Kick"));
+CardList.cardList.Add(new CardData("DragonsBreath", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Dragon's Breath"));
+CardList.cardList.Add(new CardData("DragonsHide", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Dragon's Hide"));
+CardList.cardList.Add(new CardData("DragonsRoar", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 7, 0, "ActionCard", DamageTypes.NONE, "Dragon's Roar"));
+CardList.cardList.Add(new CardData("DragonsSnack", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Dragon's Snack"));
+CardList.cardList.Add(new CardData("DragonsTail", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Dragon's Tail"));
+CardList.cardList.Add(new CardData("Eagle", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Eagle"));
+CardList.cardList.Add(new CardData("Wolf", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Wolf"));
+CardList.cardList.Add(new CardData("Turtle", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Turtle"));
+CardList.cardList.Add(new CardData("MimicAction", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Tongue Lash"));
+CardList.cardList.Add(new CardData("MimicAction2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Tongue Lash"));
+CardList.cardList.Add(new CardData("CoinToss", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Coin Toss"));
+CardList.cardList.Add(new CardData("Gag", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)6, (float)1, 4, 1, "ActionCard", DamageTypes.NONE, "Gag"));
+CardList.cardList.Add(new CardData("Hide", new PreferenceWrapper[0], 35, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)6, (float)3, (float)5, (float)1, 5, 3, "ActionCard", DamageTypes.NONE, "Hide"));
+CardList.cardList.Add(new CardData("Escape", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Escape"));
+CardList.cardList.Add(new CardData("GoblinBomb", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Goblin Bomb"));
+CardList.cardList.Add(new CardData("MindDrain", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Mind Drain"));
+CardList.cardList.Add(new CardData("SpriteStab", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Sprite Stab"));
+CardList.cardList.Add(new CardData("ManaDrain", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Mana Drain"));
+CardList.cardList.Add(new CardData("Suffocate", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Suffocate"));
+CardList.cardList.Add(new CardData("BoneShield", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Bone Shield"));
+CardList.cardList.Add(new CardData("BoneShield2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Bone Shield (2)"));
+CardList.cardList.Add(new CardData("VampireBite", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Vampire Bite"));
+CardList.cardList.Add(new CardData("VampireBite2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Vampire Bite (2)"));
+CardList.cardList.Add(new CardData("Slam", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Slam"));
+CardList.cardList.Add(new CardData("FlameBreath", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Flame Breath"));
+CardList.cardList.Add(new CardData("DragonScales", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Dragon Scales"));
+CardList.cardList.Add(new CardData("DragonScales2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Dragon Scales (2)"));
+CardList.cardList.Add(new CardData("AcidBreath", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Acid Breath"));
+CardList.cardList.Add(new CardData("LightningBreath", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Lightning Breath"));
+CardList.cardList.Add(new CardData("FrostBreath", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "ActionCard", DamageTypes.NONE, "Frost Breath"));
+CardList.cardList.Add(new CardData("StormStab", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Storm Stab"));
+CardList.cardList.Add(new CardData("Shred", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Shred"));
+CardList.cardList.Add(new CardData("Claw", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Claw"));
+CardList.cardList.Add(new CardData("Swipe", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Swipe"));
+CardList.cardList.Add(new CardData("Pounce", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Pounce"));
+CardList.cardList.Add(new CardData("ChaosPrayer", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Chaos Prayer"));
+CardList.cardList.Add(new CardData("Stone", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ActionCard", DamageTypes.NONE, "Stone"));
+CardList.cardList.Add(new CardData("Sting", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Sting"));
+CardList.cardList.Add(new CardData("Scream", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Scream"));
+CardList.cardList.Add(new CardData("Web", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Web"));
+CardList.cardList.Add(new CardData("Web2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Web (2)"));
+CardList.cardList.Add(new CardData("ZombieBite", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ActionCard", DamageTypes.NONE, "Zombie Bite"));
+CardList.cardList.Add(new CardData("GolemArmor", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Golem Armor"));
+CardList.cardList.Add(new CardData("Gore", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Gore"));
+CardList.cardList.Add(new CardData("Enthrall", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ActionCard", DamageTypes.NONE, "Enthrall"));
+CardList.cardList.Add(new CardData("BadWishes", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Three Wishes"));
+CardList.cardList.Add(new CardData("BadWishes2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Three Wishes"));
+CardList.cardList.Add(new CardData("Zap", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Zap"));
+CardList.cardList.Add(new CardData("CrushAll", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Crush Everything"));
+CardList.cardList.Add(new CardData("InfernalContract", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "ActionCard", DamageTypes.NONE, "Infernal Contract"));
+CardList.cardList.Add(new CardData("Corrupt", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "ActionCard", DamageTypes.NONE, "Corrupt"));
+CardList.cardList.Add(new CardData("Entangle", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Brambles"));
+CardList.cardList.Add(new CardData("HardeningSap", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Might of Oak"));
+CardList.cardList.Add(new CardData("Entrap", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Entrap"));
+CardList.cardList.Add(new CardData("Teach", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ActionCard", DamageTypes.NONE, "Teach"));
+CardList.cardList.Add(new CardData("DancePuppets", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "ActionCard", DamageTypes.NONE, "Dance, Puppets!"));
+CardList.cardList.Add(new CardData("Engulf", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Engulf"));
+CardList.cardList.Add(new CardData("BalefulGaze", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 7, 0, "ActionCard", DamageTypes.NONE, "Baleful Gaze"));
+CardList.cardList.Add(new CardData("Incorporeal", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Incorporeal"));
+CardList.cardList.Add(new CardData("Fly", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ActionCard", DamageTypes.NONE, "Fly"));
+CardList.cardList.Add(new CardData("Digest", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Digest"));
+CardList.cardList.Add(new CardData("Gaze", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Gaze"));
+CardList.cardList.Add(new CardData("DrainLife", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Drain Life"));
+CardList.cardList.Add(new CardData("SoulCrush", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Soul Crush"));
+CardList.cardList.Add(new CardData("Beckon", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Beckon"));
+CardList.cardList.Add(new CardData("Ravage", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Ravage"));
+CardList.cardList.Add(new CardData("DeadlyCurse", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "ActionCard", DamageTypes.NONE, "Deadly Curse"));
+CardList.cardList.Add(new CardData("WreathOfFire", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 5, 0, "ActionCard", DamageTypes.NONE, "Wreath of Fire"));
+CardList.cardList.Add(new CardData("Scorch", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ActionCard", DamageTypes.NONE, "Scorch"));
+CardList.cardList.Add(new CardData("Swarm", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ActionCard", DamageTypes.NONE, "Swarm"));
+CardList.cardList.Add(new CardData("Swarm2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 3, 0, "ActionCard", DamageTypes.NONE, "Swarm"));
+CardList.cardList.Add(new CardData("Sword1", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)6, (float)2, 3, 1, "EquipmentCard", DamageTypes.NONE, "Sword (Level 1)"));
+CardList.cardList.Add(new CardData("Sword2", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)6, (float)2, 4, 1, "EquipmentCard", DamageTypes.NONE, "Sword (Level 2)"));
+CardList.cardList.Add(new CardData("Sword3", new PreferenceWrapper[0], 50, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)6, (float)2, 5, 1, "EquipmentCard", DamageTypes.NONE, "Sword (Level 3)"));
+CardList.cardList.Add(new CardData("Sword4", new PreferenceWrapper[0], 60, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)1, (float)6, (float)2, 6, 1, "EquipmentCard", DamageTypes.NONE, "Sword (Level 4)"));
+CardList.cardList.Add(new CardData("Sword", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)3, (float)1, (float)10, (float)1, 3, 1, "EquipmentCard", DamageTypes.NONE, "Sword"));
+CardList.cardList.Add(new CardData("Greatbow", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)10, (float)1, (float)3, (float)1, 4, 1, "EquipmentCard", DamageTypes.NONE, "Greatbow"));
+CardList.cardList.Add(new CardData("Staff", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)1, (float)2, (float)1, (float)6, 4, 1, "EquipmentCard", DamageTypes.NONE, "Staff"));
+CardList.cardList.Add(new CardData("Pendant", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)1, (float)6, (float)1, (float)6, 2, 3, "EquipmentCard", DamageTypes.NONE, "Pendant"));
+CardList.cardList.Add(new CardData("Shield", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)2, 1, 1, "EquipmentCard", DamageTypes.NONE, "Shield"));
+CardList.cardList.Add(new CardData("Armor", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)2, 5, 1, "EquipmentCard", DamageTypes.NONE, "Armor"));
+CardList.cardList.Add(new CardData("CelestialPlate", new PreferenceWrapper[0], 90, new UserAttribute[0], false, null, (float)1, (float)1, (float)10, (float)1, 9, 1, "EquipmentCard", DamageTypes.NONE, "Celestial Plate"));
+CardList.cardList.Add(new CardData("DartingDaggers", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)6, (float)1, (float)3, (float)1, 5, 1, "EquipmentCard", DamageTypes.NONE, "Darting Daggers"));
+CardList.cardList.Add(new CardData("BootsOfSpeed", new PreferenceWrapper[0], 75, new UserAttribute[0], false, null, (float)6, (float)1, (float)6, (float)3, 7, 1, "EquipmentCard", DamageTypes.NONE, "Boots of Speed"));
+CardList.cardList.Add(new CardData("CloakOfFlame", new PreferenceWrapper[0], 85, new UserAttribute[] { UserAttribute.BOSSMAGMADON }, false, null, (float)3, (float)1, (float)6, (float)3, 7, 1, "EquipmentCard", DamageTypes.NONE, "Cloak of Flame"));
+CardList.cardList.Add(new CardData("Donnerschwert", new PreferenceWrapper[0], 50, new UserAttribute[] { UserAttribute.BOSSTITAN }, false, null, (float)2, (float)1, (float)10, (float)1, 6, 1, "EquipmentCard", DamageTypes.NONE, "Donnerschwert"));
+CardList.cardList.Add(new CardData("TheBleeder", new PreferenceWrapper[0], 120, new UserAttribute[] { UserAttribute.WINRANGER2 }, false, null, (float)2, (float)1, (float)10, (float)1, 10, 1, "EquipmentCard", DamageTypes.NONE, "The Bleeder"));
+CardList.cardList.Add(new CardData("JasrasTome", new PreferenceWrapper[0], 55, new UserAttribute[0], false, null, (float)1, (float)3, (float)1, (float)10, 7, 1, "EquipmentCard", DamageTypes.NONE, "Jasra's Tome"));
+CardList.cardList.Add(new CardData("JeremiadsBracer", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)8, (float)1, (float)4, (float)1, 5, 1, "EquipmentCard", DamageTypes.NONE, "Jeremiad's Bracer"));
+CardList.cardList.Add(new CardData("PhoenixFeather", new PreferenceWrapper[0], 50, new UserAttribute[] { UserAttribute.WINMONK2 }, false, null, (float)3, (float)8, (float)3, (float)3, 5, 1, "EquipmentCard", DamageTypes.NONE, "Phoenix Feather"));
+CardList.cardList.Add(new CardData("VampireSword", new PreferenceWrapper[0], 80, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 8, 1, "EquipmentCard", DamageTypes.NONE, "Vampire Sword"));
+CardList.cardList.Add(new CardData("Flamebrand", new PreferenceWrapper[0], 70, new UserAttribute[] { UserAttribute.WINSAMURAI2 }, false, null, (float)1, (float)1, (float)1, (float)8, 7, 1, "EquipmentCard", DamageTypes.NONE, "Flamebrand"));
+CardList.cardList.Add(new CardData("JasrasEmerald", new PreferenceWrapper[0], 130, new UserAttribute[] { UserAttribute.WINASSASSIN2 }, false, null, (float)1, (float)2, (float)1, (float)10, 10, 1, "EquipmentCard", DamageTypes.NONE, "Jasra's Emerald"));
+CardList.cardList.Add(new CardData("JeremiadsKris", new PreferenceWrapper[0], 60, new UserAttribute[0], false, null, (float)8, (float)1, (float)3, (float)1, 7, 1, "EquipmentCard", DamageTypes.NONE, "Jeremiad's Kris"));
+CardList.cardList.Add(new CardData("PoisonDagger", new PreferenceWrapper[0], 30, new UserAttribute[0], false, null, (float)1, (float)1, (float)5, (float)1, 3, 1, "EquipmentCard", DamageTypes.NONE, "Poison Dagger"));
+CardList.cardList.Add(new CardData("Scimitars", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.BOSSGOBLINKING }, false, null, (float)1, (float)1, (float)6, (float)1, 6, 1, "EquipmentCard", DamageTypes.NONE, "Scimitars"));
+CardList.cardList.Add(new CardData("PeriaptOfProtection", new PreferenceWrapper[0], 35, new UserAttribute[0], false, null, (float)3, (float)2, (float)8, (float)3, 5, 1, "EquipmentCard", DamageTypes.NONE, "Periapt of Protection"));
+CardList.cardList.Add(new CardData("DeckOfWonder", new PreferenceWrapper[0], 65, new UserAttribute[] { UserAttribute.SHOP }, false, null, (float)3, (float)8, (float)8, (float)3, 7, 1, "EquipmentCard", DamageTypes.NONE, "Deck of Wonder"));
+CardList.cardList.Add(new CardData("BloodyKnuckles", new PreferenceWrapper[0], 40, new UserAttribute[] { UserAttribute.BOSSGIANTSQUID }, false, null, (float)1, (float)1, (float)10, (float)1, 7, 1, "EquipmentCard", DamageTypes.NONE, "Bloody Knuckles"));
+CardList.cardList.Add(new CardData("DancingScimitar", new PreferenceWrapper[0], 25, new UserAttribute[0], false, null, (float)3, (float)1, (float)6, (float)1, 4, 1, "EquipmentCard", DamageTypes.NONE, "Dancing Scimitar"));
+CardList.cardList.Add(new CardData("TrollBloodCharm", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.BOSSHYDRA }, false, null, (float)1, (float)1, (float)8, (float)8, 2, 1, "EquipmentCard", DamageTypes.NONE, "Troll Blood Charm"));
+CardList.cardList.Add(new CardData("Soulforge", new PreferenceWrapper[0], 30, new UserAttribute[] { UserAttribute.WINNECROMANCER2 }, false, null, (float)1, (float)1, (float)10, (float)1, 2, 1, "EquipmentCard", DamageTypes.NONE, "Soulforge"));
+CardList.cardList.Add(new CardData("GaussHourglass", new PreferenceWrapper[0], 20, new UserAttribute[] { UserAttribute.BOSSICEQUEEN }, false, null, (float)1, (float)1, (float)6, (float)6, 3, 1, "EquipmentCard", DamageTypes.NONE, "Gauss' Hourglass"));
+CardList.cardList.Add(new CardData("Bear", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 1, "EquipmentCard", DamageTypes.NONE, "Bear"));
+CardList.cardList.Add(new CardData("Forcefield", new PreferenceWrapper[0], 75, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)1, (float)1, (float)1, (float)5, 7, 1, "EquipmentCard", DamageTypes.NONE, "Forcefield"));
+CardList.cardList.Add(new CardData("CloakOfInvisibility", new PreferenceWrapper[0], 80, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)5, (float)1, (float)3, (float)3, 8, 1, "EquipmentCard", DamageTypes.NONE, "Cloak of Invisibility"));
+CardList.cardList.Add(new CardData("GoblinAlly", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "EquipmentCard", DamageTypes.NONE, "Goblin Ally"));
+CardList.cardList.Add(new CardData("GoblinLackey", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "EquipmentCard", DamageTypes.NONE, "Goblin Lackey"));
+CardList.cardList.Add(new CardData("Phylactery", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "EquipmentCard", DamageTypes.NONE, "Phylactery"));
+CardList.cardList.Add(new CardData("StormBlade", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 7, 0, "EquipmentCard", DamageTypes.NONE, "Storm Blade"));
+CardList.cardList.Add(new CardData("ManaTotem", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "EquipmentCard", DamageTypes.NONE, "Mana Totem"));
+CardList.cardList.Add(new CardData("HasteTotem", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "EquipmentCard", DamageTypes.NONE, "Haste Totem"));
+CardList.cardList.Add(new CardData("ShockTotem", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "EquipmentCard", DamageTypes.NONE, "Shock Totem"));
+CardList.cardList.Add(new CardData("Disorient", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)3, (float)2, (float)3, (float)3, 6, 1, "ReactionCard", DamageTypes.NONE, "Disorient"));
+CardList.cardList.Add(new CardData("Riposte", new PreferenceWrapper[0], 40, new UserAttribute[0], false, null, (float)3, (float)2, (float)6, (float)1, 5, 1, "ReactionCard", DamageTypes.NONE, "Riposte"));
+CardList.cardList.Add(new CardData("Exhaustion", new PreferenceWrapper[0], 45, new UserAttribute[] { UserAttribute.STEPS4 }, false, null, (float)3, (float)2, (float)6, (float)3, 7, 1, "ReactionCard", DamageTypes.NONE, "Exhaustion"));
+CardList.cardList.Add(new CardData("Fester", new PreferenceWrapper[0], 15, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)3, (float)2, (float)6, (float)5, 4, 1, "ReactionCard", DamageTypes.NONE, "Fester"));
+CardList.cardList.Add(new CardData("Protean", new PreferenceWrapper[0], 15, new UserAttribute[] { UserAttribute.EXPLORER }, false, null, (float)6, (float)2, (float)3, (float)3, 4, 1, "ReactionCard", DamageTypes.NONE, "Protean"));
+CardList.cardList.Add(new CardData("Cower", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 1, 0, "ReactionCard", DamageTypes.NONE, "Cower"));
+CardList.cardList.Add(new CardData("Screech", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 2, 0, "ReactionCard", DamageTypes.NONE, "Screech"));
+CardList.cardList.Add(new CardData("Retaliate", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ReactionCard", DamageTypes.NONE, "Retaliate"));
+CardList.cardList.Add(new CardData("Retribution", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ReactionCard", DamageTypes.NONE, "Retribution"));
+CardList.cardList.Add(new CardData("Reenact", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ReactionCard", DamageTypes.NONE, "Reenact"));
+CardList.cardList.Add(new CardData("Slurp", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ReactionCard", DamageTypes.NONE, "Slurp"));
+CardList.cardList.Add(new CardData("InkSpray", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ReactionCard", DamageTypes.NONE, "Ink Spray"));
+CardList.cardList.Add(new CardData("ChainLightning", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "ReactionCard", DamageTypes.NONE, "Chain Lightning"));
+CardList.cardList.Add(new CardData("Counterspell", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 4, 0, "ReactionCard", DamageTypes.NONE, "Counterspell"));
+CardList.cardList.Add(new CardData("PrayerOfWrath", new PreferenceWrapper[0], 45, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 6, 2, "PrayerCard", DamageTypes.NONE, "Prayer of Wrath"));
+CardList.cardList.Add(new CardData("PrayerOfViolence", new PreferenceWrapper[0], 20, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 3, 2, "PrayerCard", DamageTypes.NONE, "Prayer of Violence"));
+CardList.cardList.Add(new CardData("PrayerOfSpeed", new PreferenceWrapper[0], 65, new UserAttribute[0], false, null, (float)1, (float)10, (float)2, (float)1, 8, 1, "PrayerCard", DamageTypes.NONE, "Prayer of Speed"));
+CardList.cardList.Add(new CardData("PrayerOfLife", new PreferenceWrapper[0], 15, new UserAttribute[0], false, null, (float)1, (float)10, (float)1, (float)1, 1, 1, "PrayerCard", DamageTypes.NONE, "Prayer of Life"));
+CardList.cardList.Add(new CardData("CurseOfDoomPlayer", new PreferenceWrapper[0], 65, new UserAttribute[0], false, null, (float)1, (float)10, (float)2, (float)1, 8, 1, "PrayerCard", DamageTypes.NONE, "Curse of Doom"));
+CardList.cardList.Add(new CardData("CurseOfDoom", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 6, 0, "PrayerCard", DamageTypes.NONE, "Curse of Doom"));
+CardList.cardList.Add(new CardData("CurseOfDoom2", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 8, 0, "PrayerCard", DamageTypes.NONE, "Curse of Doom"));
+CardList.cardList.Add(new CardData("Curse", new PreferenceWrapper[0], -1, new UserAttribute[] { UserAttribute.NEVER }, false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "Card", DamageTypes.NONE, "Curse"));
+CardList.cardList.Add(new CardData("AdditionalCard", new PreferenceWrapper[0], 10, new UserAttribute[] { UserAttribute.NEVER }, true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalCardCost), (float)3, (float)3, (float)6, (float)3, 1, 3, "BonusCard", DamageTypes.NONE, "1 Card"));
+CardList.cardList.Add(new CardData("AdditionalAction", new PreferenceWrapper[0], 10, new UserAttribute[0], true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalActionCost), (float)8, (float)3, (float)3, (float)2, 1, 3, "BonusCard", DamageTypes.NONE, "1 Action"));
+CardList.cardList.Add(new CardData("AdditionalHealth", new PreferenceWrapper[0], 10, new UserAttribute[0], true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalHealthCost), (float)2, (float)3, (float)10, (float)3, 1, 2, "BonusCard", DamageTypes.NONE, "3 Health"));
+CardList.cardList.Add(new CardData("AdditionalMana", new PreferenceWrapper[0], 10, new UserAttribute[0], true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalManaCost), (float)1, (float)6, (float)1, (float)6, 1, 2, "BonusCard", DamageTypes.NONE, "2 Mana"));
+CardList.cardList.Add(new CardData("AdditionalExp", new PreferenceWrapper[0], 10, new UserAttribute[0], true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalExpCost), (float)3, (float)3, (float)3, (float)3, 1, 2, "BonusCard", DamageTypes.NONE, "1 Exp"));
+CardList.cardList.Add(new CardData("AdditionalEquipSlot", new PreferenceWrapper[0], 10, new UserAttribute[0], true, new __CardData_dynamicGoldFunction$callable3$28_35__(CardFinder.AdditionalEquipCost), (float)2, (float)1, (float)6, (float)2, 1, 2, "BonusCard", DamageTypes.NONE, "Equipment Slot"));
+CardList.cardList.Add(new CardData("PenaltyCurses", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyCursesFinal", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyDamage", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyDamage2", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyDamageFinal", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPuppet", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyExtraTurn", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyExileHand", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyHeal", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyMana", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyMinusAction", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyMinusAction2", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyMinusCard", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPoison", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPoison2", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPoison8", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPoisonFinal", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyWardFinal", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyWard30", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));
+CardList.cardList.Add(new CardData("PenaltyPlusCard", new PreferenceWrapper[0], -1, new UserAttribute[0], false, null, (float)0, (float)0, (float)0, (float)0, 0, 0, "PenaltyCard", DamageTypes.NONE, string.Empty));

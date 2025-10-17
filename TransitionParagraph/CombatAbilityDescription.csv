@@ -1,0 +1,70 @@
+en_Adrenaline Rush,Draw 3 Cards
+zh_Adrenaline Rush,抽3张牌
+en_Avoidance,Prevent all damage until your next turn
+zh_Avoidance,直到你的下一回合，你不会受到任何伤害
+en_Bone Shield,Prevent the next 10 damage dealt to you
+zh_Bone Shield,抵御接下来对你造成的10点伤害
+en_Burning Light,Deal 10 fire damage
+zh_Burning Light,造成10点火焰伤害
+en_Channel,Spend one action to gain 
+zh_Channel,花费一个<<SK|action>>点来获得
+en_Charm,Your opponent discards their hand.  Draw that many cards.
+zh_Charm,你的对手弃掉他们的手牌，并抽取同样数量的卡牌
+en_Clinging Light,Your opponent takes 2 additional damage from physical attacks this turn
+zh_Clinging Light,你的对手本回合受到的物理伤害额外增加2点
+en_Critical Strike,Your next source of damage this turn is doubled and piercing
+zh_Critical Strike,你本回合所造成的下一次伤害，将<翻倍>并视为<<SK|piercing>>伤害
+en_Desperate Prayer,Something good will happen...
+zh_Desperate Prayer,将会发生一些好事...
+en_Devastate,Your opponent becomes vulnerable to air, earth, fire, and water until your next turn
+zh_Devastate,你的对手将在下一回合前对<<SK|AIR>>、<<SK|EARTH>>、<<SK|FIRE>>、<<SK|WATER>>的攻击变得脆弱
+en_Distract,Take an extra turn
+zh_Distract,额外获得一个回合
+en_Divine Favor,Gain full health and 10 mana.  Your opponent discards their hand and all equipment cards in play
+zh_Divine Favor,完全恢复生命并获得10点<<SK|mana>>。你的对手弃掉他们的手牌和场上所有装备卡牌
+en_Weapon Master,Create a temporary copy of each equipment you control.
+zh_Weapon Master,获得你场上所有装备的临时复制
+en_Double Strike,Draw a temporary copy of the next card you play
+zh_Double Strike,抽取你打出的下一张牌的临时复制
+en_Flee,Escape from combat
+zh_Flee,逃离战斗
+en_Flurry,Gain 10 actions
+zh_Flurry,获得10个<<SK|action>>
+en_Arm,Put a Sword and a Greatbow into play
+zh_Arm,装备一把剑和一把弓
+en_Kai Strike,Spend all your mana to deal that much piercing damage
+zh_Kai Strike,消耗你所有法力来造成等量的穿透伤害
+en_Life Tap,Pay 5 health to draw a card
+zh_Life Tap,支付5点生命来抽一张卡牌
+en_Mana Font,Gain 10 mana
+zh_Mana Font,获得10点法力
+en_Shadow Step,Draw cards and gain actions equal to your maximum
+zh_Shadow Step,抽卡并获得与你最大值相等的<<SK|action>>点
+en_Recall,Draw the next spell card in your deck
+zh_Recall,抽取你牌组中的下一张<<SK|Spell>>卡牌
+en_Rend,Your opponent takes 3 additional damage from physical attacks this turn
+zh_Rend,你的对手本回合受到的物理伤害额外增加3点
+en_Scrounge,Put your opponent's deck into their discard pile
+zh_Scrounge,将你的对手的抽牌堆放入其弃牌堆
+en_Refocus,Draw 5 cards, then discard 2
+zh_Refocus,抽5张卡牌，然后弃掉2张
+en_Soul Leech,Deal 10 piercing damage and heal 10 health.  If this kills your opponent, gain 3 health permanently
+zh_Soul Leech,造成10点穿透伤害并恢复10点生命。如果此技能击败了对手，你将永久获得3点生命
+en_Spell Fury,Draw all spell cards in your deck
+zh_Spell Fury,抽取你牌库中的所有<<SK|Spell>>卡牌
+en_Research,Search your opponent's deck for a card and add it to your hand
+zh_Research,从你的对手牌库中搜寻一张卡牌并加入你的手牌
+en_Summon Allies,Summon three animals for the rest of the fight
+zh_Summon Allies,召唤三只动物来参与接下来的战斗
+en_Summon Bear,Summon a bear for the rest of the fight
+zh_Summon Bear,召唤一只熊来参与接下来的战斗
+en_Surge,Draw 2 cards and gain 2 actions
+zh_Surge,抽2张卡牌并获得2个<<SK|action>>点
+en_Development,Search your deck for a card and add it to your hand
+zh_Development,从你的牌库中搜寻一张卡牌并加入你的手牌
+en_Vanish,Escape from combat.  Your opponent will remain damaged and poisoned.
+zh_Vanish,逃离战斗。你的对手将保持受伤和中毒状态
+en_Pure Poison,Poison your opponent for 3.  For the remainder of the fight your poison damage is non-elemental and bypasses most defenses
+zh_Pure Poison,使你的对手获得3层中毒。在剩余的战斗中，你的毒伤害为非元素伤害，且可以绕过大多数防御
+en_Holy Surge,Heal completely
+zh_Holy Surge,完全恢复生命

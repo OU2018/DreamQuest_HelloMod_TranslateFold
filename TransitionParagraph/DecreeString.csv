@@ -1,0 +1,16 @@
+en_NAME_STARTS_WITH_True,Each turn, DO play a card whose name starts with the letter '{value}'
+zh_NAME_STARTS_WITH_True,每回合，必须打出一张名字以'{value}'开头的卡牌
+en_NAME_STARTS_WITH_False,DO NOT play cards whose names start with the letter '{value}'
+zh_NAME_STARTS_WITH_False,不能打出任何名字以'{value}'开头的卡牌
+en_NAME_CONTAINS_True,Each turn, DO play a card whose name contains the letter '{value}'
+zh_NAME_CONTAINS_True,每回合，必须打出一张名字中包含'{value}'的卡牌
+en_NAME_CONTAINS_False,DO NOT play cards whose names contain the letter '{value}'
+zh_NAME_CONTAINS_False,不能打出任何名字中包含'{value}'的卡牌
+en_CARD_TYPE_True,Each turn, DO play {value} card
+zh_CARD_TYPE_True,每回合，必须打出一张{value}类型的卡牌
+en_CARD_TYPE_False,DO NOT play {value} cards
+zh_CARD_TYPE_False,不能打出任何{value}类型的卡牌
+en_SPECIFIC_CARD_True,Each turn, DO play a card named '{value}'
+zh_SPECIFIC_CARD_True,每回合，必须打出一张名为'{value}'的卡牌
+en_SPECIFIC_CARD_False,DO NOT play cards named '{value}'
+zh_SPECIFIC_CARD_False,不能打出任何名为'{value}'的卡牌

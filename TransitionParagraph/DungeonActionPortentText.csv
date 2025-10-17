@@ -1,0 +1,40 @@
+en_Environments_CRYPT,An old crypt ruled by the {value}.
+zh_Environments_CRYPT,一个被 {value} 统治的古老墓穴。
+en_Environments_FOREST,An ancient forest controlled by the {value}.
+zh_Environments_FOREST,一个被 {value} 掌控的上古森林。
+en_Environments_DUNGEON,A musty dungeon overseen by the {value}.
+zh_Environments_DUNGEON,一个被 {value} 监管的发霉地牢。
+en_Environments_WATER,A colorful sea dominated by the {value}.
+zh_Environments_WATER,一个被 {value} 主宰的多彩海洋。
+en_Environments_VOLCANO,A roaring volcano led by the {value}.
+zh_Environments_VOLCANO,一个被 {value} 领导的喧闹火山。
+en_Environments_MOUNTAIN,An open cloudbank commanded by the {value}.
+zh_Environments_MOUNTAIN,一个被 {value} 统领的开阔云海。
+en_BossAttr_DECREE,He makes decrees
+en_BossAttr_CHOICES,He makes you choose your death
+en_BossAttr_GIFTS,He requires gifts
+en_BossAttr_CANCELS,He ruins your powers
+en_BossAttr_PHYS_IMMUNE,He is physical resistant
+en_BossAttr_ELEMENT_IMMUNE,He is elemental resistant
+en_BossAttr_FAST,He reduces your time
+en_BossAttr_DOUBLE_TURN,He takes double turns
+en_BossAttr_VAMPIRIC,He drains your life
+en_BossAttr_FLAVORED,He pierces defenses
+en_BossAttr_POISONOUS,He poisons you
+en_BossAttr_SUPER_EQUIPPED,He arms himself well
+zh_BossAttr_DECREE,他指定法则
+zh_BossAttr_CHOICES,他让你选择自己的死亡方式
+zh_BossAttr_GIFTS,他会向你索要礼物
+zh_BossAttr_CANCELS,他削弱你的力量
+zh_BossAttr_PHYS_IMMUNE,他具有物理抵抗力
+zh_BossAttr_ELEMENT_IMMUNE,他具有元素抵抗力
+zh_BossAttr_FAST,他会缩短你的时间
+zh_BossAttr_DOUBLE_TURN,他会进行双倍回合
+zh_BossAttr_VAMPIRIC,他会吸取你的生命
+zh_BossAttr_FLAVORED,他可以穿透你的防御
+zh_BossAttr_POISONOUS,他会使你中毒
+zh_BossAttr_SUPER_EQUIPPED,他装备精良
+en_dungeonText,You close your eyes and your mind wanders.  Sweeping out over the dream world, you behold many strange and wonderful sights.  Among them,
+zh_dungeonText,你闭上双眼，任由思绪飘荡。穿行于梦境之间，你目睹了无数奇妙与诡异的景象。 其中有
+en_finalBossText,Beyond, your vision is hazy, but you hear whispers of a true ruler with powers beyond compare.
+zh_finalBossText,当你的思绪渐远，你眼前的景象也渐渐变得模糊，但仍能隐约听到低语，传说中那位无敌的霸主，拥有着无法匹敌的力量。

@@ -1,0 +1,737 @@
+en_AbsorbVis,Gain up to 40 health, then deal <piercing> damage equal to the health gained this way.
+en_Accelerate,Draw 3 cards. Gain 3 @tim ^.
+en_AcidBreath,Your opponent becomes <Poisoned 4> ^.
+en_AcidLance,Your opponent becomes <Poisoned 4> ^.
+en_AcidPalm,This turn, damage you do is @ear damage.
+en_AcidRain,Your opponent becomes <Poisoned 6> ^.
+en_Alacrity,Gain 3 @tim ^. Draw a card.
+en_Anticipate,Look at your opponent's hand. Choose a card from it and add it to your hand. It goes to their discard pile when discarded.
+en_Armor,Prevent the first 3 @atk damage you would take each turn.
+en_BadWishes,Present your opponent with three options. They choose one.
+en_BadWishes2,Present your opponent with three options. They choose one.
+en_BalefulGaze,Your opponent loses half their health, rounded down (maximum loss of 60).
+en_Bandage,Gain 3 health.
+en_BattleCry,Draw a card for each Attack card in play.
+en_Bear,At the beginning of your turn, deal 3 @atk damage to your opponent. \\n Prevent the first 3 physical damage you would take each turn.
+en_Beckon,Exile 2 cards at random from your opponent's hand.
+en_Bewitch,Look at your opponent's hand. Choose a card from it. They exile that card.
+en_BladeFlurry,You deal double damage this turn.
+en_Bleed,Draw a card. Gain 1 @tim ^. Your opponent becomes <Poisoned 1> ^.
+en_Bless,Gain 15 health. <Overhealing> becomes a shield.
+en_Blight,Your opponent becomes <Poisoned 5> ^. Double the amount of poison on your opponent (maximum 30 additional poison).
+en_Blizzard,Deal 10 @wat damage, doubled if your opponent is <Chilled> ^. Your opponent becomes <Chilled 2> until the end of their next turn.
+en_BloodyKnuckles,At the start of your turn, if you have at most half your health, draw a card. Then, if your opponent has at most half their health, draw a card.
+en_Blur,You are physical resistant until your next turn.
+en_BoneShield,Prevent the next 4 damage that would be dealt to you.
+en_BoneShield2,Prevent the next 6 damage that would be dealt to you.
+en_BootsOfSpeed,At the beginning of your turn, draw a card and gain 1 @tim ^.
+en_CelestialPlate,Gain <Damage Reduction 1> ^. Gain 2 health at the start of each turn.
+en_ChainLightning,Trigger: An opponent plays a card (10% chance per card in play) \\n Effect: That card has no effect. The opponent takes 2 @air damage for each card in play. The turn ends.
+en_Channel,Your next spell cast this turn has its effect doubled.
+en_ChaosPrayer,Choose one at random: Heal 5 health, or your opponent loses 2 @tim ^, or your opponent discards 2 cards, or you take 3 @fir damage.
+en_Charm,Look at your opponent's hand. Choose a card from it. They discard that card.
+en_Choke,Deal 3 @atk damage. Your opponent loses all their mana.
+en_Circle,Draw a card and gain 1 @tim ^. At the end of your turn, draw a card and gain 1 @tim ^.
+en_Clarity,Gain 3 mana. Your spells cost 3 less this turn.
+en_Claw,Deal 2 @atk damage.
+en_CloakOfFlame,Whenever your opponent plays an attack card, they take 2 @fir damage.
+en_CloakOfInvisibility,Prevent the first card your opponent plays in each turn from having any effect. This effect stacks.
+en_CoinToss,Deal 5 <piercing damage> ^. Your opponent gains 5 gold. Exile Coin Toss.
+en_Conduit,Your spells are free this turn.
+en_Conflagration,Deal 30 @fir damage. At the start of your next turn, deal another 30 @fir damage.
+en_Corrupt,Your opponent loses 10 maximum and current health.
+en_Counterspell,Trigger: An opponent plays a spell. \\n Effect: That spell has no effect. Draw a card.
+en_CoupDeGrace,Discard your hand and lose all @tim ^. Deal 6 @atk damage plus 3 for each card and @tim lost this way.
+en_Cower,Trigger: You take damage. \\n Effect: Prevent that damage. Draw a card.
+en_Crumble,Exile an equipment or prayer card.
+en_Crush,Destroy an equipment card. If you do, deal 3 @atk damage.
+en_CrushAll,Destroy all your opponent's equipment. Exile this card.
+en_CurseOfDoom,After 5 turns, deal 30 <piercing> damage.
+en_CurseOfDoom2,After 5 turns, deal 50 <piercing> damage.
+en_CurseOfDoomPlayer,After 5 turns, deal 50 <piercing> damage.
+en_CurseOfWeakness,Shuffle 2 curse cards (which do nothing) into your opponent's deck. Draw a card.
+en_DancePuppets,Your opponent becomes a puppet until your next turn. While a puppet, they may not end their turn early or discard cards freely and cards they play hit themselves instead of you.
+en_DancingScimitar,At the beginning of your turn, deal 3 @atk damage to your opponent.
+en_DarkMending,Completely heal, then deal <piercing> damage equal to half the health gained this way.
+en_DartingDaggers,At the end of your turn, deal @atk damage to your opponent equal to twice the number of @tim you have left, then lose all your @tim ^.
+en_DeadlyCurse,Replace 3 random non-curse cards in your opponent's hand with curses.
+en_DeckOfWonder,At the start of your turn, draw a random non-equipment card (from among all unlocked cards). That card is <temporary> ^.
+en_Dice,Deal 2 @atk damage for each action card in play.
+en_Digest,Your opponent exiles a card at random from their hand.
+en_Discharge,Deal 1 @air damage for each mana you have left after casting Discharge. Lose physical immunity until your next turn.
+en_Disorient,Trigger: An opponent plays an action card. \\n Effect: That card behaves as if you had played it instead.
+en_DivineInspiration,Search your deck for any card and put it into your hand.
+en_Dodge,Gain 50% dodge until your next turn. Draw a card.
+en_Donnerschwert,Whenever you play an attack card, deal 1 @air damage.
+en_DragonsBreath,Deal 10 @fir damage.
+en_DragonScales,Gain <Damage Reduction 2> until your next turn.
+en_DragonScales2,Gain <Damage Reduction 3> until your next turn.
+en_DragonsHide,Gain <Damage Reduction 3> until your next turn.
+en_DragonsRoar,Your opponent discards 3 cards.
+en_DragonsScales,Gain 3 physical damage reduction until end of turn
+en_DragonsSnack,If your opponent has at most 5 health, it dies. If it dies this way, gain benefits as if you had devoured it.
+en_DragonsTail,Deal 3 @atk damage. Opponent loses all their @tim and mana.
+en_DragonsWisdom,Gain 10 mana.
+en_DrainLife,Your opponent loses 5 maximum health. Heal 5 health.
+en_Eagle,Deal 2 @atk damage. Draw a card.
+en_EarthShape,Gain <Damage Reduction 2> until your next turn.
+en_Electrocute,Deal 5 @air damage plus 1 @air damage for each mana you have left after casting Electrocute.
+en_ElementalFortitude,You take half damage from elemental sources until your next turn.
+en_ElementalSurge,Gain 4 mana.  Draw one of Fireball, Frost Bolt, Shock, or Acid Lance.  That card is <temporary> ^.
+en_Elude,Gain 50% dodge until your next turn.
+en_ElusivePower,Gain 5 mana. Until your next turn, prevent the next card your opponent plays from having any effect.
+en_Engulf,Exile target equipment or prayer card. Gain 5 health.
+en_Entangle,Deal 10 @atk damage.
+en_Enthrall,Look at your opponent's hand. Choose a card from it and add it to your hand. It goes to their discard pile when discarded.
+en_Entrap,Your opponent's maximum hand size is reduced by 1. They discard a card.
+en_Escape,Begin to run away. The third time you do this, lose the current combat, but provide no reward.
+en_Evasion,Exile Evasion from your deck for the remainder of the fight. You take no damage until your next turn.
+en_Execute,Play this card only if your opponent has at most 12 health. Win the fight.
+en_Exhaustion,Trigger: An opponent plays a card with at least 3 others in play. \\n Effect: That card has no effect. The turn ends.
+en_Explosion,Deal 10 @fir damage.
+en_Expose,Your opponent is <Weakened 2> this turn.
+en_Extract,Look at the top 10 cards of your opponent's deck. Exile up to 2.
+en_EyeForAnEye,Until your next turn, whenever your opponent deals damage to you, you deal that much damage to them (before reductions or immunities).
+en_Fester,Trigger: An opponent heals. \\n Effect: Instead, the opponent takes that much @ear damage.
+en_FinalFortune,Take an extra turn. If your opponent is alive at the end of that turn, die.
+en_Fireball,Deal 8 @fir damage.
+en_FireBomb,Deal 5 @fir damage. This card is removed from the game and your deck permanently after use.
+en_FireShape,For the rest of the fight, whenever the opponent plays an attack card, they take 2 @fir damage.
+en_Flamebrand,At the start of your turn, draw a <temporary> Fireball card.
+en_FlameBreath,Deal 10 @fir damage.
+en_FlameCharge,Gain 3 mana. Deal 3 @fir damage.
+en_FlamePalm,This turn, damage you do is @fir damage.
+en_Flee,Run away from the current fight.
+en_Fly,Take no damage until your next turn. Exile Fly.
+en_Focus,Draw 2 cards.
+en_Forcefield,Damage dealt to you in excess of 3 is reduced to 3.
+en_ForceOfWill,Deal 1 <piercing> damage to your opponent for each card in your deck.
+en_Freeze,Deal 15 @wat damage, doubled if your opponent is <Chilled> ^. Your opponent becomes <Chilled 3> until the end of their next turn and <Chilled 1> for the remainder of the fight.
+en_FrostBolt,Deal 4 @wat damage, doubled if your opponent is <Chilled> ^. Your opponent becomes <Chilled 1> until the end of their next turn.
+en_FrostBreath,Deal 5 @wat damage. Your opponent discards 2 cards.
+en_FrostCharge,Gain 3 mana. Your opponent becomes <Chilled 1> until the end of their next turn.
+en_FrostPalm,This turn, damage you do is @wat damage.
+en_FrostShape,Prevent the next 5 damage that would be dealt to you. For each point of damage prevented, deal 1 @wat damage to your opponent.
+en_Gag,Your opponent discards all spell cards from their hand. Deal 3 @atk damage.
+en_GaussHourglass,If you have no cards in play at the end of your turn, draw cards equal to your maximum hand size after you refill your hand.
+en_Gaze,Your opponent takes 5 damage for each curse card in their hand. Draw a card.
+en_Genius,Draw 4 cards.  Exile Genius from your deck for the remainder of the fight.
+en_GoblinAlly,At the beginning of your turn, deal 1 @atk damage.
+en_GoblinBomb,If you have a goblin lackey in play, it is destroyed and your opponent takes 5 @fir damage.
+en_GoblinLackey,When you play Goblin Lackey, draw a card and gain 1 @tim ^. At the beginning of your turn, deal 1 @atk damage.
+en_GolemArmor,For the remainder of the fight, at the beginning of your turns, gain 1 level of protection. This protection stops the first 3 @atk damage dealt to you that turn.
+en_Gore,Deal 5 @atk damage.
+en_Greatbow,Deal 1 @atk damage for each action card you play.
+en_GreatSword,For every two attack cards you play in a turn, deal 1 @atk damage
+en_Hamstring,Your opponent discards all action cards from their hand. Deal 3 @atk damage.
+en_HardeningSap,For the remainder of the fight, you deal 1 additional damage from each physical source.
+en_Haste,Draw 2 cards. In addition, you have a 10% chance to gain an extra turn.
+en_HasteTotem,At the beginning of your turn, Haste Totem gains 1 charge. Then draw a card and gain 1 @tim for each charge on Haste Totem.
+en_Heal,Gain 5 health.
+en_HealingPotion,Completely heal. This card is removed from the game and your deck permanently after use.
+en_Hemorrhage,Your opponent becomes <Poisoned 3> ^. Draw a card.
+en_Hide,Draw a card. Until your next turn, prevent the next card your opponent plays from having any effect.
+en_IceShield,Prevent the next 6 damage that would be dealt to you.  For each point of damage prevented, deal 1 @wat damage to your opponent
+en_Incorporeal,Become physical resistant until your next turn.
+en_InfernalContract,Your opponent discards their hand and gains curses equal to the number of cards discarded this way.
+en_InkSpray,Trigger: An opponent plays a card with at least 3 others in play. \\n Effect: That card has no effect. The turn ends. Exile Ink Spray.
+en_InnerFocus,Draw 2 cards. Discard a card.
+en_InnerPeace,Draw 3 cards. Discard 2 cards.
+en_InnerStrength,Draw a card. \\n \\n If you discard Second Thoughts to an effect, draw 2 cards.
+en_Inspiration,Gain 5 mana. Draw the next spell card in your deck.
+en_Invisibility,Gain 20% dodge for the rest of the fight.
+en_Jab,Deal 1 @atk damage. Draw a card. Gain 1 @tim ^.
+en_JasrasEmerald,When you play a spell card, draw a card.
+en_JasrasJarringJolt,Deal 1 @air ^, 1 @ear ^, 1 @fir ^, and 1 @wat damage.
+en_JasrasTome,At the beginning of your turn, draw the next spell card in your deck.
+en_JeremiadsBracer,You have a 10% chance of dodging your opponent's attack cards. \\n Whenever you dodge, draw a card.
+en_JeremiadsKris,When you play an attack card, deal 1 @atk damage for every 2 action cards in play (rounded up).
+en_Kick,Deal 1 @atk damage. Your opponent discards a card at random.
+en_KineticCharge,Until your next turn, gain 1 mana for each point of damage you take. Draw a card.
+en_LiarasKiss,Your opponent becomes <Poisoned 4>
+en_LichKick,Destroy all Phylacteries in play.
+en_LightningBreath,Deal 5 @air damage. Your opponent loses 2 @tim ^.
+en_Mahamat,Choose 2 at random: Draw 3 cards, deal 10 <piercing> damage to your opponent, gain 15 health, or prevent the next 15 damage that would be dealt to you.
+en_Mana1,Gain 2 mana.
+en_Mana2,Gain 4 mana.
+en_Mana3,Gain 6 mana.
+en_ManaDrain,Your opponent loses 5 mana. Gain mana equal to the amount lost this way.
+en_ManaPotion,Your mana is set to its maximum value. This card is removed from the game and your deck permanently after use.
+en_ManaSurge,Gain 10 mana.
+en_ManaSwell,Gain 5 mana. The next time you cast a spell this turn, cast a second copy of that spell.
+en_ManaTotem,At the beginning of your turn, Mana Totem gains 1 charge. Then gain 1 mana for each charge on Mana Totem.
+en_Meditation,Exile up to 2 cards from your deck for the rest of the fight. Draw a card.
+en_MentalFortress,Discard your hand. Gain a shield of strength 5 + 5 for each card discarded this way.
+en_Meteor,Deal 20 @fir damage.
+en_Mimic,Choose an action card in play and copy its effects.
+en_MimicAction,Your opponent becomes <Poisoned 2> ^.
+en_MimicAction2,Your opponent becomes <Poisoned 4> ^.
+en_MindDrain,Gain 1 @tim ^. Look at your opponent's hand and choose an action card. Add it to your hand.
+en_MindSear,Choose one: @atk ^: Deal 5 <piercing> damage or @card ^: draw 2 cards
+en_Misdirection,Your opponent discards all attack cards in their hand.
+en_NaturesBlessing,Deal 10 @fir damage. Your opponent becomes <Poisoned 5> and <Chilled 2> ^. Draw the next spell card in your deck.
+en_Obliterate,Destroy all equipment (yours and your opponent's). Deal 5 @atk damage for each equipment destroyed.
+en_Orison,Gain 4 health. <Overhealing> becomes a shield.
+en_Overload,Double your current mana (maximum gain of 30).
+en_Overpower,Draw a card for each equipment you control.
+en_Penance,Your opponent takes 2 <piercing> damage at the start of each turn for the remainder of the fight.
+en_Pendant,Gain 2 mana at the start of each turn.
+en_PenetratingPalm,This turn, damage you deal is <piercing> ^.
+en_PeriaptOfProtection,You are immune to damage on your turn.
+en_PhoenixFeather,If you would die, exile Phoenix Feather and remove it from your deck permanently. Your health is set to its maximum.
+en_Phylactery,While phylactery is in play, if the lich would die, instead its health is set to 1.
+en_Pickpocket,Gain 3 gold. Exile Pickpocket for the rest of the fight.
+en_PiercingStab,Your next source of damage this turn is <piercing> ^. Draw a card.
+en_Piety,Gain 3 mana. Remove a counter from each of your prayer cards.
+en_Pilfer,Steal an equipment card your opponent controls until it is destroyed or the fight ends.
+en_PoisonDagger,For every 2 attack cards you play in a turn, your opponent becomes <Poisoned 1> ^.
+en_Pounce,Draw 3 cards, then remove Pounce from your deck for the remainder of the fight.
+en_PrayerOfLife,When the last counter is removed, heal based on the number of counters it started with: \\n 1: 3 \\n 2: 6 \\n 3: 9 \\n 4: 12 \\n 5: 15
+en_PrayerOfSpeed,When the last counter is removed, draw cards based on the number of counters it started with: \\n 1: 2 \\n 2: 4 \\n 3: 6 \\n 4: 8 \\n 5: 10
+en_PrayerOfViolence,When the last counter is removed, deal @atk damage based on the number of counters this started with: \\n 1: 3 \\n 2: 6 \\n 3: 9 \\n 4: 12 \\n 5: 15
+en_PrayerOfWrath,When the last counter is removed, deal @fir damage based on the number of counters this started with: \\n 1: 5 \\n 2: 10 \\n 3: 15 \\n 4: 20 \\n 5: 25
+en_Preparation,The next time you deal damage this turn, double it.
+en_Protean,Trigger: Your turn starts and all the cards in your hand have different names. \\n Effect: Draw 3 cards. \\n Note: Attack (1) and Attack (2) have different names.
+en_PsionicBlast,Discard a card from your hand. If you do, deal 10 @atk damage.
+en_PureThoughts,Draw 3 cards. Exile 2 cards from your hand for the rest of the fight.
+en_PurifyingLight,Gain 10 health. <Overhealing> is converted into <piercing> damage to your opponent.
+en_Quicken,Gain 3 mana and 3 actions
+en_Quicken1,Gain 1 mana and 1 action
+en_Quicken2,Gain 2 mana and 2 actions
+en_Quicken3,Gain 3 mana and 3 actions
+en_Ravage,Deal 2 damage for each attack card in play.
+en_RawPower,Gain 5 mana. The next time your opponent would take elemental damage, it is instead <piercing> ^.
+en_Recycle,Discard all other cards in play. Draw a card. Exile Recycle for the rest of the fight.
+en_Reenact,Trigger: 75% chance when an opponent plays an attack, action, or spell card (once per card). \\n Effect: Copy the effects of that card. Draw a card.
+en_Resilience,Until your next turn, damage dealt to you in excess of 3 is reduced to 3. Draw a card.
+en_Retaliate,Trigger: An opponent ends their turn. \\n Effect: Deal 1 @atk damage for each attack card in play.
+en_Retribution,Trigger: An opponent ends their turn. \\n Effect: Deal 1 @atk damage for each action card in play.
+en_Riposte,Trigger: An opponent plays an attack card. \\n Effect: That attack card has no effect. Deal 2 @atk damage. Draw a card.
+en_Rush,Deal physical damage equal to 1/4 of your current health (rounded down).
+en_Salve,Gain 3 mana and 3 health.
+en_Salve1,Gain 1 mana and 1 health
+en_Salve2,Gain 2 mana and 2 health
+en_Salve3,Gain 3 mana and 3 health
+en_SapphireOfFocus,If you have no cards in play at the end of your turn, draw cards equal to your maximum hand size after you refill your hand
+en_Scimitars,Whenever you play a non-temporary card named 'Attack' (any level), draw a temporary copy of that card.
+en_Scorch,Deal 3 @fir damage. Deal 3 @fir damage for each level of burning on your opponent.
+en_Scream,Your opponent discards 2 cards.
+en_Screech,Trigger: An opponent plays a spell. \\n Effect: That spell has no effect. Draw a card.
+en_Sear,Deal 2 @fir damage.
+en_SecondStrike,Deal 2 <piercing> damage. Draw a card. \\n \\n If you discard Second Strike to an effect, deal 10 <piercing> damage.
+en_SecondWind,Gain 2 health. Draw a card. \\n \\n If you discard Second Wind to an effect, gain 10 health.
+en_Shield,You have a 20% chance of dodging your opponent's attack cards.
+en_ShieldWall,Prevent the next 8 damage that would be dealt to you
+en_Shock,Deal 4 @air damage. Draw the next spell card in your deck.
+en_ShockTotem,At the beginning of your turn, Shock Totem gains 1 charge. Then deal 2 @air damage for each charge counter on Shock Totem.
+en_Shred,Deal 2 @atk damage. Deal 2 @atk damage for each Claw card in play.
+en_Shrink,Your opponent loses half their health, rounded down (maximum loss of 60).
+en_Sidestep,Draw a card. The next time you deal damage this turn, double it.
+en_Sift,Draw 3 cards, then discard 3 cards.
+en_SiphonLife,Deal 4 <piercing> damage. Gain 4 health.
+en_SiphonLife1,Deal 2 @ear damage, heal 2 health.  If this spell kills the opponent, gain 1 health permanently.
+en_SiphonLife2,Deal 4 @ear damage, heal 4 health.  If this spell kills the opponent, gain 2 health permanently.
+en_SiphonLife3,Deal 6 @ear damage, heal 6 health.  If this spell kills the opponent, gain 3 health permanently.
+en_Skewer,Draw a card. Gain 1 @tim ^. Your opponent is <Weakened 1> this turn.
+en_Slam,Deal damage equal to 1/5 of your current health, rounded up (maximum 15 damage).
+en_Slice,Deal 1 @atk damage. Draw a card.
+en_Slow,Your opponent discards a card and loses 1 @tim ^.
+en_Slurp,Trigger: 35% chance when an opponent plays an attack, action, mana, or spell card. \\n Effect: That card has no effect. Exile it for the remainder of the fight. Heal for 5 health.
+en_Solidify,Your opponent discards 3 cards and loses 3 @tim ^.
+en_SoulCrush,Deal 10 damage. Your opponent discards 2 cards. This has no effect on players with damage reduction, physical resistance, dodge, or a ward.
+en_Soulfire,Deal 10 <piercing> damage to your opponent. \\n\\nAt the beginning of your turn, if Soulfire is in your discard pile, return it to your hand
+en_Soulforge,When you defeat an opponent with a levelable card, it levels up.
+en_SoulSiphon,Play this card only if your opponent has at most 5 health. Win the fight. Gain 1 mana permanently.
+en_SpriteStab,Deal 2 @atk damage. Draw a card.
+en_Staff,When you gain mana, deal 1 @atk damage for every 2 mana you gained (rounded down).
+en_Stasis,Draw 3 cards.
+en_StaticCharge,Gain 3 mana. Draw the next mana card in your deck.
+en_Sting,Your opponent becomes <Poisoned 2> ^.
+en_Stone,Shuffle 2 curse cards (which do nothing) into your opponent's deck. Your opponent discards a card.
+en_Stoneskin,Gain <Damage Reduction 2> until your next turn.
+en_Storm,Deal 10 @air damage. If you have at least 30 mana, lose 30 mana and take an extra turn after this one.
+en_StormBlade,Whenever you play an attack card, deal 1 @air damage.
+en_StormPalm,This turn, damage you do is @air damage.
+en_StormShape,Until your next turn, damage taken first reduces your mana instead of your health and, so long as you have mana, is reduced by half.
+en_StormStab,Deal 2 @air damage. Draw a card. Gain 1 @tim ^.
+en_Strike,Deal 1 @atk damage.
+en_Strike1,Deal 5 @atk damage. \\n Warning: Higher levels of Strike cost additional @tim to play.
+en_Strike2,Deal 10 @atk damage. \\n Warning: Higher levels of Strike cost additional @tim to play.
+en_Strike3,Deal 15 @atk damage. \\n Warning: Higher levels of Strike cost additional @tim to play.
+en_Study,Draw 3 cards. Discard 1 card.
+en_StudyGuide,Choose a card in your opponent's discard pile. Take it and add it to your deck permanently. This card is removed from the game and your deck permanently after use.
+en_Suffocate,Your opponent discards 2 cards and becomes <Chilled 1> ^.
+en_SummonCompanions,Draw one of Wolf, Turtle, or Eagle.  That card is <temporary> ^.
+en_Swarm,Deal 1 @atk damage for each goblin in play.
+en_Swarm2,Deal 2 @atk damage for each goblin in play.
+en_Swiftness,Gain 2 @tim ^. Draw a card.
+en_Swipe,Gain 2 @tim and deal 1 @atk damage.
+en_Sword,Deal 1 @atk damage for every 2 attack cards you play in a turn.
+en_Sword1,At the start of your turn, deal 1 @atk damage.
+en_Sword2,At the start of your turn, deal 2 @atk damage.
+en_Sword3,At the start of your turn, deal 3 @atk damage.
+en_Sword4,At the start of your turn, deal 4 @atk damage.
+en_Teach,Your opponent chooses a card in their hand and exiles it for the remainder of the fight. They then add a Sear to their hand if they exiled an Action, a Slap if they exiled an Attack, or an Attack (level 1) otherwise.
+en_TheBleeder,When you play an attack card, your opponent is <Weakened 1> ^.
+en_ThunderStorm,Deal 10 @air damage.
+en_Tiltowait,Deal 20 <piercing> damage.
+en_TimeStop,Exile Time Stop from your deck for the remainder of the fight.  Take an extra turn after this one
+en_TrollBloodCharm,When you win a combat, heal half your missing health (rounded up).
+en_TrollHide,For the rest of the fight, gain 2 health at the start of your turn.
+en_Turtle,Prevent the next 6 damage that would be dealt to you.
+en_VampireBite,Deal 2 @atk damage. Gain 2 health.
+en_VampireBite2,Deal 3 @atk damage. Gain 3 health.
+en_VampireSword,For each 3 @atk damage you deal each turn, gain 1 health.
+en_VaporForm,Become physical immune until your next turn.
+en_Venom,Your opponent becomes <Poisoned 3> ^.
+en_VileCharge,Gain 3 mana. Prevent the next 3 damage that would be dealt to you.
+en_WallOfSwords,This turn, whenever you deal damage, gain a shield that prevents that much damage.
+en_Ward,Prevent the next 8 damage that would be dealt to you.
+en_Web,Your opponent discards a card and loses 1 @tim ^.
+en_Web2,Your opponent discards 2 cards and loses 2 @tim ^.
+en_Wisdom,Gain 3 mana. Draw a card.
+en_Wisdom1,Gain 1 mana and draw a card
+en_Wisdom2,Gain 2 mana and draw a card
+en_Wisdom3,Gain 3 mana and draw a card
+en_Wolf,Your opponent becomes <Poisoned 3> ^.
+en_WrathOfGod,Draw 5 cards. Discard all non-attack cards from your hand.
+en_WreathOfFire,For the remainder of the fight, when an opponent plays an attack card, deal 3 @fir damage to them.
+en_Zap,Your opponent loses all mana and @tim ^.
+en_ZombieBite,Your opponent gains 5 ranks of diseased. At the beginning of their turn, they lose 1 rank of diseased. When the last is removed, they die.
+zh_AbsorbVis,恢复最多40点生命值,然后造成获得生命值量的 <<<SK|piercing>>> 伤害。
+zh_Accelerate,抽 3 张卡。 获得 3 @tim ^。
+zh_AcidBreath,敌方获得 <<<SK|Poisoned>> 4> ^。
+zh_AcidLance,敌方获得 <<<SK|Poisoned>> 4> ^.
+zh_AcidPalm,当前回合, 你 造成的 伤害 都视为 @ear 伤害。
+zh_AcidRain,敌方获得 <<<SK|Poisoned>> 6> ^.
+zh_Alacrity,获得 3 @tim ^。抽一张卡。
+zh_Anticipate,查看敌方手牌， 从中选择一张加入你的手牌。 当这张卡 被丢弃时 进入敌方的弃牌堆。
+zh_Armor,每回合抵挡你受到的 前 3 点 @atk 伤害。
+zh_BadWishes,向敌方展示三个选择， 令他们从中选择一个。
+zh_BadWishes2,向敌方展示三个选择， 令他们从中选择一个。
+zh_BalefulGaze,敌方失去一半生命值, 向下取整 (最大失去 60点 生命值)。
+zh_Bandage,获得 3 生命值。
+zh_BattleCry,本回合每打出一张 攻击 牌，抽一张卡。
+zh_Bear,在你的回合开始时，对你的对手造成 3 @atk 的伤害。\\n防止每回合对你造成 前 3 点 物理伤害。
+zh_Beckon,从敌方手牌中随机<消耗> 2 张卡。
+zh_Bewitch,查看敌方手牌，从中选择一张进行<消耗>。
+zh_BladeFlurry,你当前回合造成双倍伤害。
+zh_Bleed,抽 1 张卡。 获得 1 @tim ^. 敌方获得 <<<SK|Poisoned>> 1> ^。
+zh_Bless,恢复 15点 生命值。 <<<SK|Overhealing>>> 的转化为对应层数的护盾。
+zh_Blight,敌方获得 <<<SK|Poisoned>> 5> ^。 敌方当前的中毒层数翻倍 (最大 30 层额外中毒)。
+zh_Blizzard,造成 10 @wat 伤害,  若敌方处在 <<<SK|Chilled>>> 状态则造成双倍伤害^。 敌方获得 <<<SK|Chilled>> 2> 直到其下个回合。
+zh_BloodyKnuckles,在回合开始时， 如果你的生命值最多为一半， 就抽一张牌。 然后，若对手的生命值至多为一半，则抽一张卡。
+zh_Blur,直到你的下个回合为止， 你获得 受到的物理伤害减半。
+zh_BoneShield,防止接下来对你造成的 4 点伤害伤害。
+zh_BoneShield2,防止接下来对你造成的 6 点伤害伤害。
+zh_BootsOfSpeed,在回合开始时， 抽一张牌， 获得 1 @tim ^。
+zh_CelestialPlate,获得 <伤害减免 1> ^。在每回合开始时 恢复 2 点 生命值。
+zh_ChainLightning,触发条件: 敌方打出一张任意卡(每张打出的卡都有 10% 机率) \\n 效果: 那张卡无效。 敌方本回合每打出一张卡受到 2 @air 伤害。结束回合。
+zh_Channel,当前回合，你打出的下一张 <[咒术]> 卡，效果翻倍。
+zh_ChaosPrayer,随机选择一项: 治愈 5点 生命值 或 敌方失去 2 @tim ^, 或敌方 丢弃 2 张卡,或己方受到 3 @fir 伤害。
+zh_Charm,查看敌方手牌， 从中选择一张进行丢弃。
+zh_Choke,造成 3点 @atk 伤害。 敌方失去所有 <<SK|mana>>值。
+zh_Circle,抽一张牌并 获得 1 @tim ^。 在你的回合结束时， 抽一张牌并 获得 1 @tim ^。
+zh_Clarity,获得 3点 <<SK|mana>>值。当前回合， 你的咒术牌耗能减少3。
+zh_Claw,造成 2点 @atk 伤害。
+zh_CloakOfFlame,每当你的对手打出 <[攻击]> 卡 时，他们都会受到 2 @fir 伤害。
+zh_CloakOfInvisibility,防止对手在每回合打出的第一张牌产生任何效果。这种效果会叠加。
+zh_CoinToss,造成 5 <<<SK|piercing>>> 伤害。 敌方 获得 5 金币。 <消耗> 
+zh_Conduit,当前回合，你的咒术牌耗能为 0。
+zh_Conflagration,造成 30 @fir 伤害。 你的下回合开始时, 再造成 30 @fir 伤害。
+zh_Corrupt,敌方失去 10点 生命值 及 最大生命值。
+zh_Counterspell,触发条件: 敌方打出 <[咒术]> 卡。 \\n 效果: 那张咒术卡无效。抽一张卡。
+zh_CoupDeGrace,丢弃所有手牌 并 失去所有 @tim ^。 造成 6点 @atk 伤害， 每张因打出这张卡而丢弃的手卡及失去的 @tim 将额外造成 3点 @atk 伤害。
+zh_Cower,触发条件: 己方受到伤害。 \\n 效果: 抵消该伤害。抽一张卡。
+zh_Crumble,破坏场上的一张 <装备> 或 <祈祷> 卡。
+zh_Crush,破坏一张装备卡。若成功, 则造成 3点 @atk 伤害。
+zh_CrushAll,破坏敌方的所有装备。 <消耗> 
+zh_CurseOfDoom, 5 回合之后, 造成 30 <<<SK|piercing>>> 伤害。
+zh_CurseOfDoom2, 5 回合之后, 造成 50 <<<SK|piercing>>> 伤害。
+zh_CurseOfDoomPlayer, 5 回合之后, 造成 50 <<<SK|piercing>>> 伤害。
+zh_CurseOfWeakness,将 2 张 诅咒卡（无任何效果）洗入敌方卡组。抽一张卡。
+zh_DancePuppets,敌方获得 一个 人偶 直到你的下一回合。 人偶 可能 阻止敌方提前结束回合， 或 主动 丢弃卡牌 ， 也 可能 使 敌方 打出 的 目标 为己方 的卡牌转为对其自身。
+zh_DancingScimitar,在你的回合开始时， 对 敌方 造成 3 @atk 伤害。
+zh_DarkMending,完全治愈,  并造成等于以此方式获得的生命值的一半的 <<<SK|piercing>>> 伤害。
+zh_DartingDaggers,在回合结束时，对 敌方 造成相当于 你 剩余 @tim 数量 两倍 的 @atk 伤害， 然后 失去 你 所有 的 @tim ^。
+zh_DeadlyCurse,用 诅咒卡 随机 替换 敌方 手牌中的 3 张 非诅咒卡。
+zh_DeckOfWonder,在你的回合开始时， 从所有 已解锁 的 卡片 中 随机抽取 一张 非 <[装备]> 卡。这张卡是 <临时的> ^。
+zh_Dice,本回合 每打出过一张 行动卡，造成 2点 @atk 伤害。
+zh_Digest,从敌方手牌中随机<消耗> 1 张卡。
+zh_Discharge,使用该卡牌后剩余的每一点 <<SK|mana>>值 造成 1 @air 伤害。 失去 物理免疫 直到你的下一个回合。
+zh_Disorient,触发条件: 敌方打出 <[行动]> 卡。 \\n 效果: 那张卡转变为由你打出的效果。
+zh_DivineInspiration,查找你牌堆中的任意卡牌 加入手卡。
+zh_Dodge,获得 50% 闪避率直到你的下一回合。抽一张卡。
+zh_Donnerschwert,每当你打出 <[攻击]> 卡，造成 1 @air 伤害。
+zh_DragonsBreath,造成 10 @fir 伤害。
+zh_DragonScales,获得 <伤害减免 2> 直到你的下一回合。
+zh_DragonScales2,获得 <伤害减免 3> 直到你的下一回合。
+zh_DragonsHide,获得 <伤害减免 3> 直到你的下一回合。
+zh_DragonsRoar,敌方丢弃 3 张卡。
+zh_DragonsScales,获得 3 点 <物理伤害减免> 直到回合结束。
+zh_DragonsSnack,若敌方有不到 5点 生命值, 则令其死亡。 若敌方因此死亡, 则按照你  <[吞噬]> 了它进行奖励结算。
+zh_DragonsTail,造成 3点 @atk 伤害。 敌方失去其所有 @tim 及 <<SK|mana>>值。
+zh_DragonsWisdom,获得 10点 <<SK|mana>>值。
+zh_DrainLife,敌方失去 5点 最大生命值。 恢复 5点 生命值。
+zh_Eagle,造成 2点 @atk 伤害。抽一张卡。
+zh_EarthShape,获得 <伤害减免 2> 直到你的下一回合。
+zh_Electrocute,造成 5 @air 伤害， 使用该卡牌后剩余的每一点<<SK|mana>>值额外造成 1 @air 伤害。
+zh_ElementalFortitude,直到你的下一个回合， 你受到的元素伤害减半。
+zh_ElementalSurge,获得 4点 <<SK|mana>>值。  抽取一张  <[<<CardName|Fireball>>]> ,  <[<<CardName|Frost Bolt>>]> ,  <[<<CardName|Shock>>]> , 或  <[<<CardName|Acid Lance>>]> 。  这些卡牌是 <<<SK|temporary>>> ^。
+zh_Elude,获得 50% 闪避率直到你的下一回合。
+zh_ElusivePower,获得 5点 <<SK|mana>>值。 直到你的下一个回合， 令敌方的下一张卡无效。
+zh_Engulf,破坏目标 装备 或 祈祷卡。  获得 5点 生命值。
+zh_Entangle,造成 10点 @atk 伤害。
+zh_Enthrall,查看敌方手牌， 从中选择一张加入你的手牌。 当这张卡 被丢弃时 进入敌方的弃牌堆。
+zh_Entrap,敌方最大手牌数-1。  敌方丢弃 1 张卡。
+zh_Escape,开始逃跑。 在一场战斗中， 第三次 打出 这张卡 时， 当前战斗失败， 且无奖励。
+zh_Evasion,直到你的下一回合， 你不会受到任何伤害。 <消耗> 
+zh_Execute,仅当敌方生命值不大于 12点 时可以打出。 获得 本场战斗 的胜利。
+zh_Exhaustion,触发条件: 当敌方场上 存在 至少 3 张 卡时， 敌方 打出 下一张 卡。 \\n 效果:那张卡无效。 回合结束。
+zh_Explosion,造成 10 @fir 伤害。
+zh_Expose,敌方获得 <<<SK|Weakened>> 2> 当前回合。
+zh_Extract,查看敌方牌组顶端的 10 张卡。 消耗 最多 2 张。
+zh_EyeForAnEye,直到你的下一个回合， 敌方对你造成多少伤害， 敌方就受到多少伤害 (在 减免或免疫 前的伤害 ).
+zh_Fester,触发条件: 敌方回血。 \\n 效果: 敌方回复失败， 并受到等量 @ear 伤害。
+zh_FinalFortune,直接获得额外回合。 若敌方在额外回合结束时依然存活，则己方死亡。
+zh_Fireball,造成 8 @fir 伤害。
+zh_FireBomb,造成 5 @fir 伤害。 <移除> 
+zh_FireShape,本场战斗的剩余回合中， 敌方每打出一张 <攻击> 卡，则受到 2 @fir 伤害。
+zh_Flamebrand,在你的回合开始时， 抽一张 <临时的> <[火球术]> 卡牌。
+zh_FlameBreath,造成 10 @fir 伤害。
+zh_FlameCharge,获得 3点 <<SK|mana>>值。 造成 3 @fir 伤害。
+zh_FlamePalm,当前回合, 你造成的都是 @fir 伤害。
+zh_Flee,从当前战斗中逃跑。
+zh_Fly,直到你的下一回合， 你不会受到任何伤害。 <消耗> 
+zh_Focus,抽 2 张卡。
+zh_Forcefield,对你造成的 伤害 最大不超过 3 。
+zh_ForceOfWill,你的牌堆中每有一张卡。则对敌方造成 1 <<<SK|piercing>>> 伤害。
+zh_Freeze,造成 15 @wat 伤害, 若敌方处在 <<<SK|Chilled>>> 状态则造成双倍伤害^。 敌方获得 <<<SK|Chilled>> 3> 直到他们的下一个回合结束 , 并且 <<<SK|Chilled>> 1> 持续到战斗的剩余时间。
+zh_FrostBolt,造成 4 @wat 伤害, 若敌方处在 <<<SK|Chilled>>> 状态则造成双倍伤害^。 敌方获得 <<<SK|Chilled>> 1> 直到他们的下一个回合结束。
+zh_FrostBreath,造成 5 @wat 伤害。 敌方 丢弃 2 张卡。
+zh_FrostCharge,获得 3点 <<SK|mana>>值。 敌方获得 <<<SK|Chilled>> 1> 直到其下回合结束。
+zh_FrostPalm,当前回合, 你造成的都是 @wat 伤害。
+zh_FrostShape,防止接下来对你造成的 5 点伤害。 每防护 1 点伤害, 对敌方造成 1 @wat 伤害。
+zh_Gag,敌方 丢弃 手牌中的所有 <[咒术]> 卡。  造成 3点 @atk 伤害。
+zh_GaussHourglass,若己方在回合结束时， 没有牌在场， 那么在你 重新 抽满手牌后， 抽 与你最大手牌 大小相等 的牌。
+zh_Gaze,敌方手牌中 每有一张 <[诅咒]> 卡 则 敌方 受到 5点 伤害。抽一张卡。
+zh_Genius,抽 4 张卡。 <消耗>
+zh_GoblinAlly,在回合开始时， 造成 1 @atk 的伤害。
+zh_GoblinBomb,若你有一张 <[<<CardName|Goblin Lackey>>]>在场上，摧毁(将装备卡丢入弃牌堆)那张卡牌并对敌方造成 5 @fir 伤害。
+zh_GoblinLackey,当你打出 <[<<CardName|Goblin Lackey>>]> 时，抽 一张牌 并 获得1 @tim ^。在回合开始时， 造成1 @atk 伤害。
+zh_GolemArmor,在本场战斗的剩余回合中, 在你的回合开始时,  获得 1 层 <保护> 。  <保护>  可阻止一回合内对你造成的 3点 @atk 伤害。
+zh_Gore,造成 5点 @atk 伤害。
+zh_Greatbow,每打出一张 <[行动]> 卡，造成 1 @atk 伤害。
+zh_GreatSword,你在一个回合中 每 打出 两 张 <[攻击]> 牌，就会造成 1 @atk 的伤害
+zh_Hamstring,敌方 丢弃 手卡中的所有 <[行动]> 卡。 造成 3点 @atk 伤害。
+zh_HardeningSap,在本场战斗的剩余回合中, 你的任何物理伤害 + 1。
+zh_Haste,抽 2 张卡。 并且，你有 10% 机率获得一个额外回合。
+zh_HasteTotem,在回合开始时，快速图腾 获得 1 次充能。然后 抽一张牌， 在快速图腾上每点充能 获得 1 @tim ^。
+zh_Heal,恢复 5点 生命值。
+zh_HealingPotion,完全治愈。 <移除> 
+zh_Hemorrhage,敌方获得 <<<SK|Poisoned>> 3> ^。抽一张卡。
+zh_Hide,抽一张卡。直到你的下一个回合， 敌人的下一张卡失效。
+zh_IceShield,防止接下来对你造成的 6 点伤害伤害。 每防护 1 点伤害, 对敌方造成 1 @wat 伤害。
+zh_Incorporeal,获得 <物理抗性> 直到你的下一回合。
+zh_InfernalContract,敌方 丢弃 所有手牌， 并获得 等同于 以此方式 丢弃 的 手牌数量 的 诅咒 卡。
+zh_InkSpray,触发条件: 当敌方场上 存在 至少 3 张 卡时， 敌方 打出 下一张 卡。 \\n 效果: 那张卡无效。 回合结束。 <消耗>
+zh_InnerFocus,抽 2 张卡。 丢弃 1 张卡。
+zh_InnerPeace,抽 3 张卡。 丢弃 2 张卡。
+zh_InnerStrength,抽 1 张卡。 \\n \\n 若 你 因为 某种效果 而丢弃此卡， 则抽 2 张卡。 
+zh_Inspiration,获得 5点 <<SK|mana>>值。 抽取牌堆中的下一张 <咒术> 卡。
+zh_Invisibility,在本场战斗的余下回合中，获得 20% 闪避率。
+zh_Jab,造成 1点 @atk 伤害。抽一张卡。 获得 1 @tim ^。
+zh_JasrasEmerald,当你打出 <[咒术]> 牌时， 抽一张牌。
+zh_JasrasJarringJolt,造成 1 @air ^, 1 @ear ^, 1 @fir ^, 及 1 @wat 伤害。
+zh_JasrasTome,在你的回合开始时， 从你的牌组中 抽 下一张 <[咒术]> 牌。
+zh_JeremiadsBracer,你有 10% 的 机会 躲避 对手 的  <[攻击]> 卡。\\n 若 成功 躲避， 则抽一张牌。
+zh_JeremiadsKris,当你打出 <[攻击]> 牌，场上 每 有 2 张  <[行动]> 牌 （四舍五入）则造成 1 @atk 伤害。
+zh_Kick,造成 1点 @atk 伤害。 敌方 随机 丢弃一张卡。
+zh_KineticCharge,直到你的下一个回合， 你每受到 1点 伤害，则获得 1点 <<SK|mana>>值。抽一张卡。
+zh_LastChance,这张卡的效果与你牌组中一张随机的非<[绝望打击]>行动卡相同。
+zh_LiarasKiss,敌方获得 <<<SK|Poisoned>> 4> 。
+zh_LichKick,摧毁场上所有<<CardName|Phylactery>>。
+zh_LightningBreath,造成 5 @air 伤害。 敌方失去 2 @tim ^。
+zh_Mahamat,随机生效其中两项: 抽 3 张卡， 对敌方造成 10 <<<SK|piercing>>> 伤害, 恢复 15点 生命值, 或 防止接下来对你造成的 15 点伤害。
+zh_Mana1,获得 2点 <<SK|mana>>值。
+zh_Mana2,获得 4点 <<SK|mana>>值。
+zh_Mana3,获得 6点 <<SK|mana>>值。
+zh_ManaDrain,敌方失去 5点 <<SK|mana>>值。 获得 敌方 因此 失去 点数 的<<SK|mana>>值。
+zh_ManaPotion,你的<<SK|mana>>值恢复到最大值。 <移除> 
+zh_ManaSurge,获得 10点 <<SK|mana>>值。
+zh_ManaSwell,获得 5点 <<SK|mana>>值。 当前回合你打出的下一张 <[咒术]> 卡，额外打出一张该卡牌的复制。
+zh_ManaTotem,在你回合开始时，<<SK|mana>>图腾 获得 1 次充能。然后 在 <<SK|mana>>图腾 上 每点充能 获得 1 点 <<SK|mana>>。
+zh_Meditation, <消耗> 卡组中最多两张卡牌。 抽一张卡。
+zh_MentalFortress,丢弃所有手牌。  获得  5 点护盾。 每以此方式丢弃一张卡牌，再获得 5 点护盾。
+zh_Meteor,造成 20 @fir 伤害。
+zh_Mimic,选择场上的一张 <[行动]> 卡， 并复制其效果。
+zh_MimicAction,敌方获得 <<<SK|Poisoned>> 2> ^。
+zh_MimicAction2,敌方获得 <<<SK|Poisoned>> 4> ^。
+zh_MindDrain,获得 1 @tim ^. 查看敌方手牌， 从中选择一张 <[行动]> 卡 加入你的手牌。
+zh_MindSear,选择一项生效: @atk ^: 造成 5 <<<SK|piercing>>> 伤害 或 @card ^: 抽 2 张卡。
+zh_Misdirection,敌方 丢弃 手牌中的所有 <[攻击]> 卡。
+zh_NaturesBlessing,造成 10 @fir 伤害。 敌方获得 <<<SK|Poisoned>> 5> 及 <<<SK|Chilled>> 2> ^。 抽取牌堆中的下一张 <咒术> 卡。
+zh_Obliterate,摧毁敌我双方的所有装备。  每损毁一个装备， 则造成 5点 @atk 伤害。
+zh_Orison,恢复 4点 生命值。 <<<SK|Overhealing>>> 的转化为对应层数的护盾。
+zh_Overload,令你当前的 <<SK|mana>>值 翻倍(最多获得 30点)。
+zh_Overpower,你每装备着一张 <[装备]> 卡， 抽取一张卡牌。
+zh_Penance,在本场战斗的余下回合中， 每回合 开始 敌方 受到 2 <<<SK|piercing>>> 伤害。
+zh_Pendant,每回合开始时获得 2 点 <<SK|mana>>。
+zh_PenetratingPalm,当前回合, 你造成的伤害都视为 <<<SK|piercing>>> 伤害。
+zh_PeriaptOfProtection,在你的回合，你对伤害免疫。
+zh_PhoenixFeather,若己方将要死亡， 则 <移除> 此卡牌。你的生命值 变为 最大值。
+zh_Phylactery,当护符被装备时，若 巫妖 将 死亡，则 其 生命值 变为 1。
+zh_Pickpocket,获得 3 <<SK|gold>>。 <消耗> 
+zh_PiercingStab,当前回合你造成的下一次伤害视为 <<<SK|piercing>>> 伤害。抽一张卡。
+zh_Piety,获得 3点 <<SK|mana>>值。 减少所有祈祷牌的计时器 1 层。
+zh_Pilfer,偷取敌方装备中的一张 <[装备]> 卡，直到该卡牌被毁坏或者战斗结束。
+zh_PoisonDagger,你在一个回合中每打出 2 张  <[攻击]> 卡， 则你的对手 获得  <<<SK|Poisoned>> 1> ^.
+zh_Pounce,抽 3 张卡。 <消耗> 
+zh_PrayerOfLife,当回合计数器移除后， 按照设定的 初始 计时器 层数 恢复生命值：  \\n [1]: 3 \\n [2]: 6 \\n [3]: 9 \\n [4]: 12 \\n [5]: 15
+zh_PrayerOfSpeed,当回合计数器移除后， 按照设定的 初始 计时器 层数 抽取卡牌： \\n [1]: 2 \\n [2]: 4 \\n [3]: 6 \\n [4]: 8 \\n [5]: 10
+zh_PrayerOfViolence,当回合计数器移除后， 按照设定的 初始 计时器 层数 造成 @atk 伤害： \\n [1]: 3 \\n [2]: 6 \\n [3]: 9 \\n [4]: 12 \\n [5]: 15
+zh_PrayerOfWrath,当回合计数器移除后， 按照设定的 初始 计时器 层数 造成 @fir 伤害： \\n [1]: 5 \\n [2]: 10 \\n [3]: 15 \\n [4]: 20 \\n [5]: 25
+zh_Preparation,当前回合 你 造成 的 下一次伤害 为 双倍伤害。
+zh_Protean,触发条件: 你的回合开始时，并且你的手卡名字完全不同。 \\n 效果: 抽3张卡。 \\n 举例: 攻击(1) 和 攻击(2) 有不同的名字。
+zh_PsionicBlast,丢弃手牌中的 1 张卡。 若成功， 则造成 10点 @atk 伤害。
+zh_PureThoughts,抽 3 张卡。 <消耗> 手牌 中 的 2 张卡。
+zh_PurifyingLight,恢复 10点 生命值。 <<<SK|Overhealing>>> 的转化为对敌方造成的 <<<SK|piercing>>> 伤害。
+zh_Quicken,获得 3点 <<SK|mana>>值 及 3 行动点。
+zh_Quicken1,获得 1点 <<SK|mana>>值 及 1 行动点。
+zh_Quicken2,获得 2点 <<SK|mana>>值 及 2 行动点。
+zh_Quicken3,获得 3点 <<SK|mana>>值 及 3 行动点。
+zh_Ravage,本回合每打出过一张 <[攻击]> 卡，就造成 2 伤害。
+zh_RawPower,获得 5点 <<SK|mana>>值。下次敌方受到元素伤害时，伤害视为 <<<SK|piercing>>> 伤害。
+zh_Recycle,丢弃场上的其他卡牌。抽一张卡。 <消耗>
+zh_Reenact,触发条件: 敌方打出 <[咒术]>  ， <[行动]>  或 <[攻击]> 卡时 75% 机率触发( 每张 卡 打出 单独 计算 触发概率)。 \\n 效果: 复制那张卡的效果。抽一张卡。
+zh_Resilience,直到你的下一个回合， 对你造成的伤害最多为 3 点。 抽一张卡。
+zh_Retaliate,触发条件: 敌方 结束他们的回合。 \\n 效果: 场上每有一张  <[攻击]> 卡， 则造成 1点 @atk 伤害。
+zh_Retribution,触发条件: 敌方 结束他们的回合。 \\n 效果: 场上每有一张  <[行动]> 卡， 则造成 1点 @atk 伤害。.
+zh_Riposte,触发条件: 敌方打出 <[攻击]> 卡。 \\n 效果: 敌方打出的那张卡无效。 造成 2点 @atk 伤害。抽一张卡。
+zh_Rush,造成 你当前生命值 1/4 的 物理伤害 (向下取整)。
+zh_Salve,获得 3点 <<SK|mana>>值 及 3点 生命值。
+zh_Salve1,获得 1点 <<SK|mana>>值 及 1点 生命值。
+zh_Salve2,获得 2点 <<SK|mana>>值 及 2点 生命值。
+zh_Salve3,获得 3点 <<SK|mana>>值 及 3点 生命值。
+zh_SapphireOfFocus,若己方在回合结束时， 没有牌在场， 那么在你 重新 抽满手牌后， 抽 与你最大手牌 大小相等 的牌。
+zh_Scimitars,每当你打出一张名为‘攻击’的 <非临时牌（任何级别）> 时， 抽取一张该牌的 <临时> 副本。
+zh_Scorch,造成 3 @fir 伤害。 敌方每有一层燃烧，则造成 3 @fir 伤害。
+zh_Scream,敌方 丢弃 2 张卡。
+zh_Screech,触发条件: 敌方打出 <[咒术]> 卡。 \\n 效果: 敌方打出的那张卡无效。 抽一张卡。
+zh_Sear,造成 2 @fir 伤害。
+zh_SecondStrike,造成 2 <<<SK|piercing>>> 伤害。抽一张卡。 \\n \\n 若 你 因为 某种效果 而丢弃此卡， 则造成 10 <<<SK|piercing>>> 伤害。
+zh_SecondWind,恢复 2 生命值。抽一张卡。 \\n \\n 若 你 因为 某种效果 而丢弃此卡， 则恢复 10点 生命值。
+zh_Shield,你有 20% 的 机会 躲过 对手的  <[攻击]> 牌。
+zh_ShieldWall,防止接下来对你造成的 8 点伤害。
+zh_Shock,造成 4 @air 伤害。抽取牌堆中的下一张 <咒术> 卡。
+zh_ShockTotem,在回合开始时， 冲击图腾 获得 1 次充能。然后 冲击图腾 的 上每点充能 造成 2 @air 伤害。
+zh_Shred,造成 2点 @atk 伤害。 本回合每打出一张 <[爪击]> ， 则造成 2点 @atk 伤害。
+zh_Shrink,敌方失去他们 当前生命 的一半, 向下取整 (最多 60 点).
+zh_Sidestep,抽 1 张卡。 当前回合 你 造成 的 下一次伤害 为 双倍伤害。
+zh_Sift,抽 3 张卡， 而后丢弃 3 张卡。
+zh_SiphonLife,造成 4 <<<SK|piercing>>> 伤害。 获得 4点 生命值。
+zh_SiphonLife1,造成 2 @ear 伤害, 恢复 2点 生命值。  若敌人被这张卡牌击杀, 则获得永久获得 1 最大生命值。
+zh_SiphonLife2,造成 4 @ear 伤害, 恢复 4点 生命值。  若敌人被这张卡牌击杀, 则获得永久获得 2 最大生命值。
+zh_SiphonLife3,造成 6 @ear 伤害, 恢复 6点 生命值。  若敌人被这张卡牌击杀, 则获得永久获得 3 最大生命值。
+zh_Skewer,抽 1 张卡。 获得 1 @tim ^. 敌方 获得 <<<SK|Weakened>> 1> 当前回合。
+zh_Slam,造成 你当前生命值 1/5 的 物理伤害 (向上取整，最多 15 点)。
+zh_Slice,造成 1点 @atk 伤害。抽一张卡。
+zh_Slow,敌方 丢弃 1 张卡 并 失去 1 @tim 。
+zh_Slurp,触发条件: 敌方打出 <[咒术]>  ， <[行动]>  ， <[<<SK|mana>>]>  或 <[攻击]> 卡时 35% 机率触发. \\n 效果: 那张卡无效 并 <消耗> 。 恢复 5点 生命值。
+zh_Solidify,敌方 丢弃 3 张卡 并 失去 3 @tim ^.
+zh_SoulCrush,造成 10 伤害。 敌方 丢弃 2 张卡。  <伤害减免> 、 <物理抗性> 、 <闪避> 或 <防御>  对此伤害有效。
+zh_Soulfire,对敌方造成 10 <<<SK|piercing>>> 伤害。在你的回合开始时, 若 <[<<CardName|Soulfire>>]> 在你的弃牌堆中， 将其返回你的手牌。
+zh_Soulforge,当你用一张 <可升级> 的牌击败对手时， 该卡片 <升级> 。
+zh_SoulSiphon,仅当敌方生命值不大于5时可以打出。 获得胜利。 并永久获得 1点 初始<<SK|mana>>值。
+zh_SpriteStab,造成 2点 @atk 伤害。抽一张卡。
+zh_Staff,当你 获得 <<SK|mana>> 时， 每 获得 2 点 <<SK|mana>> 就 造成 1 @atk 伤害（向下取整）。
+zh_Stasis,抽 3 张卡。
+zh_StaticCharge,获得 3点 <<SK|mana>>值。 抽取牌堆中的下一张 <<<SK|mana>>> 卡。
+zh_Sting,敌方获得 <<<SK|Poisoned>> 2> ^.
+zh_Stone,将 2 <[诅咒]> 卡(无任何效果) 洗入敌方卡组。 敌方 丢弃 1 张卡。
+zh_Stoneskin,获得 <伤害减免 2> 直到你的下一回合。
+zh_Storm,造成 10 @air 伤害。 如果至少有 30点 <<SK|mana>>值, 消耗 30点 <<SK|mana>>值并获得一个额外回合。
+zh_StormBlade,每当你打出 <[攻击]> 卡， 造成 1 @air 伤害。
+zh_StormPalm,当前回合, 你造成的都是 @air 伤害。
+zh_StormShape,直到你的下一回合，所受伤害优先扣除你的<<SK|mana>>值。并且当你至少存在一点<<SK|mana>>值时，所受伤害减半。
+zh_StormStab,造成 2 @air 伤害。抽一张卡。 获得 1 @tim ^.
+zh_Strike,造成 1点 @atk 伤害。
+zh_Strike1,造成 5点 @atk 伤害。 \\n 警告: 升级此卡将需要花费更多 @tim 才能打出。
+zh_Strike2,造成 10点 @atk 伤害。 \\n 警告: 升级此卡将需要花费更多 @tim 才能打出。
+zh_Strike3,造成 15点 @atk 伤害。 \\n 警告: 升级此卡将需要花费更多 @tim 才能打出。
+zh_Study,抽 3 张卡。 丢弃 1 张卡。
+zh_StudyGuide,选择敌方弃牌堆中的一张卡。 拿走该卡，并把 它 永久 地 加入 你的牌组。<<CardName|Study Guide>>在使用后会从游戏和你的卡组中永久移除。
+zh_Suffocate,敌方 丢弃 2 张卡 并 获得 <<<SK|Chilled>> 1> ^。
+zh_SummonCompanions,抽取一张  <[狼]> ,  <[乌龟]> , 或  <[猎鹰]> 。  这些卡牌是 <<<SK|temporary>>> ^。
+zh_Swarm,场上每有 一张 哥布林， 则造成 1点 @atk 伤害。
+zh_Swarm2,场上每有 一张 哥布林， 则造成 2点 @atk 伤害。
+zh_Swiftness,获得 2 @tim ^。抽一张卡。
+zh_Swipe,获得 2 @tim 并 造成 1点 @atk 伤害。
+zh_Sword,你在一个回合中每打出 2 张 <[攻击]> 卡， 就造成 1 @atk 的伤害。
+zh_Sword1,在回合开始时， 造成 1 @atk 的伤害。
+zh_Sword2,在回合开始时， 造成 2 @atk 的伤害。
+zh_Sword3,在回合开始时， 造成 3 @atk 的伤害。
+zh_Sword4,在回合开始时， 造成 4 @atk 的伤害。
+zh_Teach,敌方选择手卡中的 1 张 卡牌 进行 <消耗> 。 若消耗的卡牌是 行动卡 则将 [<<CardName|Sear>>] 加入其手卡；若是 攻击卡 或 基础攻击(等级1) 则获得 [<<CardName|Slap>>]。
+zh_TheBleeder,当你打出 <[攻击]> 卡时，你的对手获得 <<<SK|Weakened>> 1> ^。
+zh_ThunderStorm,造成 10 @air 伤害。
+zh_Tiltowait,造成 20 <<<SK|piercing>>> 伤害。
+zh_TimeStop,将该卡牌彻底从你的牌组中移除。  获得一个额外回合。
+zh_TrollBloodCharm,当你赢得一场战斗时， 治愈一半你失去的生命（向下取整）。
+zh_TrollHide,在本场战斗 的 剩余回合 中,  你的回合开始时 恢复 2 点 生命值。
+zh_Turtle,防止接下来对你造成的 6 点伤害。
+zh_VampireBite,造成 2点 @atk 伤害。 恢复 2点 生命值。
+zh_VampireBite2,造成 3点 @atk 伤害。 恢复 3点 生命值。
+zh_VampireSword,每在一回合中 造成 3 @atk 伤害， 则恢复 1 点 生命值。
+zh_VaporForm,直到下回合，你获得 <物理免疫> 。
+zh_Venom,敌方获得 <<<SK|Poisoned>> 3> ^.
+zh_VileCharge,获得 3点 <<SK|mana>>值。 防护下次对你造成的 3点 伤害。
+zh_WallOfSwords,当前回合, 当你造成 伤害, 获得 等同于 所造成 的 伤害层数 的 <护甲> 。
+zh_Ward,防止接下来对你造成的 8 点伤害。 
+zh_Web,敌方 丢弃 1 张卡 并 失去 1 @tim ^。
+zh_Web2,敌方 丢弃 2 张卡 并 失去 2 @tim ^。
+zh_Wisdom,获得 3点 <<SK|mana>>值。抽一张卡。
+zh_Wisdom1,获得 1点 <<SK|mana>>值 并抽一张卡。
+zh_Wisdom2,获得 2点 <<SK|mana>>值 并抽一张卡。
+zh_Wisdom3,获得 3点 <<SK|mana>>值 并抽一张卡。
+zh_Wolf,敌方获得 <<<SK|Poisoned>> 3> ^。
+zh_WrathOfGod,抽 5 张卡。 丢弃手牌中所有 <非攻击卡> 。
+zh_WreathOfFire,在本场战斗 的 剩余回合 中, 当敌方打出一张 <[攻击]> 卡， 则对其造成 3 @fir 伤害。
+zh_Zap,敌方 失去 <<SK|mana>>值 及 @tim ^。
+zh_ZombieBite,敌方 获得 5 层 <疾病> 。 在他们的回合开始时， 其失去 1 层 <疾病> 。 当 <疾病> 层数清空， 敌方死亡。
+File,Text
+en_Attack,Deal 1 @atk
+en_Attack1,Deal 1 @atk damage.
+en_Attack2,Deal 2 @atk damage.
+en_Attack3,Deal 3 @atk damage.
+en_Attack4,Deal 4 @atk damage.
+en_Backstab,Deal 1 @atk damage plus 1 for each action card in play.
+en_BerserkerStrike,Deal 10 @atk damage to your opponent and 4 @atk damage to yourself.
+en_Bite,If your opponent has at least half their health, deal 5 @atk damage and draw a card. \\n Otherwise, deal 5 @atk damage and gain 5 health.
+en_Burn,Your opponent starts burning. At the start of their turn, they will take 1 @fir damage for the remainder of the fight.
+en_Burn2,Your opponent starts burning. At the start of their turn, they will take 2 @fir damage for the remainder of the fight.
+en_ChaosStrike,Deal 1, 2, or 3 @atk damage, chosen randomly.
+en_ChaosStrike2,Deal 2, 3, or 4 @atk damage, chosen randomly.
+en_CollosusSmash,Play this only if you have no action cards in play. Deal 8 @atk damage. Lose all @tim ^.
+en_CorrosiveSlash1,Deal 2 @ear damage.
+en_CorrosiveSlash2,Deal 4 @ear damage.
+en_CorrosiveSlash3,Deal 6 @ear damage.
+en_DistractingBlow,Deal 2 @atk damage.  Your opponent discards 2 cards.
+en_DistractingBlow1,Deal 1 @atk damage.  Your opponent discards a card.
+en_DistractingBlow2,Deal 2 @atk damage.  Your opponent discards two cards.
+en_DistractingBlow3,Deal 3 @atk damage.  Your opponent discards three cards
+en_DragonsBite,Deal 2 @atk damage plus 2 for each Dragon's Claw in play.
+en_DragonsClaw1,Deal 2 @atk damage.
+en_DragonsClaw2,Deal 4 @atk damage.
+en_DragonsClaw3,Deal 6 @atk damage.
+en_FlameSlash1,Deal 2 @fir damage.
+en_FlameSlash2,Deal 4 @fir damage.
+en_FlameSlash3,Deal 6 @fir damage.
+en_FlameStrike,Deal 6 @fir damage.
+en_FrostSlash1,Deal 2 @wat damage.
+en_FrostSlash2,Deal 4 @wat damage.
+en_FrostSlash3,Deal 6 @wat damage.
+en_Harry,Deal 3 @atk damage. Gain 50% dodge until your next turn.
+en_HolyStrike1,Deal 2 @atk damage. Gain 2 health.
+en_HolyStrike2,Deal 4 @atk damage. Gain 4 health.
+en_HolyStrike3,Deal 6 @atk damage. Gain 6 health.
+en_Infect,Your opponent becomes <Poisoned 3> ^.
+en_Infect1,Your opponent becomes <Poisoned 1> ^.
+en_Infect2,Your opponent becomes <Poisoned 2> ^.
+en_Infect3,Your opponent becomes <Poisoned 3> ^.
+en_LightningStrike,Deal 6 @air damage.
+en_Maul,If your opponent has at least half their health, deal 5 @atk damage and prevent the next 10 damage that would be dealt to you. \\n Otherwise, deal 10 <piercing> damage.
+en_Pierce1,Deal 6 <piercing> damage.
+en_Pierce2,Deal 8 <piercing> damage.
+en_Pierce3,Deal 10 <piercing> damage.
+en_Rake,If your opponent has at least half their health, they become <Poisoned 3> ^. \\n Otherwise, deal 3 @atk damage plus 1 per level of poison on your opponent.
+en_RallyingStroke,Deal 2 @atk damage. Draw 2 cards.
+en_RallyingStroke1,Deal 1 @atk damage and draw a card
+en_RallyingStroke2,Deal 2 @atk damage and draw two cards
+en_RallyingStroke3,Deal 3 @atk damage and draw three cards
+en_SharkBite,Deal 2 @atk damage. Your opponent becomes <Weakened 1> for the remainder of the fight.
+en_SharkBite2,Deal 2 @atk damage. Your opponent becomes <Weakened 2> for the remainder of the fight.
+en_ShieldBash,Deal 5 @atk damage. Gain <Damage Reduction 2> until your next turn.
+en_Skullcrack,Exile a card from your hand. If you do, deal 10 @atk damage.
+en_Slash,Deal 2 @atk damage. Draw a card.
+en_Smash,Deal 15 @atk damage.
+en_SorcerousStrike1,Deal 2 @atk damage. Gain 2 mana.
+en_SorcerousStrike2,Deal 4 @atk damage. Gain 4 mana.
+en_SorcerousStrike3,Deal 6 @atk damage. Gain 6 mana.
+en_StormSlash1,Deal 2 @air damage.
+en_StormSlash2,Deal 4 @air damage.
+en_StormSlash3,Deal 6 @air damage.
+en_SunderingStrike,Deal 2 @atk damage and your opponent is <Weakened 2> this turn.
+en_SunderingStrike1,Deal 1 @atk damage and your opponent is <Weakened 1> ^.
+en_SunderingStrike2,Deal 2 @atk damage and your opponent is <Weakened 2> ^.
+en_SunderingStrike3,Deal 3 @atk damage and your opponent is <Weakened 3> ^.
+en_Thrash,Deal 1 @atk damage. Draw a card.
+zh_Attack,造成 1 点 @atk 伤害
+zh_Attack1,造成 1 点 @atk 伤害。
+zh_Attack2,造成 2 点 @atk 伤害。
+zh_Attack3,造成 3 点 @atk 伤害。
+zh_Attack4,造成 4 点 @atk 伤害。
+zh_Backstab,造成 1点 @atk 伤害。本回合每打出过一张行动卡，额外造成 1点 @atk 伤害。
+zh_BerserkerStrike,对敌方造成 10点 @atk 伤害，同时自身受到 4点 @atk 伤害。
+zh_Bite,若敌方至少有一半生命值, 造成 5点 @atk 伤害 并抽一张卡。 \\n 否则,造成 5点 @atk 伤害并获得 5点 生命值。
+zh_Burn,敌方开始燃烧。本局战斗中，当敌方回合开始时，敌方将受到 1 @fir 伤害 。
+zh_Burn2,敌方开始燃烧。本局战斗中，当敌方回合开始时，敌方将受到 2 @fir 伤害 。
+zh_ChaosStrike,随机造成 1, 2,或3点 @atk 伤害。
+zh_ChaosStrike2,随机造成 2, 3,或4点 @atk 伤害。
+zh_CollosusSmash,仅当本回合未打出行动牌时可以使用。造成 8点 @atk 伤害。失去所有 @tim ^.
+zh_CorrosiveSlash1,造成 2 @ear 伤害。
+zh_CorrosiveSlash2,造成 4 @ear 伤害。
+zh_CorrosiveSlash3,造成 6 @ear 伤害。
+zh_DistractingBlow,造成 2点 @atk 伤害。 敌方 丢弃 2 张卡。
+zh_DistractingBlow1,造成 1点 @atk 伤害。 敌方 丢弃 1 张卡。
+zh_DistractingBlow2,造成 2点 @atk 伤害。 敌方 丢弃 2 张卡。
+zh_DistractingBlow3,造成 3 点 @atk 伤害。 敌方 丢弃 3 张卡。
+zh_DragonsBite,造成 2点 @atk 伤害 (本回合每打出一张 【龙之爪】则多 2 点伤害)。
+zh_DragonsClaw1,造成 2点 @atk 伤害。
+zh_DragonsClaw2,造成 4点 @atk 伤害。
+zh_DragonsClaw3,造成 6点 @atk 伤害。
+zh_FlameSlash1,造成 2 @fir 伤害。
+zh_FlameSlash2,造成 4 @fir 伤害。
+zh_FlameSlash3,造成 6 @fir 伤害。
+zh_FlameStrike,造成 6 @fir 伤害。
+zh_FrostSlash1,造成 2 @wat 伤害。
+zh_FrostSlash2,造成 4 @wat 伤害。
+zh_FrostSlash3,造成 6 @wat 伤害。
+zh_Harry,造成 3点 @atk 伤害。 获得 50% 闪避率直到你的下个回合。
+zh_HolyStrike1,造成 2点 @atk 伤害。 获得 2点 生命值。
+zh_HolyStrike2,造成 4点 @atk 伤害。 获得 4点 生命值。
+zh_HolyStrike3,造成 6点 @atk 伤害。 获得 6点 生命值。
+zh_Infect,敌方获得 <<<SK|Poisoned>> 3> ^.
+zh_Infect1,敌方获得 <<<SK|Poisoned>> 1> ^.
+zh_Infect2,敌方获得 <<<SK|Poisoned>> 2> ^.
+zh_Infect3,敌方获得 <<<SK|Poisoned>> 3> ^.
+zh_LightningStrike,造成 6 @air 伤害。
+zh_Maul,若敌方至少有一半生命, 造成 5点 @atk 伤害并抵挡接下来将对你造成的 10 点伤害。 \\n 否则， 造成 10 <<<SK|piercing>>> 伤害。
+zh_Pierce1,造成 6 <<<SK|piercing>>> 伤害。
+zh_Pierce2,造成 8 <<<SK|piercing>>> 伤害。
+zh_Pierce3,造成 10 <<<SK|piercing>>> 伤害。
+zh_Rake,若敌方至少有一半生命, 则敌方获得 <<<SK|Poisoned>> 3> ^. \\n 否则， 造成 3(+敌方当前中毒层数)点 @atk 伤害 。
+zh_RallyingStroke,造成 2点 @atk 伤害。抽 2 张卡。
+zh_RallyingStroke1,造成 1点 @atk 伤害 并抽 1 张卡。
+zh_RallyingStroke2,造成 2点 @atk 伤害 并抽 2 张卡。
+zh_RallyingStroke3,造成 3点 @atk 伤害 并抽 3 张卡。
+zh_SharkBite,造成 2点 @atk 伤害。 在本场战斗的剩余回合中， 敌方获得 <<<SK|Weakened>> 1> 。
+zh_SharkBite2,造成 2点 @atk 伤害。 在本场战斗的剩余回合中， 敌方获得 <<<SK|Weakened>> 2> 。
+zh_ShieldBash,造成 5点 @atk 伤害。 获得 <伤害减免 2> 直到你的下一回合。
+zh_Skullcrack,从你的手卡中 消耗 一张卡。 如果成功, 造成 10点 @atk 伤害。
+zh_Slash,造成 2点 @atk 伤害。抽一张卡。
+zh_Smash,造成 15点 @atk 伤害。
+zh_SorcerousStrike1,造成 2点 @atk 伤害。 获得 2点 <<SK|mana>>值。
+zh_SorcerousStrike2,造成 4点 @atk 伤害。 获得 4点 <<SK|mana>>值。
+zh_SorcerousStrike3,造成 6点 @atk 伤害。 获得 6点 <<SK|mana>>值。
+zh_StormSlash1,造成 2 @air 伤害。
+zh_StormSlash2,造成 4 @air 伤害。
+zh_StormSlash3,造成 6 @air 伤害。
+zh_SunderingStrike,造成 2点 @atk 伤害 并 在当前回合对 敌方 施加 <<<SK|Weakened>> 2> 。
+zh_SunderingStrike1,造成 1点 @atk 伤害 并对敌方施加 <<<SK|Weakened>> 1> ^。
+zh_SunderingStrike2,造成 2点 @atk 伤害 并对敌方施加 <<<SK|Weakened>> 2> ^。
+zh_SunderingStrike3,造成 3点 @atk 伤害 并对敌方施加 <<<SK|Weakened>> 3> ^。
+zh_Thrash,造成 1点 @atk 伤害。抽一张卡。
+分割线,--------------------------------------以下为Mod卡牌-------------------------------------
+en_HelloMod.ModFeature.Mod_TemplatePotion,Deal 3 @atk .Full Heal.
+zh_HelloMod.ModFeature.Mod_TemplatePotion,造成3点 @atk 伤害，并恢复所有生命。

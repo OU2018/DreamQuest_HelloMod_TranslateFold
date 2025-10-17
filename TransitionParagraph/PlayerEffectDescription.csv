@@ -1,0 +1,125 @@
+en_DOUBLE_SPELL,The next spell cast this turn will perform its effect an additional < + __instance.doubleSpell + > times
+zh_DOUBLE_SPELL,本回合下一次使用的<<SpecialKeyword|spell>>，其效果额外生效<{value}>次
+en_POISON,At the start of your turn, take < + __instance.poison + > earth damage and you will lose one level of poison
+zh_POISON,在你的回合开始时，受到<{value}>点<<SK|EARTH>>属性伤害，并减少1层中毒
+en_SHIELD,Prevent the next < + __instance.shield + > damage that would be dealt to you
+zh_SHIELD,抵消接下来将对你造成的<{value}>点伤害
+en_DODGE, You have a < + __instance.dodge + > ^% chance to prevent an opponent's attack card from having any effect
+zh_DODGE,你有<{value}>^%的机会令敌人的 攻击卡牌失效
+en_NEGATEFIRST,Prevent your opponent's next < + num + > cards played this turn from having any effect
+en_NEGATEFIRST, Prevent the next card played this turn by your opponent from having any effect
+zh_NEGATEFIRST,令对手的下<{value}>张牌失效
+en_FIRESHIELD,Each time your opponent plays an attack card, deal < + __instance.fireShield + > fire damage to them
+zh_FIRESHIELD,每当对手打出 xx 卡，对其造成<{value}>点 <<SK|FIRE>>属性伤害
+en_WEAKNESS,Each time you take physical damage, you take an additional < + __instance.weakness + >
+zh_WEAKNESS,每当你受到物理伤害，额外受到<{value}>点伤害
+en_INVULNERABLE,Take no damage
+zh_INVULNERABLE,不会受到任何伤害
+en_BONUSFIRE, When you deal fire damage, deal an additional  + __instance.bonusFire +  damage
+zh_BONUSFIRE,当你造成<<SK|FIRE>>属性伤害时，造成<{value}>点额外伤害
+en_REFLECT, The next  + __instance.reflect +  damage that would be dealt to you is prevented and dealt to the other player instead
+zh_REFLECT,抵御下<{value}>点将对你造成的伤害，并将其转换为对其他玩家造成的伤害
+en_ELEMENTAL_RESIST,Take half damage from fire, earth, water, and air
+zh_ELEMENTAL_RESIST,受到的<<SK|FIRE>><<SK|EARTH>><<SK|WATER>><<SK|AIR>>属性伤害减半
+en_FIRE_VULN,Take double damage from fire
+zh_FIRE_VULN,受到的<<SK|FIRE>>属性伤害加倍
+en_AIR_VULN,Take double damage from air
+zh_AIR_VULN,受到的<<SK|AIR>>属性伤害加倍
+en_EARTH_VULN,Take double damage from earth
+zh_EARTH_VULN,受到的<<SK|EARTH>>属性伤害加倍
+en_WATER_VULN,Take double damage from water
+zh_WATER_VULN,受到的<<SK|WATER>>属性伤害加倍
+en_FIRE_IMMUNE,Take no damage from fire
+zh_FIRE_IMMUNE,免疫<<SK|FIRE>>属性伤害
+en_AIR_IMMUNE,Take no damage from air
+zh_AIR_IMMUNE,免疫<<SK|AIR>>属性伤害
+en_EARTH_IMMUNE,Take no damage from earth
+zh_EARTH_IMMUNE,免疫<<SK|EARTH>>属性伤害
+en_WATER_IMMUNE,Take no damage from water
+zh_WATER_IMMUNE,免疫<<SK|WATER>>属性伤害
+en_PHYS_IMMUNE,Take no damage from physical
+zh_PHYS_IMMUNE,免疫物理伤害
+en_PHYS_RESIST,Take half damage from physical
+zh_PHYS_RESIST,受到的物理伤害减半
+en_GOLEM_WARD_TEMP,Prevent the next <__instance.golemWardTemp> physical damage that would be dealt to you
+zh_GOLEM_WARD_TEMP,防止接下来的 <{value}> 点将对你造成的物理伤害
+en_ZOMBIE_BITE,In <__instance.zombieBite> turns, you will die
+zh_ZOMBIE_BITE,在<{value}>回合内，你将死亡
+en_PURE_VAMPIRIC,You may not heal normally. Each 3 damage you deal, heals you one point. Currently <__instance.vampireValue> ^/3
+zh_PURE_VAMPIRIC,你无法被常规手段治愈。每造成 3 点伤害，恢复 1 点生命。目前 <{value}> ^/3
+en_SHIELD_BUILDING,For the rest of your turn, damage you deal builds a shield
+zh_SHIELD_BUILDING,在你剩余的回合内，你每造成1点伤害，就获得1点护盾
+en_FORCEFIELD,Damage taken over 3 is reduced to 3
+zh_FORCEFIELD,受到超过 3 点的伤害将减少为 3 点
+en_BURNING,You take <__instance.burning> fire damage at the start of each turn
+zh_BURNING,你在每个回合开始时会受到<{value}> 点<<SK|FIRE>>属性伤害
+en_ELUSIVE,You have a <__instance.elusive> ^% chance to prevent an opponent's spell or action card from having any effect
+zh_ELUSIVE,你有 <{value}> ^% 的几率令对手的<<SK|spell>>或<<SK|action|CARD>>卡失效
+en_SUPER_FIRE_SHIELD,Each time your opponent plays an action, attack, mana, or spell card, deal <__instance.superFireShield> fire damage to them
+zh_SUPER_FIRE_SHIELD,每当你的对手使用<<SK|action|CARD>>卡、<<SK|attack|CARD>>卡、<<SK|mana>>卡或<<SK|spell>>卡时，对他们造成 <{value}> 点<<SK|FIRE>>属性伤害
+en_TEMP_SPELL_REDUCE_MANA,Your spells cost <__instance.tempSpellReduce> less mana this turn
+zh_TEMP_SPELL_REDUCE_MANA,你本回合的<<SK|spell>>减少<{value}> 点<<SK|mana>>消耗 
+en_TEMP_SPELL_REDUCE_HEALTH,Regain <__instance.healthRegen> health each turn
+zh_TEMP_SPELL_REDUCE_HEALTH,每回合恢复 <{value}> 点生命
+en_CRUEL,You deal <__instance.cruel> additional damage on each physical source
+zh_CRUEL,你每次造成物理伤害时，都会额外造成 <{value}> 点伤害
+en_MIND_IMMUNE,Deck and hand are immune to manipulation
+zh_MIND_IMMUNE,卡组和手牌免疫操控
+en_BERSERK,The monster is getting angry! It draws <__instance.berserk> additional cards each turn
+zh_BERSERK,怪物变得愤怒了！它每回合额外抽取 <{value}> 张卡牌
+en_DIE_THIS_TURN,At the end of this turn, you will die
+zh_DIE_THIS_TURN,在本回合结束时，你将死亡
+en_DIE_NEXT_TURN,At the end of the next turn, you will die
+zh_DIE_NEXT_TURN,在下回合结束时，你将死亡
+en_WASTING,Your opponent loses <__instance.wasting> health and max health at the start of your turns
+zh_WASTING,你的对手在你回合开始时会失去 <{value}> 点生命值和最大生命值
+en_DOUBLE_ATTACK,Your attack cards deal x<__instance.doubleAttack + 1> damage
+zh_DOUBLE_ATTACK,你的<<SK|attack|CARD>>卡造成 x<{value}> 点伤害
+en_DRAW_PUNCH,You deal <__instance.drawPunch> physical damage when you draw a card during your turn
+zh_DRAW_PUNCH,在你的回合内，当你抽牌时，造成 <{value}> 点物理伤害
+en_ACTION_POISON,When you play an action card, your opponent is Poisoned for <__instance.actionPoison>
+zh_ACTION_POISON,当你使用<<SK|action|CARD>>卡时，你的对手获得1层中毒，持续 <{value}> 回合
+en_DRAW_TUTOR,When you would draw a card during your turn, instead search your deck for a card to put in your hand
+zh_DRAW_TUTOR,当你在回合内抽牌时，改为从你的卡组中搜索一张卡牌加入手牌
+en_GYSPELL,At the start of your turn, spell cards in your graveyard are returned to your hand
+zh_GYSPELL,在你的回合开始时，墓地中的<<SK|spell>>卡牌会返回到你的手牌
+en_ACTION_DRAW,When you play an action card, draw a card
+zh_ACTION_DRAW,当你使用<<SK|action|CARD>>卡时，抽一张卡牌
+en_FIREBALLER,At the start of your turn, draw <__instance.fireballer> temporary fireballs
+zh_FIREBALLER,在你的回合开始时，抽取 <{value}> 张临时<<CardName|Fireball>>卡牌
+en_RAW_POWER,The next <__instance.rawPower> sources of elemental damage you take are piercing
+zh_RAW_POWER,你下 <{value}> 次造成的元素伤害将为穿透伤害
+en_EYEFORANEYE,When your opponent deals you damage, you deal it the same damage
+zh_EYEFORANEYE,当对手对你造成伤害时，你也将对他造成同样的伤害
+en_CHILLED,Physical damage dealt is reduced by <__instance.chilled>
+zh_CHILLED,你造成的物理伤害将减少 <{value}>
+en_MANA_SHIELD,Damage taken reduces mana before health and is reduced by half if you have mana
+zh_MANA_SHIELD,你所受到的伤害将首先减少<<SK|mana>>值，如果你有<<SK|mana>>，伤害减半
+en_KINETIC_CHARGE,Damage taken restores mana
+zh_KINETIC_CHARGE,所受伤害将恢复<<SK|mana>>
+en_CONFLAGRATED,Will deal <__instance.conflagrated * 30> damage at the start of your next turn
+zh_CONFLAGRATED,在你下回合开始时，造成 <{value}> 点伤害
+en_NEXT_PIERCE,Your next <__instance.nextPierce> attacks this turn will be piercing
+zh_NEXT_PIERCE,你本回合的下 <{value}> 次攻击将为穿透伤害
+en_ARCHMAGE_TURN,Your spells are free
+zh_ARCHMAGE_TURN,你的<<SK|spell>>牌消耗为0
+en_ARCHMAGE,Your next spell is free
+zh_ARCHMAGE,你的下<{value}>张<<SK|spell>>牌消耗为0
+en_ELEMENTAL_FORM_FIRE,All damage you deal until your next turn counts as fire
+zh_ELEMENTAL_FORM_FIRE,直到你下回合之前，你造成的所有伤害都算作<<SK|FIRE>>属性伤害
+en_ELEMENTAL_FORM_WATER,All damage you deal until your next turn counts as water
+zh_ELEMENTAL_FORM_WATER,直到你下回合之前，你造成的所有伤害都算作<<SK|WATER>>属性伤害
+en_ELEMENTAL_FORM_EARTH,All damage you deal until your next turn counts as earth
+zh_ELEMENTAL_FORM_EARTH,直到你下回合之前，你造成的所有伤害都算作<<SK|EARTH>>属性伤害
+en_ELEMENTAL_FORM_AIR,All damage you deal until your next turn counts as air
+zh_ELEMENTAL_FORM_AIR,直到你下回合之前，你造成的所有伤害都算作<<SK|AIR>>属性伤害
+en_ELEMENTAL_FORM_RAW,Your damage is piercing
+zh_ELEMENTAL_FORM_RAW,你的伤害为穿透伤害
+en_ACTION_MANA,Whenever you play an action card, gain <__instance.actionMana> mana
+zh_ACTION_MANA,每当你使用一张<<SK|action|CARD>>卡时，获得 <{value}> 点<<SK|mana>>
+en_ESCAPE,When you have three ranks of escape, the fight ends with no loot rewarded.  Now at rank <this.escape>
+zh_ESCAPE,当你拥有三层[逃跑]，这场战斗将以无奖励的形式结束。现在你有<{value}>层。
+en_PENANCE,At the start of your turn, take <{value}> piercing damage
+zh_PENANCE,在你的回合开始时，受到<{value}><<SK|piercing>>伤害
+en_DRPHYS,Prevent <{value}> physical damage from each source of physical damage (minimum 0)
+zh_DRPHYS,受到的任何物理伤害减少<{value}>(最小为0)。

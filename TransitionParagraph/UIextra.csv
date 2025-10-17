@@ -1,0 +1,24 @@
+en00001,A saved dungeon already exists.  Would you like to resume that game?  If you do not, it will be lost forever
+zh00001,你还有一个逛了一半的地牢呢。要继续上次的地牢探险吗？如果不要话，上一次的地牢进度将永久丢失
+en00002,A saved dungeon already exists.  If you continue, it will be lost forever.
+zh00002,你还有一个逛了一半的地牢呢。如果你继续的话，上一次的地牢进度将永远丢失。
+en00003,You receive significant bonuses but are unable to earn achievements or achievement points.
+zh00003,你将获得显著的增益，但无法解锁成就或获得成就点数
+en00004,The default difficulty for the game.
+zh00004,游戏的默认难度
+en00005,The game is much more difficult, but you receive double the number of achievement points and find additional content at the end of the game.
+zh00005,游戏会变得更加困难，但你会获得双倍的成就点数，并在游戏结尾发现额外的内容
+en_tutorial_basic,You are now in combat with a monster. \\n Here, you'll play cards from your hand to deal damage and hopefully defeat it.  To do so, either drag the card from your hand to the middle of the screen or click the "Play All" button near your character portrait.
+zh_tutorial_basic,你现在正与一只怪物交战。\\n 现在，你需要从手牌中打出卡牌来造成伤害，并借此击败它。你可以将卡牌从手牌拖到屏幕中央释放来打出这张卡牌，或者点击角色头像旁边的“全出”按钮来打出所有卡牌。
+en_tutorial_endTurn,You're out of things you can do this turn. \\n To let the monster take a turn, click the hourglass button near your portrait.  You will then draw cards up to your maximum.  If you have cards in hand that you don't want, you can discard them at any time during your turn by dragging them to the discard pile in the lower left corner of your screen.
+zh_tutorial_endTurn,你在当前回合已经没有可以进行的其他操作了。\\n 为了让怪物进行回合，请点击你的头像旁边的沙漏按钮来结束你的回合。之后你将抽牌直到你的手牌到达上限。如果你手牌中有不想要的卡牌，可以在你的回合中任何时刻将它们拖到屏幕左下角的弃牌堆中以进行弃牌操作。
+en_tutorial_finalBoss,Congratulations!  You've reached the Lord of the Dream and beaten the game!  The Lord of the Dream provides a way to test your deck - see how much damage you can deal to him before he overwhelms you.  Each point of damage will give you an additional point to use for buying achievements.  Good luck!
+zh_tutorial_finalBoss,恭喜！你已经达到了<<SpecialKeyword|Lord of the Dream>>并击败了游戏！<<SpecialKeyword|Lord of the Dream>>提供了一个测试你的卡组的方式——看看在他压倒你之前你能对他造成多少伤害。每造成一点伤害，你将获得一个额外的点数，用于购买成就。祝你好运！
+en_run_away_1,Starts \\n running \\n away!
+zh_run_away_1,开始\\n逃跑了！
+en_run_away_2,Runs \\n much \\n faster!
+zh_run_away_2,跑得\\n更快了！
+en_run_away_3,Ran \\n away!
+zh_run_away_3,被它\\n跑掉了！
+en_copy_code,Sure you don't have important information on your clipboard? The next action will overwrite the information on your clipboard with the following seed:
+zh_copy_code,确定你的剪贴板上没有重要信息吗？接下来的操作将会覆盖你剪贴板上的信息为下列的种子：

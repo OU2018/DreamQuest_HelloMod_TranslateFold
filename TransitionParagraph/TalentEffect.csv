@@ -1,0 +1,86 @@
+en_Ascendance,Gain 20 health, 5 mana, and an action
+zh_Ascendance,获得 20 生命、5 法力和一个行动
+en_Terror,Your opponents' hand sizes are reduced by 1
+zh_Terror,你的对手的最大手牌数减少 1
+en_Smart,Draw one additional card each turn
+zh_Smart,每回合抽一张额外的卡
+en_Well-Armed,Start each combat with a sword, shield, and armor in play
+zh_Well-Armed,每场战斗开始时都有剑、盾和盔甲在场
+en_Master Thief,Items in shops are free
+zh_Master Thief,商店里的物品是免费的\\n"我们管这个叫任你挑选"
+en_Tiltowait,Add the action card Tiltowait to your deck which deals 20 piercing damage
+zh_Tiltowait,将行动卡 Tiltowait 添加到你的牌组，它造成 20 点穿透伤害
+en_Vampiric,For every three points of physical damage you deal each turn, gain 1 life
+zh_Vampiric,每回合造成 3 点物理伤害时，恢复 1 点生命
+en_Poisonous,At the beginning of your turn, poison your opponent 3
+zh_Poisonous,在你回合开始时，你的对手获得 3 点中毒
+en_Archmage,Your spells no longer cost mana
+zh_Archmage,你的法术不再消耗法力
+en_Impervious,You take half damage (rounded down) from all elements
+zh_Impervious,你从所有元素攻击中承受一半的伤害（向下取整）
+en_Immortal,The next time you would die, your health is instead set to its maximum and you are invulnerable until your next turn
+zh_Immortal,下次你将死亡时，你的生命值将恢复到最大值，并且在复活后的下一回合前你不会再受到伤害
+en_Purity,Choose up to three cards from your deck and delete them
+zh_Purity,从你的牌组中选择最多三张卡并删除它们
+en_Cruel,Your opponents take an additional point of damage from each of your physical sources
+zh_Cruel,你的对手从你的每个物理攻击来源受到额外的 1 点伤害
+en_Charismatic,5 additional beneficial objects appear on this dungeon floor
+zh_Charismatic,在此地下城层上，额外出现 5 个有益的物体
+en_Fluid,The first time you play an action card each turn, draw a card
+zh_Fluid,每回合第一次使用行动卡时，抽一张卡
+en_Desperate,When you have 15 or less life, draw three additional cards each turn
+zh_Desperate,当你的生命值低于或等于 15 时，每回合抽三张额外的卡
+en_Fiery,At the start of each turn, draw a temporary Fireball
+zh_Fiery,每回合开始时，抽一张临时火球卡
+en_Invisible,You have a 30% chance to prevent opponent's action or spell cards from having an effect
+zh_Invisible,你有 30% 的几率使对手的行动或法术卡失效
+en_Heroic,Upgrade each card in your deck that can be upgraded to its maximum level
+zh_Heroic,将你的牌组中可以升级的卡升级到最大等级
+en_Sublime,All your damage is piercing
+zh_Sublime,你所有的伤害都为穿透伤害
+en_Hoard,Start each fight with a random equipment
+zh_Hoard,每场战斗开始时，随机获得一件装备
+en_Rich,Gain 30 gold
+zh_Rich,获得 30 金币
+en_Quick,Gain 1 action
+zh_Quick,获得 1 次行动
+en_Equipped,Gain one equipment slot
+zh_Equipped,获得一个装备槽
+en_Polymorph,Learn the Polymorph dungeon ability which replaces a monster (cooldown 5)
+zh_Polymorph,学习变形术（冷却 5），将一个怪物替换
+en_Pious,Add the Wisdom, Ward, and Prayer of Wrath cards to your deck
+zh_Pious,将智慧、庇护和愤怒祷告卡添加到你的牌组
+en_Sneaky,Add the Backstab, Jab, and Alacrity cards to your deck
+zh_Sneaky,将背刺、戳刺和敏捷卡添加到你的牌组
+en_Sorcerous,Add the Mana Surge, Fireball, and Charm cards to your deck
+zh_Sorcerous,将法力激增、火球和魅力卡添加到你的牌组
+en_Warlike,Add the Slash, Shield, and Crush cards to your deck
+zh_Warlike,将斩击、盾牌和重击卡添加到你的牌组
+en_Copy,Choose a card from your deck and gain another copy of it
+zh_Copy,选择一张牌并获得另一张相同的卡
+en_Ding!,Level up (max level 10)
+zh_Ding!,升级（最高等级 10）
+en_Clear Mind,Reduce the cooldown of your dungeon abilities by 1
+zh_Clear Mind,减少你地下城技能的冷却时间 1
+en_Healthy,Gain 5 health
+zh_Healthy,获得 5 生命
+en_Magical,Gain 2 mana
+zh_Magical,获得 2 法力
+en_Training,Choose a card from your deck that can be leveled up and level it
+zh_Training,选择一张可以升级的卡并升级
+en_Cowardly,Gain the Flee Ability allowing you to run away from combat
+zh_Cowardly,获得逃跑技能，可以让你逃脱战斗
+en_Crumble,All the walls on this dungeon floor are removed
+zh_Crumble,移除此地下城层的所有墙壁
+en_Sixth Sense,All monsters are revealed on all floors
+zh_Sixth Sense,揭示所有楼层的怪物
+en_Teleport,Gain the Teleport dungeon ability (cooldown 1)
+zh_Teleport,获得传送技能（冷却 1）
+en_Smash,Gain the Smash dungeon ability (cooldown 2)
+zh_Smash,获得猛击技能（冷却 2）
+en_Heal,Gain the Heal dungeon ability (cooldown 5)
+zh_Heal,获得治疗技能（冷却 5）
+en_Preparation,Gain the ability to reset the cooldown on your other dungeon abilities (cooldown 5)
+zh_Preparation,获得重置其他地下城技能冷却时间的能力（冷却 5）
+en_Portent,Gain the Portent dungeon ability (no cooldown)
+zh_Portent,获得预兆技能（无冷却）

@@ -1,0 +1,130 @@
+en,zh,note
+Cheats,作弊菜单,
+View Bestiary,查看图鉴,
+Save and Exit,保存并退出,
+Turn Sound ON,声音开启,
+Turn Sound OFF,声音关闭,
+Reveal Map,揭示全地图,
+Level Up,提升【1】级,
+Gain Gold,获得【999】金币,
+Uber Teleport,滴滴传送,
+Gain 50 exp,获得【50】经验,
+Gain Achievement Points,获得【10000】成就点,
+Reveal All Monsters,揭示所有怪物,
+Turn on autokill,开启自动击杀,
+Turn off autokill,关闭自动击杀,
+Are you sure you want to exit?,确定要退出游戏？,
+Yes,是,
+No,否,
+Cancel,取消,
+Fight!,开打！,
+Discard All,全弃,
+Play All,全出,
+You have found,你找到了 ,DEFAET
+You have gained,你获得了 ,DEFAET
+a treasure chest, 一个宝箱 ,DEFAET
+You have gained,你获得了 ,
+You have learned,你习得了 ,
+Bonus! (Choose one),奖励时间！选一个吧！,
+Choose,选择,
+Congratulations!,恭喜通关！,
+The,【,
+ only earns class specific achievements!,】只能解锁职业限定成就！,
+Runs on Kitten difficulty do not earn achievements!,【小猫咪】难度下无法解锁成就！,
+Replays do not earn achievments!,重玩无法解锁成就！,
+New Achievements!,新成就！,
+Main Menu,返回主界面,
+Classes Unlocked: ,已解锁【职业】：,
+Passives Unlocked: ,已解锁【<<SpecialKeyword|Passives>>】,
+Talents Unlocked: ,已解锁【<<SpecialKeyword|Talent>>】,
+Cards Unlocked: ,已解锁【卡牌】,
+Previous Total:,已拥有成就点：,
+Floors Cleared (,清空层数(,
+Monsters killed (,击杀怪物(,
+Lord of the Dream Damage (,对<<SpecialKeyword|Lord of the Dream>>造成伤害,
+Total Points:,当前总点数:,
+Cooldown Remaining,剩余<<SpecialKeyword|Cooldown>>,
+Can be chosen multiple times,可以被多次选择,
+Choose a Talent,选择一个<<SpecialKeyword|Talent>>,
+Choose,选择,TALENT
+Choose,选择,
+(Cooldown: ,(<<SpecialKeyword|Cooldown>>:,ActionIconDescription
+Use,使用,ActionIconDescription
+ (Combat Ability), (<<SpecialKeyword|Combat Ability>>),CombatAbilityBig
+combats,场<<SpecialKeyword|combats>>,CombatAbilityBig
+combat,场<<SpecialKeyword|combat>>,CombatAbilityBig
+None,无,CombatAbilityBig
+Cooldown: ,<<SpecialKeyword|Cooldown>>: ,CombatAbilityBig
+Cooldown Remaining: ,剩余<<SpecialKeyword|Cooldown>>:,CombatAbilityLittle
+Ready! (Cooldown ,准备就绪! (<<SpecialKeyword|Cooldown>> ,CombatAbilityLittle
+Are you sure you want to concede?,确定要放弃本局游戏吗？,AskReallyConcedePrefix
+RestartBlockMainContent,确认要消耗成就点以从{value}重新开始吗？以这种方式继续游戏时，将无法获得任何成就奖励。,RestartBlockPrefix
+Current:Cost:,当前:\\n消耗:,RestartBlockPrefix
+Restart?,重新开始？,RestartBlockPrefix
+your last level up?,上一次升级时,RestartBlockPrefix
+the start of this floor?,刚进入这一层时,RestartBlockPrefix
+You may choose up to,你可以选择最多,ConfirmTextPostfix
+?,张吗？,ConfirmTextPostfix
+Are you sure you want to end your turn?,你确定要结束回合吗？,AreYouSurePrefix
+ cards.  Are you sure you want to only choose ,张牌。确定你只需要选择,ConfirmTextPostfix
+Perform,选择,LEVELUP
+CardType,{value}卡牌,CARDVIEWER
+Confirm,确认,
+Choose a card to upgrade,选择一张卡牌升级,
+Upgrade (,升级(,BLACKSMITH
+ Gold),金币),
+ Gold,金币,
+Upgrade (Free!),升级(免费！),BLACKSMITH
+Free!,免费！,
+Heal Max (,完全治愈(,
+Heal (,治愈(,
+Forget (,遗忘(,
+Forget (Free!),遗忘(免费！),
+Choose a card to permanently delete,选择一张卡，永久从卡组中移除,
+Enter,进入,
+Buy (,购买(,
+Upgrade,升级,
+Delete,删除,
+Copy,复制,
+Acquire,获得,
+Choose a card to acquire,选择并获得一张卡牌,
+Choose a card to copy,选择并复制一张卡牌,
+Choose up to 3 cards to delete,选择并删除最多3张卡牌,
+Choose a card to delete,选择一张卡牌进行删除,
+Choose up to TWO cards to delete,选择并删除最多二张卡牌,
+Choose up to 1 card to delete,选择并删除最多1张卡牌,
+Choose up to 1 card to upgrade,选择最多一张卡牌升级,
+Choose an equipment to steal,选择一件要窃取的装备,
+Choose an equipment or prayer to exile,选择并消耗一张场上的装备或祷告卡,
+Choose an equipment to destroy,选择并破坏一张场上的装备卡,
+Choose an action card to copy,选择并复制一张<<SK|action>>卡,
+CMup,选择最多{value}张卡牌升级,WITHPARA
+CMDel,选择并删除最多{value}张卡牌,WITHPARA
+Discard this,丢弃这张,
+DiscardContent,选择要丢弃的卡牌。你需要丢弃{value}张卡牌。,
+Expand Your Mind,拓展你的思维,
+Stomp,踩,
+Yuck!,恶心！,
+New Power!,新力量！,
+Choose One:,选择其中一个：,
+ is ready!,准备就绪！,
+EXP,经验值,
+Done,完成,
+forbidMsg,我禁止你打出{value}卡牌,
+Charge,充能,
+puppetMsg,<<CardName|Dance Puppets!>>\\n (你将攻击你自己。你不能手动弃牌),
+Loading...,载入中……,
+Skip Reward,跳过奖励,
+Equipment Worn,已穿戴装备,
+Mod Item,模组选项,
+Random Alchemy,混沌炼金术,
+Interrupted!,被中断！,
+Not Here...,无法在这里使用……,
+A Vision,一个预兆,
+Find Monster,扎营技能,
+CopySacrifice,测试-复制献祭,
+ActionDream,测试-梦中启迪,
+ActionSacrifice,测试-献祭,
+Add a card to your deck,选择一张卡并添加到卡组,
+Learn,习得,
+AllCardViewer,测试-全卡查看器,

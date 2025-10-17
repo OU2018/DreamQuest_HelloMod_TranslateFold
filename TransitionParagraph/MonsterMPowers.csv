@@ -1,0 +1,46 @@
+en_Efreet,Both players draw 3 cards at the start of their turn;
+zh_Efreet,每个玩家在其回合开始时抽三张牌
+en_Ghoul,Invulnerable but decaying;
+zh_Ghoul,无敌但在腐烂
+en_Goblin Mechanist,Copies equipment you play;
+zh_Goblin Mechanist,复制你装备的道具
+en_Hand of Glory,Every other turn causes you to dance, damaging yourself;
+zh_Hand of Glory,每隔一回合让你跳舞，伤害自己
+en_Pixie,Generates 3 mana each turn;
+zh_Pixie,每回合生成3点法力
+en_Revenant,Returns after his first death;
+zh_Revenant,在第一次死亡后复生
+en_Sphinx,Forbids most common card type in your hand;
+zh_Sphinx,禁用你手牌中的大多数常见卡牌
+en_Ussuri Hunter,Limits your turns to 10 seconds;
+zh_Ussuri Hunter,限制你的回合时间为10秒
+en_Ussuri Ambusher,Always takes the first turn;
+zh_Ussuri Ambusher,总是先手行动
+en_White Dragon,You have -1 card in hand;
+zh_White Dragon,你手牌减少1张
+en_Yellow Dragon,You have -1 action\nYou start with no mana;
+zh_Yellow Dragon,你失去1个行动点\\n你开始时没有法力
+en_AirElemental,Draw + x + extra cards each turn
+zh_AirElemental,每回合额外抽{value}张牌
+en_WaterElemental,Every two turns, opponent loses one card.  At x/2
+zh_WaterElemental,每两回合，敌方丢弃一张卡。目前{value}/2。
+en_,Counters the first card each turn
+zh_Ussuri Tracker,反制敌方每回合打出的第一张卡牌（令其无效）
+en_Ghost,Drains {value} maximum health each turn
+zh_Ghost,每回合减少敌方{value}最大生命值
+en_Demon,A large number of curses added to your deck
+zh_Demon,大量<<CardName|Curse>>已添加到你的牌组
+en_EarthElemental,Apply a poison {value} each turn
+zh_EarthElemental,每回合对敌方施加{value}层中毒
+en_FireElemental,Apply a burn {value} each turn
+zh_FireElemental,每回合对敌方施加{value}层燃烧
+en_Titan,The titan's static aura reduces your number of actions by one
+zh_Titan,<<MonsterName|Titan>>的静态光环使你的<<SK|action>>减少1。
+en_UssuriWarQueen_5,Counters the first two cards each turn
+zh_UssuriWarQueen_5,每回合反制敌方打出的头两张卡牌
+en_UssuriWarQueen,Counters the first card each turn
+zh_UssuriWarQueen,每回合反制敌方打出的第一张卡牌
+en_Ussuri,Counters the first card each turn
+zh_Ussuri,每回合反制敌方打出的第一张卡牌
+en_UssuriTrickster,Always takes the first turn\\nCounters the first card each turn
+zh_UssuriTrickster,总是先手行动\\n每回合反制敌方打出的第一张卡牌

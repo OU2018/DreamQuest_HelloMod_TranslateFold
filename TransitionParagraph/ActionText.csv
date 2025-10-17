@@ -1,0 +1,26 @@
+en_ActionDiscard,Select a card to discard. You need to discard {value}.
+zh_ActionDiscard,选择一张卡牌丢弃，你需要丢弃 {value}。
+en_ActionTeach,Select a card to exile. You need to exile {value}.
+zh_ActionTeach,选择一张卡牌 消耗，你需要 消耗 {value}。
+en_ActionExile,Select a card to exile. You need to exile {value}.
+zh_ActionExile,选择一张卡牌 消耗，你需要 消耗 {value}。
+en_ActionCharm,Select a card to force your opponent to discard.
+zh_ActionCharm,选择一张卡牌强制令对手丢弃。
+en_ActionBewitch,Select a card to force your opponent to exile.
+zh_ActionBewitch,选择一张卡牌强制令对手 消耗。
+en_ActionAnticipate,Select a card to take from your opponent's hand.
+zh_ActionAnticipate,从对手的手牌中选择一张卡牌并拿取。
+en_ActionMeditation,Select up to two cards to exile.
+zh_ActionMeditation,选择最多两张卡牌 消耗。
+en_ActionSingleTargetDiscard,Select a card to force your opponent to discard.
+zh_ActionSingleTargetDiscard,选择一张卡牌强制令对手丢弃。
+en_ActionTargettedDiscard,Select a card to force your opponent to discard. Choose up to {value}.
+zh_ActionTargettedDiscard,选择一张卡牌强制令对手丢弃。最多选择 {value} 张。
+en_ActionPenaltyChoice,Make a wish
+zh_ActionPenaltyChoice,许个愿吧
+en_FinalBoss,Pick Your Poison
+zh_FinalBoss,选择你的毒素
+en_ActionEndGame_win,The game is over.  You won!
+zh_ActionEndGame_win,游戏结束……你赢了！
+en_ActionEndGame_lose,The game is over.  You lost.
+zh_ActionEndGame_lose,游戏结束……你输了。

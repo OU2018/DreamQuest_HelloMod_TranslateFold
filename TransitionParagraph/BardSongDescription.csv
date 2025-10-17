@@ -1,0 +1,41 @@
+key,value
+en_Anthem of Ambush,Start the next fight with 3 additional cards
+zh_Anthem of Ambush,在下一场战斗中开始时，额外抽取3张牌
+en_Arming Aria,You begin the next combat with two random pieces of equipment
+zh_Arming Aria,在下一场战斗开始时，随机获得两件装备
+en_Bellicose Ballad,Your attack cards deal double damage in the next combat
+zh_Bellicose Ballad,在下一场战斗中，你的攻击牌造成双倍伤害
+en_Blazing Beat,In the next combat, draw a temporary fireball card at the start of each turn
+zh_Blazing Beat,在下一场战斗中，每个回合开始时抽取一张临时火球牌
+en_Cadenza of Celerity,You have +3 actions for the next combat
+zh_Cadenza of Celerity,在下一场战斗中，你的行动次数+3
+en_Chant of Clarity,Start the next combat with 30 additional mana
+zh_Chant of Clarity,在下一场战斗开始时，额外获得30点法力值
+en_Chorale of Chaos,In the next fight, you and your opponent swap decks
+zh_Chorale of Chaos,在下一场战斗中，你和对手交换牌组
+en_Dreadful Dirge,Your opponent loses 3 current and maximum health at the start of each of your turns in the next combat
+zh_Dreadful Dirge,在下一场战斗中，每个回合开始时，对手失去3点当前生命值和最大生命值
+en_Enlightened Elegy,In the next combat, whenever you would draw a card during your turn, instead search your deck for a card and put it into your hand
+zh_Enlightened Elegy,在下一场战斗中，每当你在回合中抽牌时，改为从牌库中搜索一张牌并加入手牌
+en_Healing Harmony,Generate three health packs at random on the map
+zh_Healing Harmony,在地图上随机生成三个生命包
+en_Heroic Hymn,Your maximum hand size is increased by one in the next fight
+zh_Heroic Hymn,在下一场战斗中，你的手牌上限增加1
+en_Knavish Nocturne,You are invisible until you interact with the dungeon
+zh_Knavish Nocturne,在你与地牢互动之前，你处于隐身状态
+en_Miserly Minuet,You receive double the gold from the next combat
+zh_Miserly Minuet,在下一场战斗中，你获得的金币翻倍
+en_Piercing Paean,In the next fight, damage you deal is piercing
+zh_Piercing Paean,在下一场战斗中，你造成的伤害为穿透伤害
+en_Pugilist's Polka,In the next combat, whenever you would draw a card during your turn, deal 3 physical damage to your opponent
+zh_Pugilist's Polka,在下一场战斗中，每当你在回合中抽牌时，对对手造成3点物理伤害
+en_Rhapsody of Recall,In the next fight, at the beginning of each turn, return all Spell cards from your graveyard to your hand
+zh_Rhapsody of Recall,在下一场战斗中，每个回合开始时，将你墓地中的所有法术牌返回到手牌
+en_Rollicking Rondo,In the next fight, whenever you play an Action card, draw a card
+zh_Rollicking Rondo,在下一场战斗中，每当你使用行动牌时，抽取一张牌
+en_Soothing Serenade,You regenerate four health per turn in the next combat
+zh_Soothing Serenade,在下一场战斗中，每回合回复4点生命值
+en_Stout Sonata,In the next fight, you have 20 additional health
+zh_Stout Sonata,在下一场战斗中，你的生命值上限额外增加20点
+en_Vile Vibrato,In the next fight, whenever you play an Action card, your opponent is Poisoned for 1
+zh_Vile Vibrato,在下一场战斗中，每当你使用行动牌时，对手中毒1层
